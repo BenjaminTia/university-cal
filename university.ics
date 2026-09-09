@@ -242,28 +242,60 @@ DESCRIPTION:Proposed Fri 11 Sep 10:30 per email draft r2285032396232050387. Offi
 
 END:VEVENT
 
+BEGIN:VEVENT
+
+UID:9d93f8847cd24d929832449f5ea68da5@univ
+
+DTSTAMP:20260909T124318Z
+
+DTSTART;TZID=Asia/Hong_Kong:20260930T235900
+
+DTEND;TZID=Asia/Hong_Kong:20260930T235900
+
+SUMMARY:Methodist Study Trust 循道教會助學基金 2026/27 - application DUE
+
+DESCRIPTION:External grant via SAO Financial Assistance (sao_sfs@hkmu.edu.hk, 2768 6636). Eligibility check DO 25 Sep.
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:3613f17a66874432a21d6b20e1ff2312@univ
+
+DTSTAMP:20260909T124318Z
+
+DTSTART;TZID=Asia/Hong_Kong:20261015T235900
+
+DTEND;TZID=Asia/Hong_Kong:20261015T235900
+
+SUMMARY:Li Kwan Hung Education Fund 2026/27 - application DUE
+
+DESCRIPTION:hkphab.org.hk guideline PDF + online form surveycake.com/s/RQlG1. DO 14 Oct.
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+UID:f90cf1705a7a4f2ea02e11e72cf37417@univ
+
+DTSTAMP:20260909T124318Z
+
+DTSTART;TZID=Asia/Hong_Kong:20260920T235900
+
+DTEND;TZID=Asia/Hong_Kong:20260920T235900
+
+SUMMARY:明曦青年獎勵計劃 2026/27 - application DUE
+
+DESCRIPTION:Deadline 20 Sep (SAO Scholarships mail 8 Sep). Eligibility check DO 19 Sep.
+
+END:VEVENT
+
 BEGIN:VEVENT
-UID:9d93f8847cd24d929832449f5ea68da5@univ
-DTSTAMP:20260909T124318Z
-DTSTART;TZID=Asia/Hong_Kong:20260930T235900
-DTEND;TZID=Asia/Hong_Kong:20260930T235900
-SUMMARY:Methodist Study Trust 循道教會助學基金 2026/27 - application DUE
-DESCRIPTION:External grant via SAO Financial Assistance (sao_sfs@hkmu.edu.hk, 2768 6636). Eligibility check DO 25 Sep.
-END:VEVENT
-BEGIN:VEVENT
-UID:3613f17a66874432a21d6b20e1ff2312@univ
-DTSTAMP:20260909T124318Z
-DTSTART;TZID=Asia/Hong_Kong:20261015T235900
-DTEND;TZID=Asia/Hong_Kong:20261015T235900
-SUMMARY:Li Kwan Hung Education Fund 2026/27 - application DUE
-DESCRIPTION:hkphab.org.hk guideline PDF + online form surveycake.com/s/RQlG1. DO 14 Oct.
-END:VEVENT
-BEGIN:VEVENT
-UID:f90cf1705a7a4f2ea02e11e72cf37417@univ
-DTSTAMP:20260909T124318Z
-DTSTART;TZID=Asia/Hong_Kong:20260920T235900
-DTEND;TZID=Asia/Hong_Kong:20260920T235900
-SUMMARY:明曦青年獎勵計劃 2026/27 - application DUE
-DESCRIPTION:Deadline 20 Sep (SAO Scholarships mail 8 Sep). Eligibility check DO 19 Sep.
+UID:47bc4944e83d46c48682bb2760830e72@univ
+DTSTAMP:20260909T124706Z
+DTSTART;TZID=Asia/Hong_Kong:20260911T163000
+DTEND;TZID=Asia/Hong_Kong:20260911T165000
+SUMMARY:Language Centre Cantonese F2F orientation (Block A A0411)
+DESCRIPTION:eid 010765. Only free LC slot. English F2F 16:00 same room if preferred. Fri after Tong chat + add/drop errands.
 END:VEVENT
 END:VCALENDAR
