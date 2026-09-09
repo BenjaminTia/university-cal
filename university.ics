@@ -178,4 +178,28 @@ DTEND;VALUE=DATE:20261030
 SUMMARY:GYEF 2026 Forum (27-29 Oct) - register first
 DESCRIPTION:HKFYG youth entrepreneurs forum. Individual reg open - complete before Oct.
 END:VEVENT
+BEGIN:VEVENT
+UID:b419372c2100463494d5d6d1f36d2050@univ
+DTSTAMP:20260909T122512Z
+DTSTART;TZID=Asia/Hong_Kong:20260915T133000
+DTEND;TZID=Asia/Hong_Kong:20260915T173000
+SUMMARY:Student Service Fair 2026 (optional — Me&U/service angle)
+DESCRIPTION:Main campus, Siu Cho Fong Kwan Plaza (near Bank of China) + G/F. 13 topic booths, games, lucky draw (16 Sep 17:30). Free Tue after 11:50. Contact saoce@hkmu.edu.hk / 2768-6048.
+END:VEVENT
+BEGIN:VEVENT
+UID:1487ccef20344cf3aaae42d68e4bc39f@univ
+DTSTAMP:20260909T122512Z
+DTSTART;TZID=Asia/Hong_Kong:20260912T100000
+DTEND;TZID=Asia/Hong_Kong:20260912T110000
+SUMMARY:UNI 2002BEW: catch-up — induction recording + start Unit 1 (OLE)
+DESCRIPTION:Self-paced course, no classes. You missed the optional Zoom induction - watch the recording on OLE, then start Unit 1 (Effective communication). Materials release per OLE teaching schedule.
+END:VEVENT
+BEGIN:VEVENT
+UID:c7594a4cc3c14d44b16bf56f548d5575@univ
+DTSTAMP:20260909T122512Z
+DTSTART;TZID=Asia/Hong_Kong:20260927T170000
+DTEND;TZID=Asia/Hong_Kong:20260927T173000
+SUMMARY:UNI 2002BEW: Units 1-3 progress check (before W1 due 26 Oct)
+DESCRIPTION:Checkpoint: Units 1 (communication), 2 (team formation), 3 (virtual teams) should be done before the individual Worksheet 1 due Mon 26 Oct 17:00.
+END:VEVENT
 END:VCALENDAR
