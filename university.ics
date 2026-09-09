@@ -306,4 +306,12 @@ DESCRIPTION:eid 010765. Only free LC slot. English F2F 16:00 same room if prefer
 
 END:VEVENT
 
+BEGIN:VEVENT
+UID:aadb1b4e59b24f4192fc3821ede9d75d@univ
+DTSTAMP:20260909T160707Z
+DTSTART;TZID=Asia/Hong_Kong:20260913T140000
+DTEND;TZID=Asia/Hong_Kong:20260913T170000
+SUMMARY:Wireshark mastery session (networking + cyber security)
+DESCRIPTION:ELEC 3050 + ELEC 3250 use. Learn properly: layout + filters (display/capture), Follow TCP Stream, tshark basics. Course drills: 3050 - ARP/DHCP/DNS/TCP handshake; 3250 - SMB2 enumeration (replay UnknownAttack.pcap), HTTP auth, TLS. Practice: capture own traffic + re-filter lab captures. Ask Computer for a study note if wanted.
+END:VEVENT
 END:VCALENDAR
