@@ -322,4 +322,245 @@ DESCRIPTION:ELEC 3050 + ELEC 3250 use. Learn properly: layout + filters (display
 
 END:VEVENT
 
+BEGIN:VEVENT
+UID:9059a24f8ec87279c1d68b2f6958506e@hkmu
+DTSTAMP:20260910T200000Z
+DTSTART;TZID=Asia/Hong_Kong:20260911T090000
+DTEND;TZID=Asia/Hong_Kong:20260911T170000
+SUMMARY:DUE: Providence Foundation Bursary - apply in person at SAO Block A
+DESCRIPTION:Deadline 11 Sep 17:00. Verify eligibility first, bring form + supporting documents.
+END:VEVENT
+BEGIN:VEVENT
+UID:66dd4f189018595f3f1d4884319ab9fe@hkmu
+DTSTAMP:20260910T200000Z
+DTSTART;TZID=Asia/Hong_Kong:20260912T100000
+DTEND;TZID=Asia/Hong_Kong:20260912T113000
+SUMMARY:Study block: UNI 2002BEW catch-up (induction recording + Unit 1)
+DESCRIPTION:Self-paced online course. Watch induction recording, start Unit 1, do the assigned online activities + review quiz (quiz attempt once only).
+END:VEVENT
+BEGIN:VEVENT
+UID:9631da36799cee8d94312d4b8952a38c@hkmu
+DTSTAMP:20260910T200000Z
+DTSTART;TZID=Asia/Hong_Kong:20260912T180000
+DTEND;TZID=Asia/Hong_Kong:20260912T190000
+SUMMARY:Job board run: NATON AI Intern / Veolia Scheme A / Bureau Veritas
+DESCRIPTION:saojobs.hkmu.edu.hk - record requirements + HD/AD eligibility for each posting.
+END:VEVENT
+BEGIN:VEVENT
+UID:fdcf8c37ddf1f37cdde761b1d48d91ba@hkmu
+DTSTAMP:20260910T200000Z
+DTSTART;TZID=Asia/Hong_Kong:20260912T193000
+DTEND;TZID=Asia/Hong_Kong:20260912T210000
+SUMMARY:AI research 1: model merging scaling laws (HKLF follow-up)
+DESCRIPTION:From the HKLF seminar: pretraining scales the base, merging scales capabilities. Read up and write questions into the seminar note.
+END:VEVENT
+BEGIN:VEVENT
+UID:58634bfa864e0051e99e5559e3912a26@hkmu
+DTSTAMP:20260910T200000Z
+DTSTART;TZID=Asia/Hong_Kong:20260913T100000
+DTEND;TZID=Asia/Hong_Kong:20260913T120000
+SUMMARY:Revision: COMP 3500 software processes + ELEC 3050 networking
+DESCRIPTION:Descriptive material via flashcards; 3050 layers/encapsulation/ addressing with past-paper style questions.
+END:VEVENT
+BEGIN:VEVENT
+UID:a64ac4410fdecdbf543e500a0e6849ff@hkmu
+DTSTAMP:20260910T200000Z
+DTSTART;TZID=Asia/Hong_Kong:20260913T130000
+DTEND;TZID=Asia/Hong_Kong:20260913T150000
+SUMMARY:Revision: ELEC 3250 security + ELEC 3630 memory/cache
+DESCRIPTION:3250: WannaCry/UnknownAttack write-up + group A1 groundwork. 3630: Tutorial 1 (both methods) + Lecture 2 self-test.
+END:VEVENT
+BEGIN:VEVENT
+UID:8fe59d11a95cf8f9546f1fcef4516df8@hkmu
+DTSTAMP:20260910T200000Z
+DTSTART;TZID=Asia/Hong_Kong:20260913T153000
+DTEND;TZID=Asia/Hong_Kong:20260913T170000
+SUMMARY:AI research 2: FP8/FP4 low-bit training + decentralised GenAI
+DESCRIPTION:HKLF follow-up: what changes at 4-bit, why it matters for edge deployment; centralised vs decentralised infrastructure argument.
+END:VEVENT
+BEGIN:VEVENT
+UID:82ad4ad80a9fd309a25e812dcf82d057@hkmu
+DTSTAMP:20260910T200000Z
+DTSTART;TZID=Asia/Hong_Kong:20260913T170000
+DTEND;TZID=Asia/Hong_Kong:20260913T180000
+SUMMARY:Orange Pi 4 Pro: confirm A733 image + draft bring-up plan
+DESCRIPTION:Vendor page = primary source. Bring-up order: flash image, first boot, network, Python/OpenCV, servo UART test.
+END:VEVENT
+BEGIN:VEVENT
+UID:22550cb603fef11d568dd48f2f95f57c@hkmu
+DTSTAMP:20260910T200000Z
+DTSTART;TZID=Asia/Hong_Kong:20260915T133000
+DTEND;TZID=Asia/Hong_Kong:20260915T173000
+SUMMARY:Student Service Fair 2026 (day 1)
+DESCRIPTION:Siu Cho Fong Kwan Plaza + G/F. 13 booths on social issues; lucky draw entry.
+END:VEVENT
+BEGIN:VEVENT
+UID:0ecfb1fa8cbd73cd5290f5939c9a9cf9@hkmu
+DTSTAMP:20260910T200000Z
+DTSTART;TZID=Asia/Hong_Kong:20260916T133000
+DTEND;TZID=Asia/Hong_Kong:20260916T173000
+SUMMARY:Student Service Fair 2026 (day 2, lucky draw 17:30)
+DESCRIPTION:Draw at 17:30 - must be present to claim (MacBook Neo / Apple Watch / Insta360).
+END:VEVENT
+BEGIN:VEVENT
+UID:b955eab1251dab744867d9580896cf38@hkmu
+DTSTAMP:20260910T200000Z
+DTSTART;TZID=Asia/Hong_Kong:20260916T110000
+DTEND;TZID=Asia/Hong_Kong:20260916T113000
+SUMMARY:DUE: AI Builders (SmartQS Copilot) submission 11:00
+DESCRIPTION:Devpost submission + demo video (3-5 min) + repo BenjaminTia/SmartQS-Copilot.
+END:VEVENT
+BEGIN:VEVENT
+UID:922f4f73e234b0b61da89302cb8b22bd@hkmu
+DTSTAMP:20260910T200000Z
+DTSTART;TZID=Asia/Hong_Kong:20260917T000000
+DTEND;TZID=Asia/Hong_Kong:20260917T235900
+SUMMARY:Online Recruitment Talk: Administrative Officer / Executive Officer II
+DESCRIPTION:17 Sep 2026 (time per the SAO email). Government AO/EO II recruitment briefing.
+END:VEVENT
+BEGIN:VEVENT
+UID:0beb2bd6888bcb6849884bd668fe0552@hkmu
+DTSTAMP:20260910T200000Z
+DTSTART;TZID=Asia/Hong_Kong:20260916T200000
+DTEND;TZID=Asia/Hong_Kong:20260916T210000
+SUMMARY:UNI 2002BEW online lecture (Wed 20:00-21:00)
+RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20261125T120000Z
+DESCRIPTION:L02/L04 stream hosted by Ms Chiu. Meeting ID 978-4641-1066, password 9768221.
+END:VEVENT
+BEGIN:VEVENT
+UID:4e3a794d81c5cc4d4423040074e58c82@hkmu
+DTSTAMP:20260910T200000Z
+DTSTART;TZID=Asia/Hong_Kong:20260927T100000
+DTEND;TZID=Asia/Hong_Kong:20260927T120000
+SUMMARY:DEC AI Literacy: finish Modules 1-2
+DESCRIPTION:Registered 7 Sep. Module 6 must be done before Worksheet 1 Task A (26 Oct).
+END:VEVENT
+BEGIN:VEVENT
+UID:971b3de80b92815a7dc70e70d0cc3275@hkmu
+DTSTAMP:20260910T200000Z
+DTSTART;TZID=Asia/Hong_Kong:20261011T100000
+DTEND;TZID=Asia/Hong_Kong:20261011T120000
+SUMMARY:DEC AI Literacy: finish Modules 3-4
+DESCRIPTION:Keep ahead of the 26 Oct Worksheet 1.
+END:VEVENT
+BEGIN:VEVENT
+UID:13d4a7956f557d03d885936caf92f64e@hkmu
+DTSTAMP:20260910T200000Z
+DTSTART;TZID=Asia/Hong_Kong:20261018T100000
+DTEND;TZID=Asia/Hong_Kong:20261018T130000
+SUMMARY:DEC AI Literacy: finish Modules 5-6 (gates Worksheet 1 Task A)
+DESCRIPTION:Module 6 completion is required for Task A of Worksheet 1, due 26 Oct 17:00.
+END:VEVENT
+BEGIN:VEVENT
+UID:4cd6e0dc36116e161666c437a88cd74e@hkmu
+DTSTAMP:20260910T200000Z
+DTSTART;TZID=Asia/Hong_Kong:20260920T090000
+DTEND;TZID=Asia/Hong_Kong:20260920T235900
+SUMMARY:DUE: 明曦青年獎勵計劃 2026/27 application (20 Sep)
+DESCRIPTION:Deadline 20 Sep. Details + form are Chinese only - check eligibility (Information_Sheet_MINGXI.pdf) then apply.
+END:VEVENT
+BEGIN:VEVENT
+UID:c5e3ad250435162242b4baba5491ffc0@hkmu
+DTSTAMP:20260910T200000Z
+DTSTART;TZID=Asia/Hong_Kong:20260920T090000
+DTEND;TZID=Asia/Hong_Kong:20260920T235900
+SUMMARY:DUE: GenZ Innovate Hackathon B proposal email (20 Sep)
+DESCRIPTION:Teams of 3-4 HKMU students; proposal (max 2 pages + 1 diagram) to genzinnohack@hkmu.edu.hk.
+END:VEVENT
+BEGIN:VEVENT
+UID:0e658adfb9c7c886ef1c1af95ca753f4@hkmu
+DTSTAMP:20260910T200000Z
+DTSTART;TZID=Asia/Hong_Kong:20260921T160000
+DTEND;TZID=Asia/Hong_Kong:20260921T173000
+SUMMARY:Scholarships Online Info Session (Zoom) 16:00-17:30
+DESCRIPTION:Registered 8 Sep.
+END:VEVENT
+BEGIN:VEVENT
+UID:8976b3cdb1256c5c1e8a068b80a56315@hkmu
+DTSTAMP:20260910T200000Z
+DTSTART;TZID=Asia/Hong_Kong:20260923T090000
+DTEND;TZID=Asia/Hong_Kong:20260923T235900
+SUMMARY:DUE: ELEC 3250SEF Assignment 1 (hardcopy)
+DESCRIPTION:6-person group; submit in class to Yeung.
+END:VEVENT
+BEGIN:VEVENT
+UID:ecc9bdc18656ba2cb5d1902f35032bdb@hkmu
+DTSTAMP:20260910T200000Z
+DTSTART;TZID=Asia/Hong_Kong:20260927T090000
+DTEND;TZID=Asia/Hong_Kong:20260927T235900
+SUMMARY:DUE: HKMU Dream Builder Scheme application 23:59
+DESCRIPTION:Qualtrics form + PS PDF (Benjamin Harris Chen Tia_14463982.pdf) + CV + HKU SPACE official record. Quota 18-20; interview 6 Oct.
+END:VEVENT
+BEGIN:VEVENT
+UID:4f6481b23f741ca3ceebc483c3116b6d@hkmu
+DTSTAMP:20260910T200000Z
+DTSTART;TZID=Asia/Hong_Kong:20260930T090000
+DTEND;TZID=Asia/Hong_Kong:20260930T235900
+SUMMARY:DUE: 台山商會獎助學金 + Methodist Study Trust (30 Sep)
+DESCRIPTION:Both external grants close 30 Sep. Check eligibility on the SAO external grants page first.
+END:VEVENT
+BEGIN:VEVENT
+UID:c59dd17d159f443bb97709a297379bd1@hkmu
+DTSTAMP:20260910T200000Z
+DTSTART;TZID=Asia/Hong_Kong:20261001T090000
+DTEND;TZID=Asia/Hong_Kong:20261001T235900
+SUMMARY:DUE: 3 Scholarship Schemes 2026/27 (1 Oct)
+DESCRIPTION:EMSA / Outstanding Student Scholarship / Whole Person Development Award. NOTE: OSS + WPDA require non-freshman status + CGPA 3.3 / 2.5 - verify new-student eligibility with SAO before applying.
+END:VEVENT
+BEGIN:VEVENT
+UID:ea285a941b66a12cfd0db85a6dedc5ef@hkmu
+DTSTAMP:20260910T200000Z
+DTSTART;TZID=Asia/Hong_Kong:20261002T090000
+DTEND;TZID=Asia/Hong_Kong:20261002T235900
+SUMMARY:DUE (optional): Personal Finance Ambassador Programme application
+DESCRIPTION:Investor and Financial Education Council + St James' Settlement. Teams of 3-5 same-institution students; grant up to HK$5,000; certificate. Briefing 20 Sep 11:00 (optional).
+END:VEVENT
+BEGIN:VEVENT
+UID:7ece3460a6e947f136f54c44dccfb385@hkmu
+DTSTAMP:20260910T200000Z
+DTSTART;TZID=Asia/Hong_Kong:20261006T090000
+DTEND;TZID=Asia/Hong_Kong:20261006T235900
+SUMMARY:DUE: Chevening Scholarship + Dream Builder interview (6 Oct)
+DESCRIPTION:Chevening: verify 2+ years work experience requirement (likely ineligible this cycle). Dream Builder interview if shortlisted.
+END:VEVENT
+BEGIN:VEVENT
+UID:d2c59fe94ef0cf4401795801adf9b979@hkmu
+DTSTAMP:20260910T200000Z
+DTSTART;TZID=Asia/Hong_Kong:20261015T090000
+DTEND;TZID=Asia/Hong_Kong:20261015T235900
+SUMMARY:DUE: Li Kwan Hung Education Fund 2026/27 (15 Oct)
+DESCRIPTION:hkpha form.
+END:VEVENT
+BEGIN:VEVENT
+UID:80de7653c50d172cdd3dd6693df27a5a@hkmu
+DTSTAMP:20260910T200000Z
+DTSTART;TZID=Asia/Hong_Kong:20261026T090000
+DTEND;TZID=Asia/Hong_Kong:20261026T170000
+SUMMARY:DUE: UNI 2002BEW Worksheet 1 (individual) 17:00
+DESCRIPTION:Task A (40%): DEC AI Literacy Module 6 + Task B (60%): reflective learning journal. APA 7th + GenAI declaration.
+END:VEVENT
+BEGIN:VEVENT
+UID:fdb2b9e21da7e7fcde5955758478e74f@hkmu
+DTSTAMP:20260910T200000Z
+DTSTART;TZID=Asia/Hong_Kong:20261116T090000
+DTEND;TZID=Asia/Hong_Kong:20261116T170000
+SUMMARY:DUE: UNI 2002BEW Worksheet 2 (group) + peer evaluation 17:00
+DESCRIPTION:Task C campaign plan (40%) + Task D team-performance evaluation with video (60%); every member uploads a peer evaluation form.
+END:VEVENT
+BEGIN:VEVENT
+UID:af8b1a50406fb1673c5e8b2a519e2dfc@hkmu
+DTSTAMP:20260910T200000Z
+DTSTART;TZID=Asia/Hong_Kong:20261128T130000
+DTEND;TZID=Asia/Hong_Kong:20261128T160000
+SUMMARY:UNI 2002BEW COMPULSORY Day School 13:00-16:00 (T48)
+DESCRIPTION:New World Millennium Hong Kong Hotel, Grand Ballroom, 72 Mody Road, Tsim Sha Tsui East. Absence = automatic fail. Worksheet 3 uploaded before the session ends.
+END:VEVENT
+BEGIN:VEVENT
+UID:178866abb40c2e6ba2d57dd1cd2a59e7@hkmu
+DTSTAMP:20260910T200000Z
+DTSTART;TZID=Asia/Hong_Kong:20261129T090000
+DTEND;TZID=Asia/Hong_Kong:20261129T235900
+SUMMARY:DUE: UNI 2002BEW all online tasks + review quizzes close 23:59
+DESCRIPTION:60% component. Quizzes attempt once only; nothing after 29 Nov 23:59 counts.
+END:VEVENT
 END:VCALENDAR
