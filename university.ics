@@ -193,23 +193,6 @@ SUMMARY:Student Service Fair 2026 (optional — Me&U/service angle)
 DESCRIPTION:Main campus, Siu Cho Fong Kwan Plaza (near Bank of China) + G/F. 13 topic booths, games, lucky draw (16 Sep 17:30). Free Tue after 11:50. Contact saoce@hkmu.edu.hk / 2768-6048.
 
 END:VEVENT
-
-BEGIN:VEVENT
-
-UID:1487ccef20344cf3aaae42d68e4bc39f@univ
-
-DTSTAMP:20260909T122512Z
-
-DTSTART;TZID=Asia/Hong_Kong:20260912T100000
-
-DTEND;TZID=Asia/Hong_Kong:20260912T110000
-
-SUMMARY:UNI 2002BEW: catch-up — induction recording + start Unit 1 (OLE)
-
-DESCRIPTION:Self-paced course, no classes. You missed the optional Zoom induction - watch the recording on OLE, then start Unit 1 (Effective communication). Materials release per OLE teaching schedule.
-
-END:VEVENT
-
 BEGIN:VEVENT
 
 UID:c7594a4cc3c14d44b16bf56f548d5575@univ
@@ -225,7 +208,6 @@ SUMMARY:UNI 2002BEW: Units 1-3 progress check (before W1 due 26 Oct)
 DESCRIPTION:Checkpoint: Units 1 (communication), 2 (team formation), 3 (virtual teams) should be done before the individual Worksheet 1 due Mon 26 Oct 17:00.
 
 END:VEVENT
-
 BEGIN:VEVENT
 
 UID:0d704f920746450a836a3084283c5730@univ
@@ -241,7 +223,6 @@ SUMMARY:Dr Tong office chat (A0339) - IEEE branch [TENTATIVE: Mon 14 Sep 10:00 p
 DESCRIPTION:Proposed Mon 14 Sep 10:00 per email draft r2285032396232050387. Office A0339 Main Campus. Topics: IEEE student branch joining, RISC-V help. Confirm when he replies.
 
 END:VEVENT
-
 BEGIN:VEVENT
 
 UID:9d93f8847cd24d929832449f5ea68da5@univ
@@ -257,7 +238,6 @@ SUMMARY:Methodist Study Trust 循道教會助學基金 2026/27 - application DUE
 DESCRIPTION:External grant via SAO Financial Assistance (sao_sfs@hkmu.edu.hk, 2768 6636). Eligibility check DO 25 Sep.
 
 END:VEVENT
-
 BEGIN:VEVENT
 
 UID:3613f17a66874432a21d6b20e1ff2312@univ
@@ -273,7 +253,6 @@ SUMMARY:Li Kwan Hung Education Fund 2026/27 - application DUE
 DESCRIPTION:hkphab.org.hk guideline PDF + online form surveycake.com/s/RQlG1. DO 14 Oct.
 
 END:VEVENT
-
 BEGIN:VEVENT
 
 UID:f90cf1705a7a4f2ea02e11e72cf37417@univ
@@ -289,7 +268,6 @@ SUMMARY:明曦青年獎勵計劃 2026/27 - application DUE
 DESCRIPTION:Deadline 20 Sep (SAO Scholarships mail 8 Sep). Eligibility check DO 19 Sep.
 
 END:VEVENT
-
 BEGIN:VEVENT
 
 UID:47bc4944e83d46c48682bb2760830e72@univ
@@ -305,7 +283,6 @@ SUMMARY:Language Centre Cantonese F2F orientation (Block A A0411)
 DESCRIPTION:eid 010765. Only free LC slot. English F2F 16:00 same room if preferred. Tong chat moved to Mon 14 Sep 10:00; Fri = add/drop errands + LC orientation.
 
 END:VEVENT
-
 BEGIN:VEVENT
 
 UID:aadb1b4e59b24f4192fc3821ede9d75d@univ
@@ -321,7 +298,6 @@ SUMMARY:Wireshark mastery session Sat (networking + cyber security)
 DESCRIPTION:ELEC 3050 + ELEC 3250 use. Learn properly: layout + filters (display/capture), Follow TCP Stream, tshark basics. Course drills: 3050 - ARP/DHCP/DNS/TCP handshake; 3250 - SMB2 enumeration (replay UnknownAttack.pcap), HTTP auth, TLS. Practice: capture own traffic + re-filter lab captures. Ask Computer for a study note if wanted.
 
 END:VEVENT
-
 BEGIN:VEVENT
 UID:9059a24f8ec87279c1d68b2f6958506e@hkmu
 DTSTAMP:20260910T200000Z
@@ -331,52 +307,12 @@ SUMMARY:DUE: Providence Foundation Bursary - apply in person at SAO Block A
 DESCRIPTION:Deadline 11 Sep 17:00. Verify eligibility first, bring form + supporting documents.
 END:VEVENT
 BEGIN:VEVENT
-UID:66dd4f189018595f3f1d4884319ab9fe@hkmu
-DTSTAMP:20260910T200000Z
-DTSTART;TZID=Asia/Hong_Kong:20260912T100000
-DTEND;TZID=Asia/Hong_Kong:20260912T113000
-SUMMARY:Study block: UNI 2002BEW catch-up (induction recording + Unit 1)
-DESCRIPTION:Self-paced online course. Watch induction recording, start Unit 1, do the assigned online activities + review quiz (quiz attempt once only).
-END:VEVENT
-BEGIN:VEVENT
 UID:9631da36799cee8d94312d4b8952a38c@hkmu
 DTSTAMP:20260910T200000Z
 DTSTART;TZID=Asia/Hong_Kong:20260912T180000
 DTEND;TZID=Asia/Hong_Kong:20260912T190000
 SUMMARY:Job board run: NATON AI Intern / Veolia Scheme A / Bureau Veritas
 DESCRIPTION:saojobs.hkmu.edu.hk - record requirements + HD/AD eligibility for each posting.
-END:VEVENT
-BEGIN:VEVENT
-UID:fdcf8c37ddf1f37cdde761b1d48d91ba@hkmu
-DTSTAMP:20260910T200000Z
-DTSTART;TZID=Asia/Hong_Kong:20260912T193000
-DTEND;TZID=Asia/Hong_Kong:20260912T210000
-SUMMARY:AI research 1: model merging scaling laws (HKLF follow-up)
-DESCRIPTION:From the HKLF seminar: pretraining scales the base, merging scales capabilities. Read up and write questions into the seminar note.
-END:VEVENT
-BEGIN:VEVENT
-UID:58634bfa864e0051e99e5559e3912a26@hkmu
-DTSTAMP:20260910T200000Z
-DTSTART;TZID=Asia/Hong_Kong:20260913T100000
-DTEND;TZID=Asia/Hong_Kong:20260913T120000
-SUMMARY:Revision: COMP 3500 software processes + ELEC 3050 networking
-DESCRIPTION:Descriptive material via flashcards; 3050 layers/encapsulation/ addressing with past-paper style questions.
-END:VEVENT
-BEGIN:VEVENT
-UID:a64ac4410fdecdbf543e500a0e6849ff@hkmu
-DTSTAMP:20260910T200000Z
-DTSTART;TZID=Asia/Hong_Kong:20260913T130000
-DTEND;TZID=Asia/Hong_Kong:20260913T150000
-SUMMARY:Revision: ELEC 3250 security + ELEC 3630 memory/cache
-DESCRIPTION:3250: WannaCry/UnknownAttack write-up + group A1 groundwork. 3630: Tutorial 1 (both methods) + Lecture 2 self-test.
-END:VEVENT
-BEGIN:VEVENT
-UID:8fe59d11a95cf8f9546f1fcef4516df8@hkmu
-DTSTAMP:20260910T200000Z
-DTSTART;TZID=Asia/Hong_Kong:20260913T153000
-DTEND;TZID=Asia/Hong_Kong:20260913T170000
-SUMMARY:AI research 2: FP8/FP4 low-bit training + decentralised GenAI
-DESCRIPTION:HKLF follow-up: what changes at 4-bit, why it matters for edge deployment; centralised vs decentralised infrastructure argument.
 END:VEVENT
 BEGIN:VEVENT
 UID:82ad4ad80a9fd309a25e812dcf82d057@hkmu
@@ -562,5 +498,93 @@ DTSTART;TZID=Asia/Hong_Kong:20261129T090000
 DTEND;TZID=Asia/Hong_Kong:20261129T235900
 SUMMARY:DUE: UNI 2002BEW all online tasks + review quizzes close 23:59
 DESCRIPTION:60% component. Quizzes attempt once only; nothing after 29 Nov 23:59 counts.
+END:VEVENT
+BEGIN:VEVENT
+UID:9e1447fb85ca09bedc3d02bb7a7320d2@hkmu
+DTSTAMP:20260910T210000Z
+DTSTART;TZID=Asia/Hong_Kong:20260910T210000
+DTEND;TZID=Asia/Hong_Kong:20260910T221500
+SUMMARY:Thu night block: ELEC 3630 Tutorial 1 review + flashcard pass
+DESCRIPTION:Light evening work: re-read the Tutorial 1 note (pins, capacity, DDR naming, DDR2 timing) and run one flashcard pass.
+END:VEVENT
+BEGIN:VEVENT
+UID:5ac7e214b0f7d5f539585035ccbdb592@hkmu
+DTSTAMP:20260910T210000Z
+DTSTART;TZID=Asia/Hong_Kong:20260910T220000
+DTEND;TZID=Asia/Hong_Kong:20260910T224500
+SUMMARY:Thu night block: email batch (Au Yeung / Wang / Tong / Guo)
+DESCRIPTION:Send the three guidance emails from Outlook; hunt the REGEN AI contact address for the Guo draft.
+END:VEVENT
+BEGIN:VEVENT
+UID:44268fb1a32886b5b781d177e5ad2703@hkmu
+DTSTAMP:20260910T210000Z
+DTSTART;TZID=Asia/Hong_Kong:20260911T090000
+DTEND;TZID=Asia/Hong_Kong:20260911T103000
+SUMMARY:Study: ELEC 3250 A1 groundwork (priority 1)
+DESCRIPTION:Assignment 1 due 23 Sep (hardcopy). 6-person group; secure the group and start the analysis.
+END:VEVENT
+BEGIN:VEVENT
+UID:4dacf5df9572b3f46f518113840cdfe7@hkmu
+DTSTAMP:20260910T210000Z
+DTSTART;TZID=Asia/Hong_Kong:20260911T104500
+DTEND;TZID=Asia/Hong_Kong:20260911T121500
+SUMMARY:Study: ELEC 3050 networking review + past-paper questions
+DESCRIPTION:Layers, encapsulation, addressing. Test 2 Nov.
+END:VEVENT
+BEGIN:VEVENT
+UID:972ebac05b8edce33f58162fbb49c0de@hkmu
+DTSTAMP:20260910T210000Z
+DTSTART;TZID=Asia/Hong_Kong:20260911T130000
+DTEND;TZID=Asia/Hong_Kong:20260911T141500
+SUMMARY:Study: ELEC 3630 Tutorial 2 + cache self-test
+DESCRIPTION:Cache mapping, tag overhead, refill boundary. Tutorial 2 due weekly.
+END:VEVENT
+BEGIN:VEVENT
+UID:6737d7163c52370420137dbc89d43389@hkmu
+DTSTAMP:20260910T210000Z
+DTSTART;TZID=Asia/Hong_Kong:20260911T143000
+DTEND;TZID=Asia/Hong_Kong:20260911T153000
+SUMMARY:Providence Bursary: SAO Block A visit (deadline 17:00)
+DESCRIPTION:Verify eligibility, then submit in person with form + supporting documents.
+END:VEVENT
+BEGIN:VEVENT
+UID:d926353e880ffb36e63fb62ecd0f17b9@hkmu
+DTSTAMP:20260910T210000Z
+DTSTART;TZID=Asia/Hong_Kong:20260911T173000
+DTEND;TZID=Asia/Hong_Kong:20260911T190000
+SUMMARY:UNI 2002BEW: read notes, then dive into Unit 1 (+ DEC registration)
+DESCRIPTION:No Zoom recording review. Read the course note first, then go straight into Unit 1 assigned activities. Register/log in to the DEC 'AI Literacy for All' course.
+END:VEVENT
+BEGIN:VEVENT
+UID:d8b11baebaa217f36cf74b95e6a92aa9@hkmu
+DTSTAMP:20260910T210000Z
+DTSTART;TZID=Asia/Hong_Kong:20260912T100000
+DTEND;TZID=Asia/Hong_Kong:20260912T113000
+SUMMARY:Saturday: COMP 3500 revision (software processes + flashcards)
+DESCRIPTION:Coursework on Saturday, kept clear of Sunday.
+END:VEVENT
+BEGIN:VEVENT
+UID:81422f6a6a9e10c380003fa8511a3a1b@hkmu
+DTSTAMP:20260910T210000Z
+DTSTART;TZID=Asia/Hong_Kong:20260913T100000
+DTEND;TZID=Asia/Hong_Kong:20260913T130000
+SUMMARY:SCORPIO: leg/chassis STL into MuJoCo + IK validation
+DESCRIPTION:Own work. No coursework today.
+END:VEVENT
+BEGIN:VEVENT
+UID:03c5be7a9cccb03ad98cdde4edc97d94@hkmu
+DTSTAMP:20260910T210000Z
+DTSTART;TZID=Asia/Hong_Kong:20260913T140000
+DTEND;TZID=Asia/Hong_Kong:20260913T153000
+SUMMARY:SCORPIO: Orange Pi 4 Pro bring-up prep (image + wiring check)
+DESCRIPTION:Confirm the A733 Ubuntu/Debian image exists (vendor page), prep flash + first-boot plan.
+END:VEVENT
+BEGIN:VEVENT
+UID:77c5d707238d926b211d9d9fc2086433@hkmu
+DTSTAMP:20260910T210000Z
+DTSTART;TZID=Asia/Hong_Kong:20260913T153000
+DTEND;TZID=Asia/Hong_Kong:20260913T180000
+SUMMARY:HKLF -> SCORPIO: integrate seminar findings into the build
+DESCRIPTION:The single HKLF day: merge the useful seminar material (edge perception, model merging/composition, low-bit deployment) into SCORPIO's software and AI stack notes.
 END:VEVENT
 END:VCALENDAR
