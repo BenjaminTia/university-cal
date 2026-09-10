@@ -648,4 +648,18 @@ DESCRIPTION:The single HKLF day. Pull the useful seminar material into S
  g Systems https://mlsysbook.ai/ | Drepper on memory https://people.free
  bsd.org/~lstewart/articles/cpumemory.pdf
 END:VEVENT
+BEGIN:VEVENT
+UID:8af0229d137bc06af2c8eceaf9245034@hkmu
+DTSTAMP:20260911T001500Z
+DTSTART;TZID=Asia/Hong_Kong:20261005T183000
+DTEND;TZID=Asia/Hong_Kong:20261005T200000
+SUMMARY:Eason Chan x HKMU talk (陳奕迅 X 都大師生) - 5 Oct 18:30
+DESCRIPTION:Cantonese-language talk\, Main Campus Multi-purpose Hall 10/
+ F. Host Prof Chow Yiu Fai\; speakers Dr Wong Wing Sze\, Dr Tsang Chi Ch
+ ung\, Mr Chan Ching Fan + HKMU students. Free\, seats first-come-first-
+ served\, online registration via poster QR. Awareness only - likely not
+  attending. No timetable clash (Mon class ends 13:50). Registration lin
+ k UNVERIFIED: poster QR would not decode and HKMU public site does not 
+ list it.
+END:VEVENT
 END:VCALENDAR
