@@ -295,8 +295,14 @@ DTEND;TZID=Asia/Hong_Kong:20260912T170000
 
 SUMMARY:Wireshark mastery session Sat (networking + cyber security)
 
-DESCRIPTION:ELEC 3050 + ELEC 3250 use. Learn properly: layout + filters (display/capture), Follow TCP Stream, tshark basics. Course drills: 3050 - ARP/DHCP/DNS/TCP handshake; 3250 - SMB2 enumeration (replay UnknownAttack.pcap), HTTP auth, TLS. Practice: capture own traffic + re-filter lab captures. Ask Computer for a study note if wanted.
 
+DESCRIPTION:Chris Greer (the field's Wireshark teacher): beginners tutor
+ ial https://www.youtube.com/watch?v=OU-A2EmVrKQ | DNS captured https://
+ www.youtube.com/watch?v=fRRR0sU0BnY\nOfficial lab sheets: https://gaia.
+ cs.umass.edu/kurose_ross/wireshark.php\nReal captures to practise on: h
+ ttps://wiki.wireshark.org/SampleCaptures\nTarget: filters\, Follow Stre
+ am\, Protocol Hierarchy\, tshark\, replay UnknownAttack.pcap cold\, own
+  live capture\, cheat sheet from memory.
 END:VEVENT
 BEGIN:VEVENT
 UID:9059a24f8ec87279c1d68b2f6958506e@hkmu
@@ -505,7 +511,12 @@ DTSTAMP:20260910T210000Z
 DTSTART;TZID=Asia/Hong_Kong:20260910T210000
 DTEND;TZID=Asia/Hong_Kong:20260910T221500
 SUMMARY:Thu night block: ELEC 3630 Tutorial 1 review + flashcard pass
-DESCRIPTION:Light evening work: re-read the Tutorial 1 note (pins, capacity, DDR naming, DDR2 timing) and run one flashcard pass.
+
+DESCRIPTION:Quick pass\, 75 min: Neso Academy 'Introduction to Memory' t
+ hen 'Memory Hierarchy & Interfacing' (short\, simple).\nThen re-read yo
+ ur Tutorial 1 note: address pins\, capacity = cells x data width\, DDR 
+ naming\, DDR2 timing.\nVideo: https://www.youtube.com/watch?v=PujjqfUht
+ No | https://www.youtube.com/watch?v=lQcU4WwVALI
 END:VEVENT
 BEGIN:VEVENT
 UID:5ac7e214b0f7d5f539585035ccbdb592@hkmu
@@ -521,7 +532,14 @@ DTSTAMP:20260910T210000Z
 DTSTART;TZID=Asia/Hong_Kong:20260911T090000
 DTEND;TZID=Asia/Hong_Kong:20260911T103000
 SUMMARY:Study: ELEC 3250 A1 groundwork (priority 1)
-DESCRIPTION:Assignment 1 due 23 Sep (hardcopy). 6-person group; secure the group and start the analysis.
+
+DESCRIPTION:Assignments first (A1 due 23 Sep\, hardcopy). Concept refres
+ h while working:\nComputerphile: TLS https://www.youtube.com/watch?v=0T
+ LDTodL7Lc | Diffie-Hellman https://www.youtube.com/watch?v=NmM9HA2MQGI 
+ | passwords https://www.youtube.com/watch?v=8ZtInClXe1Q\nReference text
+ : Ross Anderson\, Security Engineering (free PDF) https://www.cl.cam.ac
+ .uk/~rja14/book.html\nHands-on: PortSwigger Web Security Academy https:
+ //portswigger.net/web-security
 END:VEVENT
 BEGIN:VEVENT
 UID:4dacf5df9572b3f46f518113840cdfe7@hkmu
@@ -529,7 +547,14 @@ DTSTAMP:20260910T210000Z
 DTSTART;TZID=Asia/Hong_Kong:20260911T104500
 DTEND;TZID=Asia/Hong_Kong:20260911T121500
 SUMMARY:Study: ELEC 3050 networking review + past-paper questions
-DESCRIPTION:Layers, encapsulation, addressing. Test 2 Nov.
+
+DESCRIPTION:Author-taught lectures: Kurose 1.1 https://www.youtube.com/w
+ atch?v=74sEFYBBRAY | 3.1 transport https://www.youtube.com/watch?v=lAvh
+ H0XJLNE | 4.1 network layer https://www.youtube.com/watch?v=olbr3WZwrdU
+ \nTCP in one sitting: Practical Networking https://www.youtube.com/watc
+ h?v=JFch3ctY6nE\nOfficial Wireshark labs (the skill the test asks for):
+  https://gaia.cs.umass.edu/kurose_ross/wireshark.php\nFull free course:
+  Stanford CS144 https://web.stanford.edu/class/cs144/
 END:VEVENT
 BEGIN:VEVENT
 UID:972ebac05b8edce33f58162fbb49c0de@hkmu
@@ -537,7 +562,14 @@ DTSTAMP:20260910T210000Z
 DTSTART;TZID=Asia/Hong_Kong:20260911T130000
 DTEND;TZID=Asia/Hong_Kong:20260911T141500
 SUMMARY:Study: ELEC 3630 Tutorial 2 + cache self-test
-DESCRIPTION:Cache mapping, tag overhead, refill boundary. Tutorial 2 due weekly.
+
+DESCRIPTION:Memory hierarchy\, properly: Onur Mutlu L21 https://www.yout
+ ube.com/watch?v=wTz-d6XiB_Y | L22 https://www.youtube.com/watch?v=1zXDo
+ DDkICQ | L23 https://www.youtube.com/watch?v=DJ_fo89PPik\nSecond angle:
+  CMU Lecture 22 https://www.youtube.com/watch?v=JBdfZ5i21cs\nDeep end (
+ DRAM\, caches\, prefetch): Drepper PDF https://people.freebsd.org/~lste
+ wart/articles/cpumemory.pdf\nDo: Tutorial 2 mapping questions + one ful
+ l self-test from memory.
 END:VEVENT
 BEGIN:VEVENT
 UID:6737d7163c52370420137dbc89d43389@hkmu
@@ -553,7 +585,16 @@ DTSTAMP:20260910T210000Z
 DTSTART;TZID=Asia/Hong_Kong:20260911T173000
 DTEND;TZID=Asia/Hong_Kong:20260911T190000
 SUMMARY:UNI 2002BEW: read notes, then dive into Unit 1 (+ DEC registration)
-DESCRIPTION:No Zoom recording review. Read the course note first, then go straight into Unit 1 assigned activities. Register/log in to the DEC 'AI Literacy for All' course.
+
+DESCRIPTION:Method: read the course note first\, then straight into Unit
+  1 - no Zoom recording.\nAI co-creation (the course's core): Mollick\, 
+ Co-Intelligence https://www.youtube.com/watch?v=8FnOkxj0ZuA | Stanford 
+ GSB https://www.youtube.com/watch?v=sOeNWib_nvo\nUnit 5 (psych safety):
+  Edmondson TEDx https://www.youtube.com/watch?v=LhoLuui9gX8 | TED https
+ ://www.youtube.com/watch?v=3boKz0Exros\nUnit 4 (conflict): Rosenberg NV
+ C workshop https://www.youtube.com/watch?v=nWb2B2uPfMo\nAlso: register/
+ log in at the DEC 'AI Literacy for All' course (separate login from HKM
+ U).
 END:VEVENT
 BEGIN:VEVENT
 UID:d8b11baebaa217f36cf74b95e6a92aa9@hkmu
@@ -561,7 +602,11 @@ DTSTAMP:20260910T210000Z
 DTSTART;TZID=Asia/Hong_Kong:20260912T100000
 DTEND;TZID=Asia/Hong_Kong:20260912T113000
 SUMMARY:Saturday: COMP 3500 revision (software processes + flashcards)
-DESCRIPTION:Coursework on Saturday, kept clear of Sunday.
+
+DESCRIPTION:Author's own videos: Ian Sommerville https://www.youtube.com
+ /watch?v=Z2no7DxDWRI\nBest written rigor (specs\, testing\, abstraction
+ ): MIT 6.031 https://web.mit.edu/6.031/www/sp21/\nThen one flashcard pa
+ ss on the COMP 3500 deck.
 END:VEVENT
 BEGIN:VEVENT
 UID:81422f6a6a9e10c380003fa8511a3a1b@hkmu
@@ -569,7 +614,11 @@ DTSTAMP:20260910T210000Z
 DTSTART;TZID=Asia/Hong_Kong:20260913T100000
 DTEND;TZID=Asia/Hong_Kong:20260913T130000
 SUMMARY:SCORPIO: leg/chassis STL into MuJoCo + IK validation
-DESCRIPTION:Own work. No coursework today.
+
+DESCRIPTION:Own work only today.\nSystems grounding: OSTEP free book htt
+ ps://pages.cs.wisc.edu/~remzi/OSTEP/ | CMU 15-213 https://www.cs.cmu.ed
+ u/~213/\nArchitecture/limits: Onur Mutlu lectures (see the study source
+ s note in the vault).
 END:VEVENT
 BEGIN:VEVENT
 UID:03c5be7a9cccb03ad98cdde4edc97d94@hkmu
@@ -577,7 +626,11 @@ DTSTAMP:20260910T210000Z
 DTSTART;TZID=Asia/Hong_Kong:20260913T140000
 DTEND;TZID=Asia/Hong_Kong:20260913T153000
 SUMMARY:SCORPIO: Orange Pi 4 Pro bring-up prep (image + wiring check)
-DESCRIPTION:Confirm the A733 Ubuntu/Debian image exists (vendor page), prep flash + first-boot plan.
+
+DESCRIPTION:Confirm the A733 Ubuntu/Debian image on the vendor page (pri
+ mary source) before flashing.\nEdge deployment background: Machine Lear
+ ning Systems (Harvard CS249r\, free) https://mlsysbook.ai/ | MIT HAN La
+ b https://www.youtube.com/watch?v=J4olmnIwgtk
 END:VEVENT
 BEGIN:VEVENT
 UID:77c5d707238d926b211d9d9fc2086433@hkmu
@@ -585,6 +638,14 @@ DTSTAMP:20260910T210000Z
 DTSTART;TZID=Asia/Hong_Kong:20260913T153000
 DTEND;TZID=Asia/Hong_Kong:20260913T180000
 SUMMARY:HKLF -> SCORPIO: integrate seminar findings into the build
-DESCRIPTION:The single HKLF day: merge the useful seminar material (edge perception, model merging/composition, low-bit deployment) into SCORPIO's software and AI stack notes.
+
+DESCRIPTION:The single HKLF day. Pull the useful seminar material into S
+ CORPIO's software and AI-stack notes:\n- edge perception and what chang
+ es when models run on-device\n- model merging/composition as a capabili
+ ty axis (pretraining scales the base\, merging scales capabilities)\n- 
+ low-bit (FP8/FP4) deployment constraints\n- verifiable evidence ledger 
+ for the build log (claims + evidence + tests)\nReading: Machine Learnin
+ g Systems https://mlsysbook.ai/ | Drepper on memory https://people.free
+ bsd.org/~lstewart/articles/cpumemory.pdf
 END:VEVENT
 END:VCALENDAR
