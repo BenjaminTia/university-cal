@@ -321,14 +321,6 @@ SUMMARY:Job board run: NATON AI Intern / Veolia Scheme A / Bureau Veritas
 DESCRIPTION:saojobs.hkmu.edu.hk - record requirements + HD/AD eligibility for each posting.
 END:VEVENT
 BEGIN:VEVENT
-UID:82ad4ad80a9fd309a25e812dcf82d057@hkmu
-DTSTAMP:20260910T200000Z
-DTSTART;TZID=Asia/Hong_Kong:20260913T170000
-DTEND;TZID=Asia/Hong_Kong:20260913T180000
-SUMMARY:Orange Pi 4 Pro: confirm A733 image + draft bring-up plan
-DESCRIPTION:Vendor page = primary source. Bring-up order: flash image, first boot, network, Python/OpenCV, servo UART test.
-END:VEVENT
-BEGIN:VEVENT
 UID:22550cb603fef11d568dd48f2f95f57c@hkmu
 DTSTAMP:20260910T200000Z
 DTSTART;TZID=Asia/Hong_Kong:20260915T133000
