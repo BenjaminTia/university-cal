@@ -214,13 +214,13 @@ UID:0d704f920746450a836a3084283c5730@univ
 
 DTSTAMP:20260909T122936Z
 
-DTSTART;TZID=Asia/Hong_Kong:20260914T150000
+DTSTART;TZID=Asia/Hong_Kong:20260915T140000
 
-DTEND;TZID=Asia/Hong_Kong:20260914T154000
+DTEND;TZID=Asia/Hong_Kong:20260915T144000
 
-SUMMARY:Dr Tong office chat (A0339) - IEEE branch [TENTATIVE: Mon 14 Sep 15:00 proposed]
+SUMMARY:Dr Tong office chat (A0339) - IEEE branch [TENTATIVE: Tue 15 Sep 14:00 proposed]
 
-DESCRIPTION:Proposed Mon 14 Sep 15:00 per email draft r2285032396232050387 (last class ends 13:50, afternoon kept clear). Office A0339 Main Campus. Topics: IEEE student branch joining, RISC-V help. Confirm when he replies.
+DESCRIPTION:Proposed Tue 15 Sep 14:00 per email draft r2285032396232050387 (Tue classes end 11:50; Monday dropped as too short notice). Office A0339 Main Campus. Topics: IEEE student branch joining, RISC-V help. Confirm when he replies.
 
 END:VEVENT
 BEGIN:VEVENT
@@ -280,7 +280,7 @@ DTEND;TZID=Asia/Hong_Kong:20260911T165000
 
 SUMMARY:Language Centre Cantonese F2F orientation (Block A A0411)
 
-DESCRIPTION:eid 010765. Only free LC slot. English F2F 16:00 same room if preferred. Tong chat moved to Mon 14 Sep 15:00; Fri = add/drop errands + LC orientation.
+DESCRIPTION:eid 010765. Only free LC slot. English F2F 16:00 same room if preferred. Tong chat moved to Tue 15 Sep 14:00; Fri = add/drop errands + LC orientation.
 
 END:VEVENT
 BEGIN:VEVENT
