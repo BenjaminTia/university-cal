@@ -488,14 +488,6 @@ SUMMARY:SAT AM: emails + UNI 2002BEW Unit 1 + DEC modules
 DESCRIPTION:10:00 send Tong draft (books Tue 15 Sep 14:00), then Au Yeung + Wang from Outlook. 11:00 UNI 2002BEW Unit 1 activities + review quiz (once only) + register DEC Modules 1-2.
 END:VEVENT
 BEGIN:VEVENT
-UID:e67375ae9b26f814b8ebaf49c16ce657@hkmu
-DTSTAMP:20260912T010000Z
-DTSTART;TZID=Asia/Hong_Kong:20260912T120000
-DTEND;TZID=Asia/Hong_Kong:20260912T133000
-SUMMARY:SAT: ELEC 3250 A1 groundwork + 15 min admin
-DESCRIPTION:12:00 ELEC 3250 A1 groundwork (priority 1, due 23 Sep hardcopy). 13:00 admin 15 min: GYEF registration, 3630 OLE extra-lesson check, Eason talk registration, Language Centre rebooking.
-END:VEVENT
-BEGIN:VEVENT
 UID:10e5bd97325e6a76ef8d9edfc7bf9ffd@hkmu
 DTSTAMP:20260912T010000Z
 DTSTART;TZID=Asia/Hong_Kong:20260912T170000
