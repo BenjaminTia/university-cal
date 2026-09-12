@@ -313,7 +313,7 @@ UID:4e3a794d81c5cc4d4423040074e58c82@hkmu
 DTSTAMP:20260910T200000Z
 DTSTART;TZID=Asia/Hong_Kong:20261004T100000
 DTEND;TZID=Asia/Hong_Kong:20261004T120000
-SUMMARY:DEC: confirm Modules 1-3 complete (reported via unit summary) · start Module 4
+SUMMARY:DEC: finish Modules 1-2 (⚠️ access still locked)
 DESCRIPTION:Registered 7 Sep. Module 6 must be done before Worksheet 1 Task A (26 Oct).
 END:VEVENT
 BEGIN:VEVENT
@@ -321,7 +321,7 @@ UID:971b3de80b92815a7dc70e70d0cc3275@hkmu
 DTSTAMP:20260910T200000Z
 DTSTART;TZID=Asia/Hong_Kong:20261018T100000
 DTEND;TZID=Asia/Hong_Kong:20261018T120000
-SUMMARY:DEC: finish Module 4
+SUMMARY:DEC: finish Modules 3-4
 DESCRIPTION:Keep ahead of the 26 Oct Worksheet 1.
 END:VEVENT
 BEGIN:VEVENT
