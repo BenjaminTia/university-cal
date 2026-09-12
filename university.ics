@@ -26,13 +26,6 @@ DTEND;TZID=Asia/Hong_Kong:20261007T180000
 SUMMARY:ELEC 3250 A2 hardcopy (week 6 lecture)
 END:VEVENT
 BEGIN:VEVENT
-UID:6db410990a3b4542afad66f941393bd8@hkmu
-DTSTAMP:20260908T161340Z
-DTSTART;TZID=Asia/Hong_Kong:20261026T170000
-DTEND;TZID=Asia/Hong_Kong:20261026T170000
-SUMMARY:UNI 2002BEW Assignment 2 (individual, 10%)
-END:VEVENT
-BEGIN:VEVENT
 UID:bb0975bad17a427d8c4f764258087179@hkmu
 DTSTAMP:20260908T161340Z
 DTSTART;TZID=Asia/Hong_Kong:20261102T110000
@@ -41,26 +34,12 @@ SUMMARY:ELEC 3050SEF TEST (11:00-12:00)
 DESCRIPTION:C0G01. Review week 19 Oct (no class).
 END:VEVENT
 BEGIN:VEVENT
-UID:ea2e2ebc2f2c4940b99bb603202ca234@hkmu
-DTSTAMP:20260908T161340Z
-DTSTART;TZID=Asia/Hong_Kong:20261116T170000
-DTEND;TZID=Asia/Hong_Kong:20261116T170000
-SUMMARY:UNI 2002BEW Assignment 1 (group, 20%)
-END:VEVENT
-BEGIN:VEVENT
 UID:b2bccafe5ed74e4f84c0837e82c97a95@hkmu
 DTSTAMP:20260908T161340Z
 DTSTART;TZID=Asia/Hong_Kong:20261128T130000
 DTEND;TZID=Asia/Hong_Kong:20261128T160000
 SUMMARY:UNI 2002BEW Day School - YOUR session: Sat 28 Nov 1-4pm
 DESCRIPTION:New World Millennium. Missing = FAIL.
-END:VEVENT
-BEGIN:VEVENT
-UID:468062e4e67f4042885b5f25daadf733@hkmu
-DTSTAMP:20260908T161340Z
-DTSTART;TZID=Asia/Hong_Kong:20261129T235900
-DTEND;TZID=Asia/Hong_Kong:20261129T235900
-SUMMARY:UNI 2002BEW online tasks deadline (60%)
 END:VEVENT
 BEGIN:VEVENT
 UID:060f8ff83afb4e568f6cb4fed8e0f370@hkmu
@@ -262,15 +241,6 @@ SUMMARY:Online Recruitment Talk: Administrative Officer / Executive Officer II
 DESCRIPTION:17 Sep 2026 (time per the SAO email). Government AO/EO II recruitment briefing.
 END:VEVENT
 BEGIN:VEVENT
-UID:0beb2bd6888bcb6849884bd668fe0552@hkmu
-DTSTAMP:20260910T200000Z
-DTSTART;TZID=Asia/Hong_Kong:20260916T200000
-DTEND;TZID=Asia/Hong_Kong:20260916T210000
-SUMMARY:UNI 2002BEW online lecture (Wed 20:00-21:00)
-RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20261125T120000Z
-DESCRIPTION:L02/L04 stream hosted by Ms Chiu. Meeting ID 978-4641-1066, password 9768221.
-END:VEVENT
-BEGIN:VEVENT
 UID:4e3a794d81c5cc4d4423040074e58c82@hkmu
 DTSTAMP:20260910T200000Z
 DTSTART;TZID=Asia/Hong_Kong:20261004T100000
@@ -357,38 +327,6 @@ DTSTART;TZID=Asia/Hong_Kong:20261015T090000
 DTEND;TZID=Asia/Hong_Kong:20261015T235900
 SUMMARY:DUE: Li Kwan Hung Education Fund 2026/27 (15 Oct)
 DESCRIPTION:hkpha form.
-END:VEVENT
-BEGIN:VEVENT
-UID:80de7653c50d172cdd3dd6693df27a5a@hkmu
-DTSTAMP:20260910T200000Z
-DTSTART;TZID=Asia/Hong_Kong:20261026T090000
-DTEND;TZID=Asia/Hong_Kong:20261026T170000
-SUMMARY:DUE: UNI 2002BEW Worksheet 1 (individual) 17:00
-DESCRIPTION:Task A (40%): DEC AI Literacy Module 6 + Task B (60%): reflective learning journal. APA 7th + GenAI declaration.
-END:VEVENT
-BEGIN:VEVENT
-UID:fdb2b9e21da7e7fcde5955758478e74f@hkmu
-DTSTAMP:20260910T200000Z
-DTSTART;TZID=Asia/Hong_Kong:20261116T090000
-DTEND;TZID=Asia/Hong_Kong:20261116T170000
-SUMMARY:DUE: UNI 2002BEW Worksheet 2 (group) + peer evaluation 17:00
-DESCRIPTION:Task C campaign plan (40%) + Task D team-performance evaluation with video (60%); every member uploads a peer evaluation form.
-END:VEVENT
-BEGIN:VEVENT
-UID:af8b1a50406fb1673c5e8b2a519e2dfc@hkmu
-DTSTAMP:20260910T200000Z
-DTSTART;TZID=Asia/Hong_Kong:20261128T130000
-DTEND;TZID=Asia/Hong_Kong:20261128T160000
-SUMMARY:UNI 2002BEW COMPULSORY Day School 13:00-16:00 (T48)
-DESCRIPTION:New World Millennium Hong Kong Hotel, Grand Ballroom, 72 Mody Road, Tsim Sha Tsui East. Absence = automatic fail. Worksheet 3 uploaded before the session ends.
-END:VEVENT
-BEGIN:VEVENT
-UID:178866abb40c2e6ba2d57dd1cd2a59e7@hkmu
-DTSTAMP:20260910T200000Z
-DTSTART;TZID=Asia/Hong_Kong:20261129T090000
-DTEND;TZID=Asia/Hong_Kong:20261129T235900
-SUMMARY:DUE: UNI 2002BEW all online tasks + review quizzes close 23:59
-DESCRIPTION:60% component. Quizzes attempt once only; nothing after 29 Nov 23:59 counts.
 END:VEVENT
 BEGIN:VEVENT
 UID:9e1447fb85ca09bedc3d02bb7a7320d2@hkmu
@@ -583,5 +521,37 @@ DTSTART;TZID=Asia/Hong_Kong:20261003T113000
 DTEND;TZID=Asia/Hong_Kong:20261003T130000
 SUMMARY:Student Life Enrichment Subsidy — apply via MyHKMU
 DESCRIPTION:Up to HK$300 per case for eligible HK activities/projects. Application opens 1 Oct 2026 via MyHKMU (user guide on SAO). Contact ssa@hkmu.edu.hk or 2768 6710.
+END:VEVENT
+BEGIN:VEVENT
+UID:c8855366d48772ea3f69f383fbb53cfa@hkmu
+DTSTAMP:20260913T000000Z
+DTSTART;TZID=Asia/Hong_Kong:20261026T170000
+DTEND;TZID=Asia/Hong_Kong:20261026T183000
+SUMMARY:UNI 2002BEW Worksheet 1 (individual, 10%) — hardcopy/upload DUE 17:00
+DESCRIPTION:Assignment 2 in the Course Document = Worksheet 1 on OLE. Upload on OLE by 17:00; late submission carries a mark penalty.
+END:VEVENT
+BEGIN:VEVENT
+UID:c862c873b9f803fa64f5cb1b189a100b@hkmu
+DTSTAMP:20260913T000000Z
+DTSTART;TZID=Asia/Hong_Kong:20261116T170000
+DTEND;TZID=Asia/Hong_Kong:20261116T183000
+SUMMARY:UNI 2002BEW Worksheet 2 + Peer Evaluation (group, 20%) — DUE 17:00
+DESCRIPTION:Assignment 1 in the Course Document = Worksheet 2 (group, one member uploads) + each student uploads their own Peer Evaluation Form. 17:00 deadline.
+END:VEVENT
+BEGIN:VEVENT
+UID:34b54d65ac3088b55218ebbb14f149fe@hkmu
+DTSTAMP:20260913T000000Z
+DTSTART;TZID=Asia/Hong_Kong:20261128T130000
+DTEND;TZID=Asia/Hong_Kong:20261128T160000
+SUMMARY:UNI 2002BEW Day School — COMPULSORY (T48) 13:00-16:00
+DESCRIPTION:Compulsory in-person AI co-creation workshop at New World Millennium, 72 Mody Rd. ABSENCE = AUTOMATIC FAIL.
+END:VEVENT
+BEGIN:VEVENT
+UID:2d8f862c7ff54b63ebc53962bd524221@hkmu
+DTSTAMP:20260913T000000Z
+DTSTART;TZID=Asia/Hong_Kong:20261129T223000
+DTEND;TZID=Asia/Hong_Kong:20261129T235900
+SUMMARY:UNI 2002BEW online tasks + review quizzes close (60%) 23:59
+DESCRIPTION:All assigned online activities and every unit review quiz close at 23:59. Answers submitted after this are NOT counted. Quizzes are attempt-once.
 END:VEVENT
 END:VCALENDAR
