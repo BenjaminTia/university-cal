@@ -527,11 +527,57 @@ SUMMARY:SAT PM: ELEC 3050 review + job board + ELEC 3630 Tutorials 1&2
 DESCRIPTION:17:00 ELEC 3050 networking review (test 2 Nov). 18:00 job board: NATON AI Intern / Veolia Scheme A / Bureau Veritas. 18:45 ELEC 3630 Tutorial 1 review + Tutorial 2 + cache self-test.
 END:VEVENT
 BEGIN:VEVENT
-UID:d74326405446d66636d0701a74ad006b@hkmu
-DTSTAMP:20260912T010000Z
-DTSTART;TZID=Asia/Hong_Kong:20260914T093000
-DTEND;TZID=Asia/Hong_Kong:20260914T104500
-SUMMARY:MON: past-papers hunt + admin emails
-DESCRIPTION:09:30 past-papers hunt (official/lecturer-sourced only, 3-4 yrs max). 10:15 admin: email SAO re Providence Bursary late submission, email Language Centre to rebook Cantonese F2F, MyHKMU timetable check. Classes 11:00-13:50.
+UID:96425c3e54d3c92c7b3673f7a15524a9@hkmu
+DTSTAMP:20260912T120000Z
+DTSTART;TZID=Asia/Hong_Kong:20260913T100000
+DTEND;TZID=Asia/Hong_Kong:20260913T120000
+SUMMARY:SUN: deadline sprint — 6 sign-ups + checks
+DESCRIPTION:Service Fair helper app (DUE Sun) / Disney Imaginations entry (DUE Sun) / QSAxFin mentorship form + stargazing signup (DUE Mon) / COMP 3500 group-formation form / MyHKMU timetable check
 END:VEVENT
+
+BEGIN:VEVENT
+UID:d12438a9045822df131299b36fcd77ad@hkmu
+DTSTAMP:20260912T120000Z
+DTSTART;TZID=Asia/Hong_Kong:20260913T120000
+DTEND;TZID=Asia/Hong_Kong:20260913T133000
+SUMMARY:SUN: email batch — Au Yeung, Wang, Guo + LC rebook + SAO bursary
+DESCRIPTION:Au Yeung (jauyeung@) / Wang (wmwang@) / Guo (needs To address) / Language Centre Cantonese rebook (missed Fri) / SAO re Providence bursary late submission
+END:VEVENT
+
+BEGIN:VEVENT
+UID:49c95a912653289eeb34c7a7a17f978d@hkmu
+DTSTAMP:20260912T120000Z
+DTSTART;TZID=Asia/Hong_Kong:20260913T133000
+DTEND;TZID=Asia/Hong_Kong:20260913T141500
+SUMMARY:Lunch
+DESCRIPTION:No work in this window
+END:VEVENT
+
+BEGIN:VEVENT
+UID:627148b33c7b9ff1e46539cf70f32309@hkmu
+DTSTAMP:20260912T120000Z
+DTSTART;TZID=Asia/Hong_Kong:20260913T141500
+DTEND;TZID=Asia/Hong_Kong:20260913T164500
+SUMMARY:SUN: past-papers hunt (moved from Mon)
+DESCRIPTION:HKMU library LibSearch (course code, no spaces) + OLE docs + verified external sets from Revision Strategy. Log findings in Revision Strategy.md
+END:VEVENT
+
+BEGIN:VEVENT
+UID:abd5fcd9a650521118febb6fb24c16b3@hkmu
+DTSTAMP:20260912T120000Z
+DTSTART;TZID=Asia/Hong_Kong:20260913T164500
+DTEND;TZID=Asia/Hong_Kong:20260913T190000
+SUMMARY:SUN: ELEC 3630 deep study — memory + cache
+DESCRIPTION:Lecture 1-2 memory/cache: AMAT, mapping, tag/index/offset, 4Cs. Tutorials 1 & 2 + problem practice (Question Bank)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:51f3cd1944a77a062180d18840b80db7@hkmu
+DTSTAMP:20260912T120000Z
+DTSTART;TZID=Asia/Hong_Kong:20260913T193000
+DTEND;TZID=Asia/Hong_Kong:20260913T210000
+SUMMARY:SUN: ELEC 3250 + 3050 review + Tong prep
+DESCRIPTION:3250 decks (Wireshark masterclass, Lecture 2a, 2b) / 3050 networking review / re-read Tong game plan for Tue 14:00 A0339
+END:VEVENT
+
 END:VCALENDAR
