@@ -71,13 +71,6 @@ SUMMARY:Exam period (7-27 Dec)
 DESCRIPTION:Exact paper dates on OLE.
 END:VEVENT
 BEGIN:VEVENT
-UID:6ab0fccde1f3483eae6ef7303fa370b3@hkmu
-DTSTAMP:20260908T161340Z
-DTSTART;TZID=Asia/Hong_Kong:20260916T110000
-DTEND;TZID=Asia/Hong_Kong:20260916T110000
-SUMMARY:AI Builders - SmartQS Copilot submission (demo video)
-END:VEVENT
-BEGIN:VEVENT
 UID:ea563e1bcd0e4c0f87c7050ef0619272@hkmu
 DTSTAMP:20260908T161340Z
 DTSTART;TZID=Asia/Hong_Kong:20260927T235900
@@ -124,22 +117,6 @@ SUMMARY:HKMU Entrepreneurship Day 2026 (afternoon)
 DESCRIPTION:Thu - classes end 11:50, no clash.
 END:VEVENT
 BEGIN:VEVENT
-UID:7e246f63267746e3bdb3238a31e4f8bf@hkmu
-DTSTAMP:20260908T161340Z
-DTSTART;TZID=Asia/Hong_Kong:20260920T235900
-DTEND;TZID=Asia/Hong_Kong:20260920T235900
-SUMMARY:GenZ Innovate Hackathon B - registration + proposal DUE
-DESCRIPTION:Solo OK (team-matching on event day); teams of 4.
-END:VEVENT
-BEGIN:VEVENT
-UID:29afce2009fb407486a9dfb887f46f1a@hkmu
-DTSTAMP:20260908T161340Z
-DTSTART;TZID=Asia/Hong_Kong:20260921T160000
-DTEND;TZID=Asia/Hong_Kong:20260921T173000
-SUMMARY:Scholarships 2026/27 Info Session (Zoom)
-DESCRIPTION:Registered 8 Sep. First-come-first-served - join early.
-END:VEVENT
-BEGIN:VEVENT
 UID:0ac1f580bbe74022bc129abf94f6fbe0@hkmu
 DTSTAMP:20260908T161340Z
 DTSTART;VALUE=DATE:20260928
@@ -170,21 +147,6 @@ DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261030
 SUMMARY:GYEF 2026 Forum (27-29 Oct) - register first
 DESCRIPTION:HKFYG youth entrepreneurs forum. Individual reg open - complete before Oct.
-END:VEVENT
-BEGIN:VEVENT
-
-UID:b419372c2100463494d5d6d1f36d2050@univ
-
-DTSTAMP:20260909T122512Z
-
-DTSTART;TZID=Asia/Hong_Kong:20260915T133000
-
-DTEND;TZID=Asia/Hong_Kong:20260915T173000
-
-SUMMARY:Student Service Fair 2026 (optional — Me&U/service angle)
-
-DESCRIPTION:Main campus, Siu Cho Fong Kwan Plaza (near Bank of China) + G/F. 13 topic booths, games, lucky draw (16 Sep 17:30). Free Tue after 11:50. Contact saoce@hkmu.edu.hk / 2768-6048.
-
 END:VEVENT
 BEGIN:VEVENT
 
@@ -341,14 +303,6 @@ SUMMARY:DUE: 明曦青年獎勵計劃 2026/27 application (20 Sep)
 DESCRIPTION:Deadline 20 Sep. Details + form are Chinese only - check eligibility (Information_Sheet_MINGXI.pdf) then apply.
 END:VEVENT
 BEGIN:VEVENT
-UID:c5e3ad250435162242b4baba5491ffc0@hkmu
-DTSTAMP:20260910T200000Z
-DTSTART;TZID=Asia/Hong_Kong:20260920T090000
-DTEND;TZID=Asia/Hong_Kong:20260920T235900
-SUMMARY:DUE: GenZ Innovate Hackathon B proposal email (20 Sep)
-DESCRIPTION:Teams of 3-4 HKMU students; proposal (max 2 pages + 1 diagram) to genzinnohack@hkmu.edu.hk.
-END:VEVENT
-BEGIN:VEVENT
 UID:0e658adfb9c7c886ef1c1af95ca753f4@hkmu
 DTSTAMP:20260910T200000Z
 DTSTART;TZID=Asia/Hong_Kong:20260921T160000
@@ -395,14 +349,6 @@ DTSTART;TZID=Asia/Hong_Kong:20261002T090000
 DTEND;TZID=Asia/Hong_Kong:20261002T235900
 SUMMARY:DUE (optional): Personal Finance Ambassador Programme application
 DESCRIPTION:Investor and Financial Education Council + St James' Settlement. Teams of 3-5 same-institution students; grant up to HK$5,000; certificate. Briefing 20 Sep 11:00 (optional).
-END:VEVENT
-BEGIN:VEVENT
-UID:7ece3460a6e947f136f54c44dccfb385@hkmu
-DTSTAMP:20260910T200000Z
-DTSTART;TZID=Asia/Hong_Kong:20261006T090000
-DTEND;TZID=Asia/Hong_Kong:20261006T235900
-SUMMARY:DUE: Chevening Scholarship + Dream Builder interview (6 Oct)
-DESCRIPTION:Chevening: verify 2+ years work experience requirement (likely ineligible this cycle). Dream Builder interview if shortlisted.
 END:VEVENT
 BEGIN:VEVENT
 UID:d2c59fe94ef0cf4401795801adf9b979@hkmu
@@ -504,14 +450,7 @@ SUMMARY:Service Fair Student Helper — application (DUE TODAY)
 DESCRIPTION:SAO on-campus engagement #000000001474, HK$75/hour, shifts ~13-16 Sep. Hard deadline today.
 END:VEVENT
 
-BEGIN:VEVENT
-UID:fac989447cad2edbc89fbcba70003b36@hkmu
-DTSTAMP:20260912T130000Z
-DTSTART;TZID=Asia/Hong_Kong:20260913T103000
-DTEND;TZID=Asia/Hong_Kong:20260913T120000
-SUMMARY:Disney Imaginations HK Design Competition — enter (DUE TODAY)
-DESCRIPTION:Event 28 Sep. Register via hkcorporate.hongkongdisneyland.com. Hard deadline today.
-END:VEVENT
+
 
 BEGIN:VEVENT
 UID:c0828e0381730befd1f7a025057c74fb@hkmu
