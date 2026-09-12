@@ -494,3 +494,44 @@ DESCRIPTION:Cantonese-language talk\, Main Campus Multi-purpose Hall 10/
  k UNVERIFIED: poster QR would not decode and HKMU public site does not 
  list it.
 END:VEVENT
+BEGIN:VEVENT
+UID:7f9323aecc8fc3e8709bc906635946d5@hkmu
+DTSTAMP:20260912T010000Z
+DTSTART;TZID=Asia/Hong_Kong:20260912T100000
+DTEND;TZID=Asia/Hong_Kong:20260912T120000
+SUMMARY:SAT AM: emails + UNI 2002BEW Unit 1 + DEC modules
+DESCRIPTION:10:00 send Tong draft (books Tue 15 Sep 14:00), then Au Yeung + Wang from Outlook. 11:00 UNI 2002BEW Unit 1 activities + review quiz (once only) + register DEC Modules 1-2.
+END:VEVENT
+BEGIN:VEVENT
+UID:e67375ae9b26f814b8ebaf49c16ce657@hkmu
+DTSTAMP:20260912T010000Z
+DTSTART;TZID=Asia/Hong_Kong:20260912T120000
+DTEND;TZID=Asia/Hong_Kong:20260912T133000
+SUMMARY:SAT: ELEC 3250 A1 groundwork + 15 min admin
+DESCRIPTION:12:00 ELEC 3250 A1 groundwork (priority 1, due 23 Sep hardcopy). 13:00 admin 15 min: GYEF registration, 3630 OLE extra-lesson check, Eason talk registration, Language Centre rebooking.
+END:VEVENT
+BEGIN:VEVENT
+UID:7791532896d9b25b5a8e9cce0ef85411@hkmu
+DTSTAMP:20260912T010000Z
+DTSTART;TZID=Asia/Hong_Kong:20260912T133000
+DTEND;TZID=Asia/Hong_Kong:20260912T140000
+SUMMARY:Lunch (protected)
+DESCRIPTION:Gap before the Wireshark session - no work scheduled.
+END:VEVENT
+BEGIN:VEVENT
+UID:10e5bd97325e6a76ef8d9edfc7bf9ffd@hkmu
+DTSTAMP:20260912T010000Z
+DTSTART;TZID=Asia/Hong_Kong:20260912T170000
+DTEND;TZID=Asia/Hong_Kong:20260912T191500
+SUMMARY:SAT PM: ELEC 3050 review + job board + ELEC 3630 Tutorials 1&2
+DESCRIPTION:17:00 ELEC 3050 networking review (test 2 Nov). 18:00 job board: NATON AI Intern / Veolia Scheme A / Bureau Veritas. 18:45 ELEC 3630 Tutorial 1 review + Tutorial 2 + cache self-test.
+END:VEVENT
+BEGIN:VEVENT
+UID:d74326405446d66636d0701a74ad006b@hkmu
+DTSTAMP:20260912T010000Z
+DTSTART;TZID=Asia/Hong_Kong:20260914T093000
+DTEND;TZID=Asia/Hong_Kong:20260914T104500
+SUMMARY:MON: past-papers hunt + admin emails
+DESCRIPTION:09:30 past-papers hunt (official/lecturer-sourced only, 3-4 yrs max). 10:15 admin: email SAO re Providence Bursary late submission, email Language Centre to rebook Cantonese F2F, MyHKMU timetable check. Classes 11:00-13:50.
+END:VEVENT
+END:VCALENDAR
