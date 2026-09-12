@@ -560,4 +560,28 @@ SUMMARY:SAO — email re late Providence bursary
 DESCRIPTION:In-person window closed 11 Sep 17:00; ask about a late submission.
 END:VEVENT
 
+BEGIN:VEVENT
+UID:5d8cacf144c08712b22b167f47e17462@hkmu
+DTSTAMP:20260913T000000Z
+DTSTART;TZID=Asia/Hong_Kong:20260913T103000
+DTEND;TZID=Asia/Hong_Kong:20260913T120000
+SUMMARY:Career Advisory Service — refine CV with HKMU ChatGPT, then book
+DESCRIPTION:Slots 16/18/21/23/24/28/29 Sep; 30-45 min; English, Cantonese or Putonghua. CV/cover-letter check, mock interview, career direction. Booking REQUIRES an HKMU-ChatGPT-refined CV uploaded with the form, and the acknowledgement email is NOT a confirmation. Book early, slots fill.
+END:VEVENT
+BEGIN:VEVENT
+UID:72df1d6a911afd0746ec850d5d38bcb5@hkmu
+DTSTAMP:20260913T000000Z
+DTSTART;TZID=Asia/Hong_Kong:20261003T100000
+DTEND;TZID=Asia/Hong_Kong:20261003T113000
+SUMMARY:MSSY Phase 10 (青年委員自薦計劃) — verify residency clause, then submit
+DESCRIPTION:DUE 5 Oct 2026. Self-nominate onto a government advisory committee (HYAB). Official page states age criteria only: 16-35 for district committees, 18-35 for other committees, as at 5 Oct 2026. Residency requirement UNVERIFIED (form PDF 404'd) — check the Points-to-Note first.
+END:VEVENT
+BEGIN:VEVENT
+UID:916ac5360e13bd1b5bb381eb971ee72c@hkmu
+DTSTAMP:20260913T000000Z
+DTSTART;TZID=Asia/Hong_Kong:20261003T113000
+DTEND;TZID=Asia/Hong_Kong:20261003T130000
+SUMMARY:Student Life Enrichment Subsidy — apply via MyHKMU
+DESCRIPTION:Up to HK$300 per case for eligible HK activities/projects. Application opens 1 Oct 2026 via MyHKMU (user guide on SAO). Contact ssa@hkmu.edu.hk or 2768 6710.
+END:VEVENT
 END:VCALENDAR
