@@ -203,21 +203,6 @@ DESCRIPTION:Checkpoint: Units 1 (communication), 2 (team formation), 3 (virtual 
 END:VEVENT
 BEGIN:VEVENT
 
-UID:0d704f920746450a836a3084283c5730@univ
-
-DTSTAMP:20260909T122936Z
-
-DTSTART;TZID=Asia/Hong_Kong:20260915T140000
-
-DTEND;TZID=Asia/Hong_Kong:20260915T144000
-
-SUMMARY:Dr Tong office chat (A0339) - IEEE branch [TENTATIVE: Tue 15 Sep 14:00 proposed]
-
-DESCRIPTION:Proposed Tue 15 Sep 14:00 per email draft r2285032396232050387 (Tue classes end 11:50; Monday dropped as too short notice). Office A0339 Main Campus. Topics: IEEE student branch joining, RISC-V help. Confirm when he replies.
-
-END:VEVENT
-BEGIN:VEVENT
-
 UID:9d93f8847cd24d929832449f5ea68da5@univ
 
 DTSTAMP:20260909T124318Z
@@ -527,57 +512,129 @@ SUMMARY:SAT PM: ELEC 3050 review + job board + ELEC 3630 Tutorials 1&2
 DESCRIPTION:17:00 ELEC 3050 networking review (test 2 Nov). 18:00 job board: NATON AI Intern / Veolia Scheme A / Bureau Veritas. 18:45 ELEC 3630 Tutorial 1 review + Tutorial 2 + cache self-test.
 END:VEVENT
 BEGIN:VEVENT
-UID:96425c3e54d3c92c7b3673f7a15524a9@hkmu
-DTSTAMP:20260912T120000Z
-DTSTART;TZID=Asia/Hong_Kong:20260913T100000
-DTEND;TZID=Asia/Hong_Kong:20260913T120000
-SUMMARY:SUN: deadline sprint — 6 sign-ups + checks
-DESCRIPTION:Service Fair helper app (DUE Sun) / Disney Imaginations entry (DUE Sun) / QSAxFin mentorship form + stargazing signup (DUE Mon) / COMP 3500 group-formation form / MyHKMU timetable check
+UID:8ddf878039b70767c4a5bcf4f0c4f65e@hkmu
+DTSTAMP:20260912T130000Z
+DTSTART;TZID=Asia/Hong_Kong:20260913T090000
+DTEND;TZID=Asia/Hong_Kong:20260913T103000
+SUMMARY:Service Fair Student Helper — application (DUE TODAY)
+DESCRIPTION:SAO on-campus engagement #000000001474, HK$75/hour, shifts ~13-16 Sep. Hard deadline today.
 END:VEVENT
 
 BEGIN:VEVENT
-UID:d12438a9045822df131299b36fcd77ad@hkmu
-DTSTAMP:20260912T120000Z
+UID:fac989447cad2edbc89fbcba70003b36@hkmu
+DTSTAMP:20260912T130000Z
+DTSTART;TZID=Asia/Hong_Kong:20260913T103000
+DTEND;TZID=Asia/Hong_Kong:20260913T120000
+SUMMARY:Disney Imaginations HK Design Competition — enter (DUE TODAY)
+DESCRIPTION:Event 28 Sep. Register via hkcorporate.hongkongdisneyland.com. Hard deadline today.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:c0828e0381730befd1f7a025057c74fb@hkmu
+DTSTAMP:20260912T130000Z
 DTSTART;TZID=Asia/Hong_Kong:20260913T120000
 DTEND;TZID=Asia/Hong_Kong:20260913T133000
-SUMMARY:SUN: email batch — Au Yeung, Wang, Guo + LC rebook + SAO bursary
-DESCRIPTION:Au Yeung (jauyeung@) / Wang (wmwang@) / Guo (needs To address) / Language Centre Cantonese rebook (missed Fri) / SAO re Providence bursary late submission
+SUMMARY:QSAxFin Mentorship 2026-27 — apply (DUE Mon)
+DESCRIPTION:Google Form via SAO Career Weekly 12 Sep. Check eligibility first.
 END:VEVENT
 
 BEGIN:VEVENT
-UID:49c95a912653289eeb34c7a7a17f978d@hkmu
-DTSTAMP:20260912T120000Z
+UID:7e7cb6814b74d6596098fc80127569a5@hkmu
+DTSTAMP:20260912T130000Z
 DTSTART;TZID=Asia/Hong_Kong:20260913T133000
-DTEND;TZID=Asia/Hong_Kong:20260913T141500
-SUMMARY:Lunch
-DESCRIPTION:No work in this window
+DTEND;TZID=Asia/Hong_Kong:20260913T150000
+SUMMARY:Stargazing platform build — volunteer signup (DUE Mon)
+DESCRIPTION:Sha Tau Kok Mui Tsz Lam village observatory platform, build 19 Sep. Google Form.
 END:VEVENT
 
 BEGIN:VEVENT
-UID:627148b33c7b9ff1e46539cf70f32309@hkmu
-DTSTAMP:20260912T120000Z
-DTSTART;TZID=Asia/Hong_Kong:20260913T141500
-DTEND;TZID=Asia/Hong_Kong:20260913T164500
-SUMMARY:SUN: past-papers hunt (moved from Mon)
-DESCRIPTION:HKMU library LibSearch (course code, no spaces) + OLE docs + verified external sets from Revision Strategy. Log findings in Revision Strategy.md
+UID:437f57809f82b9e2947f70fd488eb536@hkmu
+DTSTAMP:20260912T130000Z
+DTSTART;TZID=Asia/Hong_Kong:20260913T150000
+DTEND;TZID=Asia/Hong_Kong:20260913T163000
+SUMMARY:COMP 3500 group-formation form — submit (DUE Mon)
+DESCRIPTION:Slide 19 requirement (Ezeamuzie email 11 Sep). Submit own group or request random allocation.
 END:VEVENT
 
 BEGIN:VEVENT
-UID:abd5fcd9a650521118febb6fb24c16b3@hkmu
-DTSTAMP:20260912T120000Z
-DTSTART;TZID=Asia/Hong_Kong:20260913T164500
-DTEND;TZID=Asia/Hong_Kong:20260913T190000
-SUMMARY:SUN: ELEC 3630 deep study — memory + cache
-DESCRIPTION:Lecture 1-2 memory/cache: AMAT, mapping, tag/index/offset, 4Cs. Tutorials 1 & 2 + problem practice (Question Bank)
+UID:425db905039f7a6559ce1115efa7d397@hkmu
+DTSTAMP:20260912T130000Z
+DTSTART;TZID=Asia/Hong_Kong:20260913T163000
+DTEND;TZID=Asia/Hong_Kong:20260913T180000
+SUMMARY:Past-papers hunt
+DESCRIPTION:HKMU LibSearch by course code (no spaces) + OLE + verified external sets in Revision Strategy.md. Five gates apply.
 END:VEVENT
 
 BEGIN:VEVENT
-UID:51f3cd1944a77a062180d18840b80db7@hkmu
-DTSTAMP:20260912T120000Z
+UID:9d7115b42254d59b82440ebe8084927f@hkmu
+DTSTAMP:20260912T130000Z
+DTSTART;TZID=Asia/Hong_Kong:20260913T180000
+DTEND;TZID=Asia/Hong_Kong:20260913T193000
+SUMMARY:ELEC 3630 deep study — memory + cache
+DESCRIPTION:AMAT, mapping, tag/index/offset, 4 Cs. Tutorials 1 & 2 + Question Bank practice.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:3e8d88fdd85d7153525e0647cdd97686@hkmu
+DTSTAMP:20260912T130000Z
 DTSTART;TZID=Asia/Hong_Kong:20260913T193000
 DTEND;TZID=Asia/Hong_Kong:20260913T210000
-SUMMARY:SUN: ELEC 3250 + 3050 review + Tong prep
-DESCRIPTION:3250 decks (Wireshark masterclass, Lecture 2a, 2b) / 3050 networking review / re-read Tong game plan for Tue 14:00 A0339
+SUMMARY:Wireshark skills polish
+DESCRIPTION:Still needed after the 3250 review. Filters, Follow Stream, Protocol Hierarchy, tshark; replay UnknownAttack.pcap cold; own live capture.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:83f1535f99ab0bf4e9d02dfd85d3e3f7@hkmu
+DTSTAMP:20260912T130000Z
+DTSTART;TZID=Asia/Hong_Kong:20260915T120000
+DTEND;TZID=Asia/Hong_Kong:20260915T133000
+SUMMARY:Email: Au Yeung — guidance
+DESCRIPTION:jauyeung@hkmu.edu.hk via Outlook. Draft text exists.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:0f826a89cf68c399c5f4cf320c1a5842@hkmu
+DTSTAMP:20260912T130000Z
+DTSTART;TZID=Asia/Hong_Kong:20260915T140000
+DTEND;TZID=Asia/Hong_Kong:20260915T160000
+SUMMARY:Dr Tong office chat — A0339 (IEEE branch)
+DESCRIPTION:Enlarged block so it is visible. Tue 15 Sep 14:00 proposed in his email; confirm the day if it moved to Mon.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:0b8854ad38f0a6c65807928d28195609@hkmu
+DTSTAMP:20260912T130000Z
+DTSTART;TZID=Asia/Hong_Kong:20260915T160000
+DTEND;TZID=Asia/Hong_Kong:20260915T173000
+SUMMARY:Email: Wang — guidance
+DESCRIPTION:wmwang@hkmu.edu.hk via Outlook. Draft text exists.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:1051527638b9da6fe99e4242795a10ea@hkmu
+DTSTAMP:20260912T130000Z
+DTSTART;TZID=Asia/Hong_Kong:20260915T173000
+DTEND;TZID=Asia/Hong_Kong:20260915T190000
+SUMMARY:Email: Guo — guidance (find address first)
+DESCRIPTION:Needs a To: address - CUHK MAE directory or ask HKLF organisers to forward.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:df2184f4b46de3ddf02f74fb03810020@hkmu
+DTSTAMP:20260912T130000Z
+DTSTART;TZID=Asia/Hong_Kong:20260915T190000
+DTEND;TZID=Asia/Hong_Kong:20260915T203000
+SUMMARY:Language Centre — rebook Cantonese F2F
+DESCRIPTION:Missed Fri 16:30 session (Block A A0411, eid 010765). Email the LC to rebook.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:a77cca9bd375665b36f4239eeda0c996@hkmu
+DTSTAMP:20260912T130000Z
+DTSTART;TZID=Asia/Hong_Kong:20260915T203000
+DTEND;TZID=Asia/Hong_Kong:20260915T220000
+SUMMARY:SAO — email re late Providence bursary
+DESCRIPTION:In-person window closed 11 Sep 17:00; ask about a late submission.
 END:VEVENT
 
 END:VCALENDAR
