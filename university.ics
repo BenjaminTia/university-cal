@@ -12,13 +12,6 @@ SUMMARY:ELEC 3250: submit 6-person group list (Yeung)
 DESCRIPTION:Paper group list at lecture.
 END:VEVENT
 BEGIN:VEVENT
-UID:32ae58fef6564def9a75531004be5593@hkmu
-DTSTAMP:20260908T161340Z
-DTSTART;TZID=Asia/Hong_Kong:20260911T235900
-DTEND;TZID=Asia/Hong_Kong:20260911T235900
-SUMMARY:Add/drop closes - finalise timetable (17cr/6 courses)
-END:VEVENT
-BEGIN:VEVENT
 UID:ff41eb4e51564de797faa446e53d4191@hkmu
 DTSTAMP:20260908T161340Z
 DTSTART;TZID=Asia/Hong_Kong:20260923T160000
@@ -270,21 +263,6 @@ DESCRIPTION:Deadline 20 Sep (SAO Scholarships mail 8 Sep). Eligibility check DO 
 END:VEVENT
 BEGIN:VEVENT
 
-UID:47bc4944e83d46c48682bb2760830e72@univ
-
-DTSTAMP:20260909T124706Z
-
-DTSTART;TZID=Asia/Hong_Kong:20260911T163000
-
-DTEND;TZID=Asia/Hong_Kong:20260911T165000
-
-SUMMARY:Language Centre Cantonese F2F orientation (Block A A0411)
-
-DESCRIPTION:eid 010765. Only free LC slot. English F2F 16:00 same room if preferred. Tong chat moved to Tue 15 Sep 14:00; Fri = add/drop errands + LC orientation.
-
-END:VEVENT
-BEGIN:VEVENT
-
 UID:aadb1b4e59b24f4192fc3821ede9d75d@univ
 
 DTSTAMP:20260909T160707Z
@@ -305,18 +283,10 @@ DESCRIPTION:Chris Greer (the field's Wireshark teacher): beginners tutor
   live capture\, cheat sheet from memory.
 END:VEVENT
 BEGIN:VEVENT
-UID:9059a24f8ec87279c1d68b2f6958506e@hkmu
-DTSTAMP:20260910T200000Z
-DTSTART;TZID=Asia/Hong_Kong:20260911T090000
-DTEND;TZID=Asia/Hong_Kong:20260911T170000
-SUMMARY:DUE: Providence Foundation Bursary - apply in person at SAO Block A
-DESCRIPTION:Deadline 11 Sep 17:00. Verify eligibility first, bring form + supporting documents.
-END:VEVENT
-BEGIN:VEVENT
 UID:9631da36799cee8d94312d4b8952a38c@hkmu
 DTSTAMP:20260910T200000Z
 DTSTART;TZID=Asia/Hong_Kong:20260912T180000
-DTEND;TZID=Asia/Hong_Kong:20260912T190000
+DTEND;TZID=Asia/Hong_Kong:20260912T184500
 SUMMARY:Job board run: NATON AI Intern / Veolia Scheme A / Bureau Veritas
 DESCRIPTION:saojobs.hkmu.edu.hk - record requirements + HD/AD eligibility for each posting.
 END:VEVENT
@@ -521,9 +491,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:44268fb1a32886b5b781d177e5ad2703@hkmu
 DTSTAMP:20260910T210000Z
-DTSTART;TZID=Asia/Hong_Kong:20260911T090000
-DTEND;TZID=Asia/Hong_Kong:20260911T103000
-SUMMARY:Study: ELEC 3250 A1 groundwork (priority 1)
+DTSTART;TZID=Asia/Hong_Kong:20260912T120000
+DTEND;TZID=Asia/Hong_Kong:20260912T130000
+SUMMARY:Saturday: ELEC 3250 A1 groundwork (priority 1, due 23 Sep hardcopy)
 
 DESCRIPTION:Assignments first (A1 due 23 Sep\, hardcopy). Concept refres
  h while working:\nComputerphile: TLS https://www.youtube.com/watch?v=0T
@@ -536,9 +506,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:4dacf5df9572b3f46f518113840cdfe7@hkmu
 DTSTAMP:20260910T210000Z
-DTSTART;TZID=Asia/Hong_Kong:20260911T104500
-DTEND;TZID=Asia/Hong_Kong:20260911T121500
-SUMMARY:Study: ELEC 3050 networking review + past-paper questions
+DTSTART;TZID=Asia/Hong_Kong:20260912T171500
+DTEND;TZID=Asia/Hong_Kong:20260912T180000
+SUMMARY:Saturday: ELEC 3050 networking review
 
 DESCRIPTION:Author-taught lectures: Kurose 1.1 https://www.youtube.com/w
  atch?v=74sEFYBBRAY | 3.1 transport https://www.youtube.com/watch?v=lAvh
@@ -551,9 +521,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:972ebac05b8edce33f58162fbb49c0de@hkmu
 DTSTAMP:20260910T210000Z
-DTSTART;TZID=Asia/Hong_Kong:20260911T130000
-DTEND;TZID=Asia/Hong_Kong:20260911T141500
-SUMMARY:Study: ELEC 3630 Tutorial 2 + cache self-test
+DTSTART;TZID=Asia/Hong_Kong:20260912T184500
+DTEND;TZID=Asia/Hong_Kong:20260912T191500
+SUMMARY:Saturday: ELEC 3630 Tutorial 1 review + Tutorial 2 + cache self-test
 
 DESCRIPTION:Memory hierarchy\, properly: Onur Mutlu L21 https://www.yout
  ube.com/watch?v=wTz-d6XiB_Y | L22 https://www.youtube.com/watch?v=1zXDo
@@ -564,19 +534,11 @@ DESCRIPTION:Memory hierarchy\, properly: Onur Mutlu L21 https://www.yout
  l self-test from memory.
 END:VEVENT
 BEGIN:VEVENT
-UID:6737d7163c52370420137dbc89d43389@hkmu
-DTSTAMP:20260910T210000Z
-DTSTART;TZID=Asia/Hong_Kong:20260911T143000
-DTEND;TZID=Asia/Hong_Kong:20260911T153000
-SUMMARY:Providence Bursary: SAO Block A visit (deadline 17:00)
-DESCRIPTION:Verify eligibility, then submit in person with form + supporting documents.
-END:VEVENT
-BEGIN:VEVENT
 UID:d926353e880ffb36e63fb62ecd0f17b9@hkmu
 DTSTAMP:20260910T210000Z
-DTSTART;TZID=Asia/Hong_Kong:20260911T173000
-DTEND;TZID=Asia/Hong_Kong:20260911T190000
-SUMMARY:UNI 2002BEW: read notes, then dive into Unit 1 (+ DEC registration)
+DTSTART;TZID=Asia/Hong_Kong:20260912T110000
+DTEND;TZID=Asia/Hong_Kong:20260912T120000
+SUMMARY:Saturday: UNI 2002BEW Unit 1 + review quiz + DEC Modules 1-2 (from Friday)
 
 DESCRIPTION:Method: read the course note first\, then straight into Unit
   1 - no Zoom recording.\nAI co-creation (the course's core): Mollick\, 
@@ -587,18 +549,6 @@ DESCRIPTION:Method: read the course note first\, then straight into Unit
  C workshop https://www.youtube.com/watch?v=nWb2B2uPfMo\nAlso: register/
  log in at the DEC 'AI Literacy for All' course (separate login from HKM
  U).
-END:VEVENT
-BEGIN:VEVENT
-UID:d8b11baebaa217f36cf74b95e6a92aa9@hkmu
-DTSTAMP:20260910T210000Z
-DTSTART;TZID=Asia/Hong_Kong:20260912T100000
-DTEND;TZID=Asia/Hong_Kong:20260912T113000
-SUMMARY:Saturday: COMP 3500 revision (software processes + flashcards)
-
-DESCRIPTION:Author's own videos: Ian Sommerville https://www.youtube.com
- /watch?v=Z2no7DxDWRI\nBest written rigor (specs\, testing\, abstraction
- ): MIT 6.031 https://web.mit.edu/6.031/www/sp21/\nThen one flashcard pa
- ss on the COMP 3500 deck.
 END:VEVENT
 BEGIN:VEVENT
 UID:8af0229d137bc06af2c8eceaf9245034@hkmu
@@ -613,5 +563,37 @@ DESCRIPTION:Cantonese-language talk\, Main Campus Multi-purpose Hall 10/
   attending. No timetable clash (Mon class ends 13:50). Registration lin
  k UNVERIFIED: poster QR would not decode and HKMU public site does not 
  list it.
+END:VEVENT
+BEGIN:VEVENT
+UID:c2b5e6943f1eefa78fc9cc0fcd8edccb@hkmu
+DTSTAMP:20260912T000000Z
+DTSTART;TZID=Asia/Hong_Kong:20260912T100000
+DTEND;TZID=Asia/Hong_Kong:20260912T110000
+SUMMARY:Saturday: emails - Tong (SEND draft) + Au Yeung + Wang
+DESCRIPTION:Moved from Friday. Tong draft r2285032396232050387 proposes Tue 15 Sep 14:00. Send all three from Outlook.
+END:VEVENT
+BEGIN:VEVENT
+UID:31ca0b0d39e343cbac105d6455fac379@hkmu
+DTSTAMP:20260912T000000Z
+DTSTART;TZID=Asia/Hong_Kong:20260912T134500
+DTEND;TZID=Asia/Hong_Kong:20260912T140000
+SUMMARY:Sat admin 15 min: GYEF + 3630 OLE check + Eason reg + LC Cantonese rebook
+DESCRIPTION:Four quick items pushed off Friday: GYEF individual registration, ELEC 3630 OLE extra-lesson check, Eason talk registration, Language Centre rebooking (Friday 16:30 was missed).
+END:VEVENT
+BEGIN:VEVENT
+UID:b940864faf773b9754a47ce034b7e809@hkmu
+DTSTAMP:20260912T000000Z
+DTSTART;TZID=Asia/Hong_Kong:20260914T093000
+DTEND;TZID=Asia/Hong_Kong:20260914T103000
+SUMMARY:Monday: past-papers hunt (dropped from Saturday)
+DESCRIPTION:Official/lecturer-sourced only, 3-4 years max, syllabus-aligned.
+END:VEVENT
+BEGIN:VEVENT
+UID:5ae8543098012ae6e53faab181d5abcb@hkmu
+DTSTAMP:20260912T000000Z
+DTSTART;TZID=Asia/Hong_Kong:20260914T103000
+DTEND;TZID=Asia/Hong_Kong:20260914T104500
+SUMMARY:Monday admin: email SAO (bursary) + email Language Centre + MyHKMU timetable check
+DESCRIPTION:Providence Bursary in-person window closed 11 Sep 17:00 - only option is asking SAO about a late submission. LC: rebook Cantonese F2F. MyHKMU: confirm the final 17cr/6-course timetable now that add/drop has closed.
 END:VEVENT
 END:VCALENDAR
