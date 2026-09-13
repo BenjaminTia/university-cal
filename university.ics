@@ -363,34 +363,10 @@ DTEND;TZID=Asia/Hong_Kong:20260912T191500
 SUMMARY:SAT PM: ELEC 3050 review + job board + ELEC 3630 Tutorials 1&2
 DESCRIPTION:17:00 ELEC 3050 networking review (test 2 Nov). 18:00 job board: NATON AI Intern / Veolia Scheme A / Bureau Veritas. 18:45 ELEC 3630 Tutorial 1 review + Tutorial 2 + cache self-test.
 END:VEVENT
-BEGIN:VEVENT
-UID:8ddf878039b70767c4a5bcf4f0c4f65e@hkmu
-DTSTAMP:20260912T130000Z
-DTSTART;TZID=Asia/Hong_Kong:20260913T090000
-DTEND;TZID=Asia/Hong_Kong:20260913T103000
-SUMMARY:Service Fair Student Helper — application (DUE TODAY)
-DESCRIPTION:SAO on-campus engagement #000000001474, HK$75/hour, shifts ~13-16 Sep. Hard deadline today.
-END:VEVENT
 
 
 
-BEGIN:VEVENT
-UID:c0828e0381730befd1f7a025057c74fb@hkmu
-DTSTAMP:20260912T130000Z
-DTSTART;TZID=Asia/Hong_Kong:20260913T120000
-DTEND;TZID=Asia/Hong_Kong:20260913T133000
-SUMMARY:QSAxFin Mentorship 2026-27 — apply (DUE Mon)
-DESCRIPTION:Google Form via SAO Career Weekly 12 Sep. Check eligibility first.
-END:VEVENT
 
-BEGIN:VEVENT
-UID:7e7cb6814b74d6596098fc80127569a5@hkmu
-DTSTAMP:20260912T130000Z
-DTSTART;TZID=Asia/Hong_Kong:20260913T133000
-DTEND;TZID=Asia/Hong_Kong:20260913T150000
-SUMMARY:Stargazing platform build — volunteer signup (DUE Mon)
-DESCRIPTION:Sha Tau Kok Mui Tsz Lam village observatory platform, build 19 Sep. Google Form.
-END:VEVENT
 
 BEGIN:VEVENT
 UID:437f57809f82b9e2947f70fd488eb536@hkmu
