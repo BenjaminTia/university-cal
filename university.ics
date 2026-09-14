@@ -530,4 +530,20 @@ DTEND;TZID=Asia/Hong_Kong:20260919T150000
 SUMMARY:ELEC 3050SEF Lab 0 Wireshark capture sheet - submit (DUE Sun 20 Sep 23:59)
 DESCRIPTION:Rename to 14463982-Lab0-intro-capture-sheet.docx; 4 questions, 8 marks; upload to Lab0-intro on OLE.
 END:VEVENT
+BEGIN:VEVENT
+UID:ffc3ab82c4de4c4187a54027bf7ed42a@hkmu
+DTSTAMP:20260914T123000Z
+DTSTART;TZID=Asia/Hong_Kong:20260920T235900
+DTEND;TZID=Asia/Hong_Kong:20260920T235900
+SUMMARY:ELEC 3050SEF Tutorial 1 - DUE 23:59 (submit Tutorial1-14463982.pdf)
+DESCRIPTION:Submission deadline Sun 20 Sep 2026 11:59 pm. Answers are not distributed; they are shown after your attempt in the tutorial session.
+END:VEVENT
+BEGIN:VEVENT
+UID:d7f11a60855e459eae5de3f20483e55d@hkmu
+DTSTAMP:20260914T123500Z
+DTSTART;TZID=Asia/Hong_Kong:20260920T235900
+DTEND;TZID=Asia/Hong_Kong:20260920T235900
+SUMMARY:ELEC 3050SEF Lab 0 Wireshark capture sheet - DUE 23:59
+DESCRIPTION:Rename to 14463982-Lab0-intro-capture-sheet.docx and upload to Lab0-intro on OLE. 4 questions, 8 marks.
+END:VEVENT
 END:VCALENDAR
