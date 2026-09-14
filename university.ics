@@ -514,4 +514,20 @@ DTEND;TZID=Asia/Hong_Kong:20261129T235900
 SUMMARY:UNI 2002BEW online tasks + review quizzes close (60%) 23:59
 DESCRIPTION:All assigned online activities and every unit review quiz close at 23:59. Answers submitted after this are NOT counted. Quizzes are attempt-once.
 END:VEVENT
+BEGIN:VEVENT
+UID:2a38e40dd9d94136bd78deaf1eac36d6@hkmu
+DTSTAMP:20260914T120000Z
+DTSTART;TZID=Asia/Hong_Kong:20260918T180000
+DTEND;TZID=Asia/Hong_Kong:20260918T193000
+SUMMARY:ELEC 3050SEF Tutorial 1 - answer + submit (DUE Sun 20 Sep 23:59)
+DESCRIPTION:Submit as Tutorial1-14463982.pdf. Answers are NOT distributed; they are discussed in the tutorial.
+END:VEVENT
+BEGIN:VEVENT
+UID:ba4e6b040d89432b9ba6f89e6a25a84c@hkmu
+DTSTAMP:20260914T120000Z
+DTSTART;TZID=Asia/Hong_Kong:20260919T133000
+DTEND;TZID=Asia/Hong_Kong:20260919T150000
+SUMMARY:ELEC 3050SEF Lab 0 Wireshark capture sheet - submit (DUE Sun 20 Sep 23:59)
+DESCRIPTION:Rename to 14463982-Lab0-intro-capture-sheet.docx; 4 questions, 8 marks; upload to Lab0-intro on OLE.
+END:VEVENT
 END:VCALENDAR
