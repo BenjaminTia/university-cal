@@ -416,10 +416,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:0f826a89cf68c399c5f4cf320c1a5842@hkmu
 DTSTAMP:20260912T130000Z
-DTSTART;TZID=Asia/Hong_Kong:20260915T140000
-DTEND;TZID=Asia/Hong_Kong:20260915T160000
-SUMMARY:Dr Tong office chat — A0339 (IEEE branch)
-DESCRIPTION:Enlarged block so it is visible. Tue 15 Sep 14:00 proposed in his email; confirm the day if it moved to Mon.
+DTSTART;TZID=Asia/Hong_Kong:20260917T120000
+DTEND;TZID=Asia/Hong_Kong:20260917T133000
+SUMMARY:Dr Tong office chat — A0339 (TIME TBC — confirm by email)
+DESCRIPTION:Moved from Tue 15 Sep — he was not in. Word is Thu 17 Sep morning, no time given. He has ELEC 3630 09:00-10:50 + tutorial 11:00-11:50, so realistic slots are just before 09:00 or from 11:50. Placeholder time only - update when he replies.
 END:VEVENT
 
 BEGIN:VEVENT
