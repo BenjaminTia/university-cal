@@ -415,13 +415,12 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:0f826a89cf68c399c5f4cf320c1a5842@hkmu
-DTSTAMP:20260912T130000Z
-DTSTART;TZID=Asia/Hong_Kong:20260917T110000
-DTEND;TZID=Asia/Hong_Kong:20260917T120000
-SUMMARY:Dr Tong office chat — A0339 (TBC: he offered 11:00, asked for 11:50)
-Confirmed day: Thu 17 Sep. Dr Tong offered 11:00am on 15 Sep; reply asks for 11:50 because ELEC 3630 tutorial runs 11:00-11:50 in C0311. Fallback offered: Wednesday morning. Office A0339. Block spans 11:00-12:00 to cover either answer - it is a 15 min chat, not an hour.
+DTSTAMP:20260916T000000Z
+DTSTART;TZID=Asia/Hong_Kong:20260916T103000
+DTEND;TZID=Asia/Hong_Kong:20260916T123000
+SUMMARY:Dr Tong office chat - A0339 (CONFIRMED Wed 16 Sep ~10:30am)
+DESCRIPTION:CONFIRMED from the school mailbox (read 16 Sep): Dr Tong replied Tue 15 Sep 23:34, 'Wed morning ok. Please come around 10:30am.' Office A0339\, Main Campus Block A 3rd floor. Agenda: IEEE student branch - who the Branch Counselor is\, whether the department covers the fee\, how branch affiliation works. Do NOT pay the IEEE fee before this chat.\nContext: he first offered Thu 17 Sep 11:00am; that collided with the ELEC 3630 tutorial (ends 11:50)\, so Wednesday morning was requested and granted. He answered after midnight; Benjamin acknowledged with a reaction only.
 END:VEVENT
-
 BEGIN:VEVENT
 UID:0b8854ad38f0a6c65807928d28195609@hkmu
 DTSTAMP:20260912T130000Z
