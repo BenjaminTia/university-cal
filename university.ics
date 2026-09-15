@@ -546,4 +546,13 @@ DTEND;TZID=Asia/Hong_Kong:20260920T235900
 SUMMARY:ELEC 3050SEF Lab 0 Wireshark capture sheet - DUE 23:59
 DESCRIPTION:Rename to 14463982-Lab0-intro-capture-sheet.docx and upload to Lab0-intro on OLE. 4 questions, 8 marks.
 END:VEVENT
+BEGIN:VEVENT
+UID:e-day-2026-hkmu@benjamintia
+DTSTAMP:20260915T120000Z
+DTSTART;TZID=Asia/Hong_Kong:20260917T123000
+DTEND;TZID=Asia/Hong_Kong:20260917T173000
+SUMMARY:HKMU Entrepreneurship Day 2026 (E-Day) — Agile Sports Hall\, Block E\, Jockey Club Campus
+LOCATION:Agile Sports Hall\, 1/F\, Block E\, Jockey Club Campus\, HKMU (81 Chung Hau Street\, Ho Man Tin)
+DESCRIPTION:REGISTRATION CONFIRMED (email from saomc@hkmu.edu.hk\, 15 Sep 17:23 + 17:59 HKT). Reception 12:15. Bring STUDENT ID card to get the stamp card at reception. Part 1 Innovation Exchange 12:30-16:00 (project showcase\, vote favourite booth\, games\, networking with refreshments). Part 2 Success Gala 16:00-17:30 (MetroChallenge awards\, 1-min elevator pitch\, entrepreneurship talks\; voting enters the lucky draw). Language English. Workshops + 1-on-1 consultation are HKMU-students-only and their 28 Aug deadline has passed.
+END:VEVENT
 END:VCALENDAR
