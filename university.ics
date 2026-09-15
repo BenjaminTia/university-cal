@@ -416,10 +416,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:0f826a89cf68c399c5f4cf320c1a5842@hkmu
 DTSTAMP:20260912T130000Z
-DTSTART;TZID=Asia/Hong_Kong:20260917T120000
-DTEND;TZID=Asia/Hong_Kong:20260917T133000
-SUMMARY:Dr Tong office chat — A0339 (TIME TBC — confirm by email)
-DESCRIPTION:Moved from Tue 15 Sep — he was not in. Word is Thu 17 Sep morning, no time given. He has ELEC 3630 09:00-10:50 + tutorial 11:00-11:50, so realistic slots are just before 09:00 or from 11:50. Placeholder time only - update when he replies.
+DTSTART;TZID=Asia/Hong_Kong:20260917T110000
+DTEND;TZID=Asia/Hong_Kong:20260917T120000
+SUMMARY:Dr Tong office chat — A0339 (TBC: he offered 11:00, asked for 11:50)
+Confirmed day: Thu 17 Sep. Dr Tong offered 11:00am on 15 Sep; reply asks for 11:50 because ELEC 3630 tutorial runs 11:00-11:50 in C0311. Fallback offered: Wednesday morning. Office A0339. Block spans 11:00-12:00 to cover either answer - it is a 15 min chat, not an hour.
 END:VEVENT
 
 BEGIN:VEVENT
