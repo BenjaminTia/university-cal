@@ -554,4 +554,12 @@ SUMMARY:HKMU Entrepreneurship Day 2026 (E-Day) — Agile Sports Hall\, Block E\,
 LOCATION:Agile Sports Hall\, 1/F\, Block E\, Jockey Club Campus\, HKMU (81 Chung Hau Street\, Ho Man Tin)
 DESCRIPTION:REGISTRATION CONFIRMED (email from saomc@hkmu.edu.hk\, 15 Sep 17:23 + 17:59 HKT). Reception 12:15. Bring STUDENT ID card to get the stamp card at reception. Part 1 Innovation Exchange 12:30-16:00 (project showcase\, vote favourite booth\, games\, networking with refreshments). Part 2 Success Gala 16:00-17:30 (MetroChallenge awards\, 1-min elevator pitch\, entrepreneurship talks\; voting enters the lucky draw). Language English. Workshops + 1-on-1 consultation are HKMU-students-only and their 28 Aug deadline has passed.
 END:VEVENT
+BEGIN:VEVENT
+UID:b734801e6f7f4eabcd3cc4b532e07e8d@hkmu
+DTSTAMP:20260916T030000Z
+DTSTART;TZID=Asia/Hong_Kong:20260919T100000
+DTEND;TZID=Asia/Hong_Kong:20260919T113000
+SUMMARY:FYP direction - scoping session (start it sooner, per Dr Tong)
+DESCRIPTION:One-page FYP direction, built from the SCORPIO notes (17 Making It Novel and 18 The Wearable Perch): the claim\, what gets measured\, and the honest limits. Dr Tong advised on 16 Sep 2026 to start the FYP sooner rather than waiting for Y4. Ask him later whether he would supervise a project in this direction.
+END:VEVENT
 END:VCALENDAR
