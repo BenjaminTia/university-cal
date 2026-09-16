@@ -562,4 +562,13 @@ DTEND;TZID=Asia/Hong_Kong:20260919T113000
 SUMMARY:FYP direction - scoping session (start it sooner, per Dr Tong)
 DESCRIPTION:One-page FYP direction, built from the SCORPIO notes (17 Making It Novel and 18 The Wearable Perch): the claim\, what gets measured\, and the honest limits. Dr Tong advised on 16 Sep 2026 to start the FYP sooner rather than waiting for Y4. Ask him later whether he would supervise a project in this direction.
 END:VEVENT
+BEGIN:VEVENT
+UID:f1775a06f8526f2040d5886f25961cf1@hkmu
+DTSTAMP:20260916T060000Z
+DTSTART;TZID=Asia/Hong_Kong:20280128T235900
+DTEND;TZID=Asia/Hong_Kong:20280128T235900
+SUMMARY:IEEE membership renewal - pay 2028 student dues (cover runs to 31 Dec 2027)
+DESCRIPTION:IEEE student membership. Joined 16 Sep 2026, US$27 student rate, and by IEEE's own window rule (applications 16 Aug to 28 Feb are processed as the FOLLOWING year's full-year membership, services start immediately) this covers the 2027 membership year through 31 December 2027. So nothing to pay in 2026 or 2027. Renew for the 2028 year before 28 February 2028 to keep it continuous; after that date a lapsed member rejoins under the half-year window instead. Student rate is good for up to eight cumulative years. Renew at ieee.org -> Sign In -> Renew My Membership.
+URL:https://www.ieee.org/membership/renew.html
+END:VEVENT
 END:VCALENDAR
