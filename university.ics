@@ -585,6 +585,6 @@ DTSTAMP:20260917T050132Z
 DTSTART;TZID=Asia/Hong_Kong:20261123T235900
 DTEND;TZID=Asia/Hong_Kong:20261124T003000
 SUMMARY:UNI 1002ABW reflective essay — DUE Mon 23 Nov (confirm time on OLE)
-DESCRIPTION:Brief prints both 23:59:59 and 17:00. Submit .docx on OLE. Also click My Progress: viewing progress is assessed.
+DESCRIPTION:Brief prints both 23:59:59 and 17:00. MS Word only (PDF rejected). English 270-550 words or Chinese 360-660 characters. Pass needs 50pct of videos AND 50pct of text viewed, plus 50/100 on the essay.
 END:VEVENT
 END:VCALENDAR
