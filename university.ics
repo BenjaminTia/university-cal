@@ -587,4 +587,12 @@ DTEND;TZID=Asia/Hong_Kong:20261124T003000
 SUMMARY:UNI 1002ABW reflective essay — DUE Mon 23 Nov (confirm time on OLE)
 DESCRIPTION:Brief prints both 23:59:59 and 17:00. MS Word only (PDF rejected). English 270-550 words or Chinese 360-660 characters. Pass needs 50pct of videos AND 50pct of text viewed, plus 50/100 on the essay.
 END:VEVENT
+BEGIN:VEVENT
+UID:d43ab8d153594f66ae13c86ae6fe8ab7@hkmu
+DTSTAMP:20260917T051051Z
+DTSTART;TZID=Asia/Hong_Kong:20260918T100000
+DTEND;TZID=Asia/Hong_Kong:20260918T113000
+SUMMARY:UNI 1002ABW - OLE setup + Module 1 start (core values)
+DESCRIPTION:Read What you need to know + click the acknowledgement; screenshot the marking rubric, the exact deadline time and the module schedule; start Module 1 viewing. Friday is class-free; Sat and Sun already carry the ELEC 3050 hand-ins, the FYP scoping session and the project day.
+END:VEVENT
 END:VCALENDAR
