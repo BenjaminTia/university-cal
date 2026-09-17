@@ -495,7 +495,11 @@ DTSTAMP:20260913T000000Z
 DTSTART;TZID=Asia/Hong_Kong:20261116T170000
 DTEND;TZID=Asia/Hong_Kong:20261116T183000
 SUMMARY:UNI 2002BEW Worksheet 2 + Peer Evaluation (group, 20%) — DUE 17:00
-DESCRIPTION:Assignment 1 in the Course Document = Worksheet 2 (group, one member uploads) + each student uploads their own Peer Evaluation Form. 17:00 deadline.
+DESCRIPTION:Assignment 1 in the Course Document = Worksheet 2 (group\, 20%\, one mem
+ ber uploads): Task C campaign plan for a chosen HKMU problem (40%) + Ta
+ sk D team-performance evaluation video (60%). EVERY member separately u
+ ploads their own Peer Evaluation Form. Team is T48E under tutor Mr Euge
+ ne Chan (T48). 17:00 deadline.
 END:VEVENT
 BEGIN:VEVENT
 UID:34b54d65ac3088b55218ebbb14f149fe@hkmu
@@ -503,7 +507,16 @@ DTSTAMP:20260913T000000Z
 DTSTART;TZID=Asia/Hong_Kong:20261128T130000
 DTEND;TZID=Asia/Hong_Kong:20261128T160000
 SUMMARY:UNI 2002BEW Day School — COMPULSORY (T48) 13:00-16:00
-DESCRIPTION:Compulsory in-person AI co-creation workshop at New World Millennium, 72 Mody Rd. ABSENCE = AUTOMATIC FAIL.
+DESCRIPTION:Compulsory in-person AI co-creation workshop. ABSENCE = AUTOMATIC FAIL. 
+ Venue: Grand Ballroom\, New World Millennium Hong Kong Hotel\, 72 Mody 
+ Road\, Tsim Sha Tsui East (room shared with groups T47-T52\; 21 Nov is 
+ the other cohorts' date). Session clock: 13:00 trainer briefing on the 
+ AI tools\, 14:00 first draft of Worksheet 3 (Task E Campaign Promotion)
+ \, 15:00 tutor consultation\, 15:30 finalise\, 15:30-16:00 upload Works
+ heet 3 on OLE. Bring laptop + data access\; casual clothes + sports sho
+ es (no skirt\, heels or sandals)\; water and a jacket. Tools used: HKMU
+  ChatGPT portal\, Canva\, Leonardo.Ai.
+LOCATION:Grand Ballroom\, New World Millennium Hong Kong Hotel\, 72 Mody Road\, Tsim Sha Tsui East
 END:VEVENT
 BEGIN:VEVENT
 UID:2d8f862c7ff54b63ebc53962bd524221@hkmu
