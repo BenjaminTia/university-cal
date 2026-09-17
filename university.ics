@@ -571,4 +571,20 @@ SUMMARY:IEEE membership renewal - pay 2028 student dues (cover runs to 31 Dec 20
 DESCRIPTION:IEEE student membership. Joined 16 Sep 2026, US$27 student rate, and by IEEE's own window rule (applications 16 Aug to 28 Feb are processed as the FOLLOWING year's full-year membership, services start immediately) this covers the 2027 membership year through 31 December 2027. So nothing to pay in 2026 or 2027. Renew for the 2028 year before 28 February 2028 to keep it continuous; after that date a lapsed member rejoins under the half-year window instead. Student rate is good for up to eight cumulative years. Renew at ieee.org -> Sign In -> Renew My Membership.
 URL:https://www.ieee.org/membership/renew.html
 END:VEVENT
+BEGIN:VEVENT
+UID:017cb51355454506a11dd54a254e2c97@hkmu
+DTSTAMP:20260917T050132Z
+DTSTART;TZID=Asia/Hong_Kong:20261120T093000
+DTEND;TZID=Asia/Hong_Kong:20261120T110000
+SUMMARY:UNI 1002ABW reflective essay — DRAFT (2 parts, 300-500 words each)
+DESCRIPTION:Work block for the core-values reflective essay. Fri, not Sunday. Check OLE for the exact close time first.
+END:VEVENT
+BEGIN:VEVENT
+UID:75a36c7685104fd1a546b6ee81e00c2c@hkmu
+DTSTAMP:20260917T050132Z
+DTSTART;TZID=Asia/Hong_Kong:20261123T235900
+DTEND;TZID=Asia/Hong_Kong:20261124T003000
+SUMMARY:UNI 1002ABW reflective essay — DUE Mon 23 Nov (confirm time on OLE)
+DESCRIPTION:Brief prints both 23:59:59 and 17:00. Submit .docx on OLE. Also click My Progress: viewing progress is assessed.
+END:VEVENT
 END:VCALENDAR
