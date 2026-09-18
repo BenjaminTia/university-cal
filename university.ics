@@ -492,10 +492,17 @@ END:VEVENT
 BEGIN:VEVENT
 UID:c862c873b9f803fa64f5cb1b189a100b@hkmu
 DTSTAMP:20260913T000000Z
-DTSTART;TZID=Asia/Hong_Kong:20261116T170000
-DTEND;TZID=Asia/Hong_Kong:20261116T183000
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
 SUMMARY:UNI 2002BEW Worksheet 2 + Peer Evaluation (group, 20%) — DUE 17:00
-DESCRIPTION:Assignment 1 in the Course Document = Worksheet 2 (group\, 20%\, one mem
+DESCRIPTION:OLE calls this Assign 1\; the Course Document calls it Assignment 1 (gro
+ up\, 20%)\; the content is Worksheet 2: Task C campaign plan for a chos
+ en HKMU problem (40%) + Task D team-performance evaluation video (60%)\
+ , one member uploads\, EVERY member separately uploads their own Peer E
+ valuation Form. Team T48E\, tutor Mr Eugene Chan (T48). OLE notice past
+ ed 18 Sep 2026 gives the date 2026-11-16\; the assessment page states 1
+ 7:00\, so submit earlier in the day. All-day banner on purpose: this de
+ adline must be impossible to miss.
  ber uploads): Task C campaign plan for a chosen HKMU problem (40%) + Ta
  sk D team-performance evaluation video (60%). EVERY member separately u
  ploads their own Peer Evaluation Form. Team is T48E under tutor Mr Euge
@@ -506,7 +513,7 @@ UID:34b54d65ac3088b55218ebbb14f149fe@hkmu
 DTSTAMP:20260913T000000Z
 DTSTART;TZID=Asia/Hong_Kong:20261128T130000
 DTEND;TZID=Asia/Hong_Kong:20261128T160000
-SUMMARY:UNI 2002BEW Day School — COMPULSORY (T48) 13:00-16:00
+SUMMARY:UNI 2002BEW COMPULSORY Day School (T48) 13:00-16:00 - MISS = FAIL - Grand Ballroom, New World Millennium
 DESCRIPTION:Compulsory in-person AI co-creation workshop. ABSENCE = AUTOMATIC FAIL. 
  Venue: Grand Ballroom\, New World Millennium Hong Kong Hotel\, 72 Mody 
  Road\, Tsim Sha Tsui East (room shared with groups T47-T52\; 21 Nov is 
@@ -607,5 +614,20 @@ DTSTART;TZID=Asia/Hong_Kong:20260918T100000
 DTEND;TZID=Asia/Hong_Kong:20260918T113000
 SUMMARY:UNI 1002ABW - OLE setup + Module 1 start (core values)
 DESCRIPTION:Read What you need to know + click the acknowledgement; screenshot the marking rubric, the exact deadline time and the module schedule; start Module 1 viewing. Friday is class-free; Sat and Sun already carry the ELEC 3050 hand-ins, the FYP scoping session and the project day.
+END:VEVENT
+BEGIN:VEVENT
+UID:5f38b0933d052bfaff7eb7208a0654c1@hkmu
+DTSTAMP:20260918T120000Z
+DTSTART;TZID=Asia/Hong_Kong:20261121T090000
+DTEND;TZID=Asia/Hong_Kong:20261121T175000
+SUMMARY:UNI 2002BEW - L04 session listed on OLE (09:00-17:50) - VERIFY against your Day School
+DESCRIPTION:OLE notice pasted 18 Sep 2026: 事項名稱 UNI2002BEW\, 開始日期 2026-11-21 09:00\,
+  結束日期 2026-11-21 17:50\, 地點 Refer to OLE\, (Gp L04 講學 (全日制)). CAUTION: 
+ this is the LECTURE-group row. Your own compulsory Day School is Sat 28
+  Nov 13:00-16:00 at the New World Millennium Grand Ballroom\, because t
+ he induction deck assigns day schools by TUTORIAL group and T48 sits in
+  the 28 Nov afternoon band. Expect the confirming email in October\; un
+ til it arrives\, treat 28 Nov as your real date and keep this date clea
+ r as a precaution.
 END:VEVENT
 END:VCALENDAR
