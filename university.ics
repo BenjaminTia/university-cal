@@ -666,4 +666,16 @@ DESCRIPTION:Answering blocks were booked Fri 25 and Sat 26 Sep\, a week early on
  y. PDF only\, name + student number on page 1\, show steps\, upload to 
  OLE (never by email\, never JPEG).
 END:VEVENT
+BEGIN:VEVENT
+UID:e394584c30bdef522740105752a5e57a@hkmu
+DTSTAMP:20260918T120000Z
+DTSTART;TZID=Asia/Hong_Kong:20261010T235900
+DTEND;TZID=Asia/Hong_Kong:20261010T235900
+SUMMARY:NATON LAB "AI Intern" - application DUE (Apply Before 10 Oct)
+DESCRIPTION:Reply email written 13 Sep and sitting UNSENT in Gmail\; nothing sends u
+ ntil he says so. Posting: https://saocareer.hkmu.edu.hk/jobs/ai-intern/
+  (5 vacancies). Apply Before 2026-10-10\, read from the live posting on
+  13 Sep 2026. Role is really Technical Project Management: AI-ops acros
+ s client projects\, not model or robotics work.
+END:VEVENT
 END:VCALENDAR
