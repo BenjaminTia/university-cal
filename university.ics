@@ -781,4 +781,12 @@ SUMMARY:ELEC 3630SEF MID-TERM (Units 1-4, closed book) - arrive 09:00
 LOCATION:C0311
 DESCRIPTION:Closed book/notes. Approved calculator only (list in course folder). Bring student ID.
 END:VEVENT
+BEGIN:VEVENT
+UID:5c35eb35a0fc43af899ceb5094a6cd08@hkmu
+DTSTAMP:20260919T170000Z
+DTSTART;TZID=Asia/Hong_Kong:20260926T100000
+DTEND;TZID=Asia/Hong_Kong:20260926T123000
+SUMMARY:Dream Builder PS finalise + attach files + prepare submission
+DESCRIPTION:Personal statement v2 (Google Doc) -> PDF; attach CV + academic report; submit before Sun 27 Sep 23:59.
+END:VEVENT
 END:VCALENDAR
