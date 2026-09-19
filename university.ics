@@ -772,4 +772,13 @@ SUMMARY:ELEC 3050SEF Tutorial 1 | DUE 23:59
 DESCRIPTION:Tutorial 1 (Ch1). Format per the tutorial header: Tutorial1-[studentID].pdf -> Tutorial1-14463982.pdf. The six answers are already written into Tutorial1.docx (19 Sep); convert to PDF and upload to OLE. Same night as the Lab 0 capture sheet, which goes up as a .docx.
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+UID:7a39a1670d1d489ab4e6b0facea2f11b@hkmu
+DTSTAMP:20260919T160000Z
+DTSTART;TZID=Asia/Hong_Kong:20261112T091500
+DTEND;TZID=Asia/Hong_Kong:20261112T110000
+SUMMARY:ELEC 3630SEF MID-TERM (Units 1-4, closed book) - arrive 09:00
+LOCATION:C0311
+DESCRIPTION:Closed book/notes. Approved calculator only (list in course folder). Bring student ID.
+END:VEVENT
 END:VCALENDAR
