@@ -763,4 +763,13 @@ SUMMARY:ELEC 3050SEF Lab 01 (HTTP) - build it
 DESCRIPTION:Wireshark HTTP lab, due the next day. Lab 0 took one sitting; three hours is the booking.
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+UID:tut1-due-20260920@benjamintia
+DTSTAMP:20260919T121649Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:ELEC 3050SEF Tutorial 1 | DUE 23:59
+DESCRIPTION:Tutorial 1 (Ch1). Format per the tutorial header: Tutorial1-[studentID].pdf -> Tutorial1-14463982.pdf. The six answers are already written into Tutorial1.docx (19 Sep); convert to PDF and upload to OLE. Same night as the Lab 0 capture sheet, which goes up as a .docx.
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
