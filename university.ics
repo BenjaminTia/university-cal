@@ -745,4 +745,22 @@ DESCRIPTION:UNI 2002BEW Assign 1 submitted (16 Nov). UNI 1002ABW reflective essa
  es\, Worksheet 3 uploaded on the day. Exam revision plan for 7 to 27 De
  c.
 END:VEVENT
+BEGIN:VEVENT
+UID:lab01-due-20260927@benjamintia
+DTSTAMP:20260919T120624Z
+DTSTART;TZID=Asia/Hong_Kong:20260927
+DTEND;TZID=Asia/Hong_Kong:20260928
+SUMMARY:ELEC 3050SEF Lab 01 (HTTP) | DUE (confirm time on OLE)
+DESCRIPTION:New lab reported 19 Sep 2026; due Sunday 27 Sep. Materials not yet in the iCloud course folder, so the dropbox name and exact time come from OLE. Submit the .docx (Lab 0's sheet pattern: 8_digit_student_id-...docx, no PDF conversion) unless Lab 01's own sheet says otherwise.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lab01-work-20260926@benjamintia
+DTSTAMP:20260919T120624Z
+DTSTART;TZID=Asia/Hong_Kong:20260926T100000
+DTEND;TZID=Asia/Hong_Kong:20260926T130000
+SUMMARY:ELEC 3050SEF Lab 01 (HTTP) - build it
+DESCRIPTION:Wireshark HTTP lab, due the next day. Lab 0 took one sitting; three hours is the booking.
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
