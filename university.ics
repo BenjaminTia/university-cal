@@ -699,14 +699,6 @@ SUMMARY:Dream Builder PS finalise + attach files + prepare submission
 DESCRIPTION:Personal statement v2 (Google Doc) -> PDF; attach CV + academic report; submit before Sun 27 Sep 23:59.
 END:VEVENT
 BEGIN:VEVENT
-UID:629f7cdfeb9c4e6f9649d687ded381d9@huawei
-DTSTAMP:20260920T102619Z
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20270101
-SUMMARY:Huawei ICT Competition - Preliminary stage (window Oct-Dec 2026)
-DESCRIPTION:Huawei portal schedule: registration Aug-Dec 2026, Preliminary Oct-Dec 2026. Exact HK exam date TBA - watch portal Notifications tab. Study plan: Cloud Learning Space -> 'Past Exam papers and Outline' first, then Preliminary Stage resources. 2-3 h/week.
-END:VEVENT
-BEGIN:VEVENT
 UID:6034d354da3c430590ffbd15250337c1@huawei
 DTSTAMP:20260920T102619Z
 DTSTART;VALUE=DATE:20261101
@@ -737,5 +729,13 @@ DTSTART;TZID=Asia/Hong_Kong:20260924T235900
 DTEND;TZID=Asia/Hong_Kong:20260925T000000
 SUMMARY:DUE: Imperial Global Hackathon - register your interest (free, solo)
 DESCRIPTION:Register interest by 24 Sep 2026 at imperial.ac.uk/study/visit/events/global-hackathons/hackathon-hong-kong-macau. Open to current HK/Macau university students, all backgrounds. Registration alone gets the challenge brief; a team of 4+ is needed only before the team submission deadline 25 Oct. Entry = 150-word proposal + 3-5 min video pitch. Grand Final 14 Nov at HKSTP InnoPark.
+END:VEVENT
+BEGIN:VEVENT
+UID:71ee07f2380c4e24b07235ce6535a4be@huawei
+DTSTAMP:20260920T130317Z
+DTSTART;TZID=Asia/Hong_Kong:20261231T235900
+DTEND;TZID=Asia/Hong_Kong:20261231T235900
+SUMMARY:Huawei ICT - preliminary window closes (Oct-Dec)
+DESCRIPTION:Huawei portal schedule: preliminary stage runs Oct-Dec 2026; exact exam date TBA on the portal Notifications tab. Study runs from the Cloud Learning Space (past papers first).
 END:VEVENT
 END:VCALENDAR
