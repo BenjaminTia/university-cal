@@ -52,9 +52,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:d53f87922cfc4db993ad592eef7b43f3@hkmu
 DTSTAMP:20260908T161340Z
-DTSTART;TZID=Asia/Hong_Kong:20261006T100000
-DTEND;TZID=Asia/Hong_Kong:20261006T120000
-SUMMARY:Dream Builder admission group interview
+DTSTART;TZID=Asia/Hong_Kong:20261006T140000
+DTEND;TZID=Asia/Hong_Kong:20261006T180000
+SUMMARY:Dream Builder interview (if shortlisted) - Tue 6 Oct
+DESCRIPTION:Window he expects: Tuesday 6 October 2026, roughly 2pm to 6pm (his own estimate; SAO emails the exact slot by 2 October). Application submitted 20 Sep.
 END:VEVENT
 BEGIN:VEVENT
 UID:76f8aa787edb4e08b3a233a50dc82ac2@hkmu
