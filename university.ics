@@ -789,4 +789,36 @@ DTEND;TZID=Asia/Hong_Kong:20260926T123000
 SUMMARY:Dream Builder PS finalise + attach files + prepare submission
 DESCRIPTION:Personal statement v2 (Google Doc) -> PDF; attach CV + academic report; submit before Sun 27 Sep 23:59.
 END:VEVENT
+BEGIN:VEVENT
+UID:629f7cdfeb9c4e6f9649d687ded381d9@huawei
+DTSTAMP:20260920T102619Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20270101
+SUMMARY:Huawei ICT Competition - Preliminary stage (window Oct-Dec 2026)
+DESCRIPTION:Huawei portal schedule: registration Aug-Dec 2026, Preliminary Oct-Dec 2026. Exact HK exam date TBA - watch portal Notifications tab. Study plan: Computing Learning Space -> 'Past Exam papers and Outline' first, then Preliminary Stage resources. 2-3 h/week.
+END:VEVENT
+BEGIN:VEVENT
+UID:6034d354da3c430590ffbd15250337c1@huawei
+DTSTAMP:20260920T102619Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20270201
+SUMMARY:Huawei ICT Competition - National Final (window Nov 2026 - Jan 2027)
+DESCRIPTION:Portal schedule. Only reachable after clearing the Preliminary. HKMU has taken 2nd and 3rd in the Computing track in past rounds.
+END:VEVENT
+BEGIN:VEVENT
+UID:340513fa2d024454b4e8c869b7b9ffd9@huawei
+DTSTAMP:20260920T102619Z
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270401
+SUMMARY:Huawei ICT Competition - APAC Regional Final (March 2027)
+DESCRIPTION:Portal schedule. Team stage; team score is computed from individual scores.
+END:VEVENT
+BEGIN:VEVENT
+UID:0faf6dfa06cf420994394a38ace9e83a@huawei
+DTSTAMP:20260920T102619Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270601
+SUMMARY:Huawei ICT Competition - Global Final (May 2027, Shenzhen)
+DESCRIPTION:Portal schedule. Prize money up to HK$15,000 per team at the finals.
+END:VEVENT
 END:VCALENDAR
