@@ -88,22 +88,6 @@ SUMMARY:Me&U interview window (28 Sep-2 Oct, if shortlisted)
 DESCRIPTION:Invite email mid/late Sep. 11 slots already declared.
 END:VEVENT
 BEGIN:VEVENT
-UID:c1b1f025b2c24f6098b05d113130685b@hkmu
-DTSTAMP:20260908T161340Z
-DTSTART;TZID=Asia/Hong_Kong:20260930T235900
-DTEND;TZID=Asia/Hong_Kong:20260930T235900
-SUMMARY:台山商會獎助學金 - application DUE (check eligibility)
-DESCRIPTION:Criteria: hkmu.edu.hk/sao/sch/external_current/
-END:VEVENT
-BEGIN:VEVENT
-UID:37c27e7e90aa47d88889239c1cc9b7f1@hkmu
-DTSTAMP:20260908T161340Z
-DTSTART;TZID=Asia/Hong_Kong:20261006T235900
-DTEND;TZID=Asia/Hong_Kong:20261006T235900
-SUMMARY:NOT ELIGIBLE (needs 2yrs work exp): Chevening Scholarship DUE
-DESCRIPTION:UK MSc. Revisit 2028 cycle if ineligible.
-END:VEVENT
-BEGIN:VEVENT
 UID:8922ce22613647d392349a806a0b8d18@hkmu
 DTSTAMP:20260908T161340Z
 DTSTART;VALUE=DATE:20261027
@@ -139,21 +123,6 @@ DTEND;TZID=Asia/Hong_Kong:20260930T235900
 SUMMARY:Methodist Study Trust 循道教會助學基金 2026/27 - application DUE
 
 DESCRIPTION:External grant via SAO Financial Assistance (sao_sfs@hkmu.edu.hk, 2768 6636). Eligibility check DO 25 Sep.
-
-END:VEVENT
-BEGIN:VEVENT
-
-UID:3613f17a66874432a21d6b20e1ff2312@univ
-
-DTSTAMP:20260909T124318Z
-
-DTSTART;TZID=Asia/Hong_Kong:20261015T235900
-
-DTEND;TZID=Asia/Hong_Kong:20261015T235900
-
-SUMMARY:Li Kwan Hung Education Fund 2026/27 - application DUE
-
-DESCRIPTION:hkphab.org.hk guideline PDF + online form surveycake.com/s/RQlG1. DO 14 Oct.
 
 END:VEVENT
 BEGIN:VEVENT
@@ -281,14 +250,6 @@ SUMMARY:DUE: HKMU Dream Builder Scheme application 23:59
 DESCRIPTION:Qualtrics form + PS PDF (Benjamin Harris Chen Tia_14463982.pdf) + CV + HKU SPACE official record. Quota 18-20; interview 6 Oct.
 END:VEVENT
 BEGIN:VEVENT
-UID:4f6481b23f741ca3ceebc483c3116b6d@hkmu
-DTSTAMP:20260910T200000Z
-DTSTART;TZID=Asia/Hong_Kong:20260930T090000
-DTEND;TZID=Asia/Hong_Kong:20260930T235900
-SUMMARY:NOT ELIGIBLE (ancestry / prior post-secondary): 台山商會獎助學金 + Methodist Study Trust (30 Sep)
-DESCRIPTION:Both external grants close 30 Sep. Check eligibility on the SAO external grants page first.
-END:VEVENT
-BEGIN:VEVENT
 UID:c59dd17d159f443bb97709a297379bd1@hkmu
 DTSTAMP:20260910T200000Z
 DTSTART;TZID=Asia/Hong_Kong:20261001T090000
@@ -303,14 +264,6 @@ DTSTART;TZID=Asia/Hong_Kong:20261002T090000
 DTEND;TZID=Asia/Hong_Kong:20261002T235900
 SUMMARY:DUE (optional): Personal Finance Ambassador Programme application
 DESCRIPTION:Investor and Financial Education Council + St James' Settlement. Teams of 3-5 same-institution students; grant up to HK$5,000; certificate. Briefing 20 Sep 11:00 (optional).
-END:VEVENT
-BEGIN:VEVENT
-UID:d2c59fe94ef0cf4401795801adf9b979@hkmu
-DTSTAMP:20260910T200000Z
-DTSTART;TZID=Asia/Hong_Kong:20261015T090000
-DTEND;TZID=Asia/Hong_Kong:20261015T235900
-SUMMARY:NOT ELIGIBLE (PR + disability only): Li Kwan Hung Education Fund (15 Oct)
-DESCRIPTION:hkpha form.
 END:VEVENT
 BEGIN:VEVENT
 UID:9e1447fb85ca09bedc3d02bb7a7320d2@hkmu
@@ -363,11 +316,6 @@ DTEND;TZID=Asia/Hong_Kong:20260912T191500
 SUMMARY:SAT PM: ELEC 3050 review + job board + ELEC 3630 Tutorials 1&2
 DESCRIPTION:17:00 ELEC 3050 networking review (test 2 Nov). 18:00 job board: NATON AI Intern / Veolia Scheme A / Bureau Veritas. 18:45 ELEC 3630 Tutorial 1 review + Tutorial 2 + cache self-test.
 END:VEVENT
-
-
-
-
-
 BEGIN:VEVENT
 UID:437f57809f82b9e2947f70fd488eb536@hkmu
 DTSTAMP:20260912T130000Z
@@ -376,7 +324,6 @@ DTEND;TZID=Asia/Hong_Kong:20260913T163000
 SUMMARY:COMP 3500 group-formation form — submit (DUE Mon)
 DESCRIPTION:Slide 19 requirement (Ezeamuzie email 11 Sep). Submit own group or request random allocation.
 END:VEVENT
-
 BEGIN:VEVENT
 UID:425db905039f7a6559ce1115efa7d397@hkmu
 DTSTAMP:20260912T130000Z
@@ -385,7 +332,6 @@ DTEND;TZID=Asia/Hong_Kong:20260913T180000
 SUMMARY:Past-papers hunt
 DESCRIPTION:HKMU LibSearch by course code (no spaces) + OLE + verified external sets in Revision Strategy.md. Five gates apply.
 END:VEVENT
-
 BEGIN:VEVENT
 UID:9d7115b42254d59b82440ebe8084927f@hkmu
 DTSTAMP:20260912T130000Z
@@ -394,7 +340,6 @@ DTEND;TZID=Asia/Hong_Kong:20260913T193000
 SUMMARY:ELEC 3630 deep study — memory + cache
 DESCRIPTION:AMAT, mapping, tag/index/offset, 4 Cs. Tutorials 1 & 2 + Question Bank practice.
 END:VEVENT
-
 BEGIN:VEVENT
 UID:3e8d88fdd85d7153525e0647cdd97686@hkmu
 DTSTAMP:20260912T130000Z
@@ -403,7 +348,6 @@ DTEND;TZID=Asia/Hong_Kong:20260913T210000
 SUMMARY:Wireshark skills polish
 DESCRIPTION:Still needed after the 3250 review. Filters, Follow Stream, Protocol Hierarchy, tshark; replay UnknownAttack.pcap cold; own live capture.
 END:VEVENT
-
 BEGIN:VEVENT
 UID:83f1535f99ab0bf4e9d02dfd85d3e3f7@hkmu
 DTSTAMP:20260912T130000Z
@@ -412,7 +356,6 @@ DTEND;TZID=Asia/Hong_Kong:20260915T133000
 SUMMARY:Email: Au Yeung — guidance
 DESCRIPTION:jauyeung@hkmu.edu.hk via Outlook. Draft text exists.
 END:VEVENT
-
 BEGIN:VEVENT
 UID:0f826a89cf68c399c5f4cf320c1a5842@hkmu
 DTSTAMP:20260916T000000Z
@@ -429,7 +372,6 @@ DTEND;TZID=Asia/Hong_Kong:20260915T173000
 SUMMARY:Email: Wang — guidance
 DESCRIPTION:wmwang@hkmu.edu.hk via Outlook. Draft text exists.
 END:VEVENT
-
 BEGIN:VEVENT
 UID:1051527638b9da6fe99e4242795a10ea@hkmu
 DTSTAMP:20260912T130000Z
@@ -438,7 +380,6 @@ DTEND;TZID=Asia/Hong_Kong:20260915T190000
 SUMMARY:Email: Guo — guidance (find address first)
 DESCRIPTION:Needs a To: address - CUHK MAE directory or ask HKLF organisers to forward.
 END:VEVENT
-
 BEGIN:VEVENT
 UID:df2184f4b46de3ddf02f74fb03810020@hkmu
 DTSTAMP:20260912T130000Z
@@ -447,7 +388,6 @@ DTEND;TZID=Asia/Hong_Kong:20260915T203000
 SUMMARY:Language Centre — rebook Cantonese F2F
 DESCRIPTION:Missed Fri 16:30 session (Block A A0411, eid 010765). Email the LC to rebook.
 END:VEVENT
-
 BEGIN:VEVENT
 UID:a77cca9bd375665b36f4239eeda0c996@hkmu
 DTSTAMP:20260912T130000Z
@@ -456,7 +396,6 @@ DTEND;TZID=Asia/Hong_Kong:20260915T220000
 SUMMARY:SAO — email re late Providence bursary
 DESCRIPTION:In-person window closed 11 Sep 17:00; ask about a late submission.
 END:VEVENT
-
 BEGIN:VEVENT
 UID:5d8cacf144c08712b22b167f47e17462@hkmu
 DTSTAMP:20260913T000000Z
@@ -828,13 +767,5 @@ DTSTART;TZID=Asia/Hong_Kong:20260924T235900
 DTEND;TZID=Asia/Hong_Kong:20260925T000000
 SUMMARY:DUE: Imperial Global Hackathon - register your interest (free, solo)
 DESCRIPTION:Register interest by 24 Sep 2026 at imperial.ac.uk/study/visit/events/global-hackathons/hackathon-hong-kong-macau. Open to current HK/Macau university students, all backgrounds. Registration alone gets the challenge brief; a team of 4+ is needed only before the team submission deadline 25 Oct. Entry = 150-word proposal + 3-5 min video pitch. Grand Final 14 Nov at HKSTP InnoPark.
-END:VEVENT
-BEGIN:VEVENT
-UID:8f2ca88dbbcc40369008492dcafe4bc9@opp
-DTSTAMP:20260920T111659Z
-DTSTART;TZID=Asia/Hong_Kong:20260927T235900
-DTEND;TZID=Asia/Hong_Kong:20260928T000000
-SUMMARY:NOT VIABLE (team required): Cathay Hackathon 2026
-DESCRIPTION:Cathay's official FAQ: "we are not accepting individual applications, find your friends and apply together as a team." Teams of 3-5 must be formed BEFORE applying, so this cannot be entered alone. Recorded so it stops reappearing in scans.
 END:VEVENT
 END:VCALENDAR
