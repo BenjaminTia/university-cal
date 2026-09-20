@@ -12,14 +12,6 @@ SUMMARY:ELEC 3250: submit 6-person group list (Yeung)
 DESCRIPTION:Paper group list at lecture.
 END:VEVENT
 BEGIN:VEVENT
-UID:ff41eb4e51564de797faa446e53d4191@hkmu
-DTSTAMP:20260920T140000Z
-DTSTART;TZID=Asia/Hong_Kong:20260923T160000
-DTEND;TZID=Asia/Hong_Kong:20260923T180000
-SUMMARY:ELEC 3250SEF Assignment 1 (hardcopy) - DUE week 4 (date/time NOT announced)
-DESCRIPTION:ELEC 3250SEF Assignment 1, hardcopy submitted in class (Dr Yeung). NO DATE AND NO TIME HAVE BEEN ANNOUNCED by the course; week 4 is the only known marker. This entry is a PLACEHOLDER slot only. Verify the exact day and time on OLE before acting.
-END:VEVENT
-BEGIN:VEVENT
 UID:9ab01a9feb7b4fa6ab962fbaf5410a22@hkmu
 DTSTAMP:20260908T161340Z
 DTSTART;TZID=Asia/Hong_Kong:20261007T160000
@@ -218,14 +210,6 @@ DTSTART;TZID=Asia/Hong_Kong:20260921T160000
 DTEND;TZID=Asia/Hong_Kong:20260921T173000
 SUMMARY:Scholarships Online Info Session (Zoom) 16:00-17:30
 DESCRIPTION:CONFIRMED REGISTRATION (SAO confirmation email 18 Sep 2026). Zoom link: https://hkmu.zoom.us/j/98553869095?pwd=0Ya45WVlPZ3wcbagTMcbPuOnmz4Uu8.1 | Meeting ID: 985 5386 9095 | Passcode: 318100. Join with your HKMU student account: attendance is taken by Student No. Seats are first come first served at the 500 webinar cap, so log in early. Attend the whole session + complete the short survey = 1 Metro FAITH engagement hour (Future skills and intelligence).
-END:VEVENT
-BEGIN:VEVENT
-UID:8976b3cdb1256c5c1e8a068b80a56315@hkmu
-DTSTAMP:20260920T140000Z
-DTSTART;TZID=Asia/Hong_Kong:20260923T090000
-DTEND;TZID=Asia/Hong_Kong:20260923T235900
-SUMMARY:ELEC 3250SEF Assignment 1 (hardcopy) - DUE week 4 (date/time NOT announced)
-DESCRIPTION:ELEC 3250SEF Assignment 1, hardcopy submitted in class (Dr Yeung). NO DATE AND NO TIME HAVE BEEN ANNOUNCED by the course; week 4 is the only known marker. This entry is a PLACEHOLDER slot only. Verify the exact day and time on OLE before acting.
 END:VEVENT
 BEGIN:VEVENT
 UID:ecc9bdc18656ba2cb5d1902f35032bdb@hkmu
