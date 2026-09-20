@@ -100,7 +100,7 @@ UID:37c27e7e90aa47d88889239c1cc9b7f1@hkmu
 DTSTAMP:20260908T161340Z
 DTSTART;TZID=Asia/Hong_Kong:20261006T235900
 DTEND;TZID=Asia/Hong_Kong:20261006T235900
-SUMMARY:Chevening Scholarship - application DUE (likely needs 2yrs exp)
+SUMMARY:NOT ELIGIBLE (needs 2yrs work exp): Chevening Scholarship DUE
 DESCRIPTION:UK MSc. Revisit 2028 cycle if ineligible.
 END:VEVENT
 BEGIN:VEVENT
@@ -285,7 +285,7 @@ UID:4f6481b23f741ca3ceebc483c3116b6d@hkmu
 DTSTAMP:20260910T200000Z
 DTSTART;TZID=Asia/Hong_Kong:20260930T090000
 DTEND;TZID=Asia/Hong_Kong:20260930T235900
-SUMMARY:DUE: 台山商會獎助學金 + Methodist Study Trust (30 Sep)
+SUMMARY:NOT ELIGIBLE (ancestry / prior post-secondary): 台山商會獎助學金 + Methodist Study Trust (30 Sep)
 DESCRIPTION:Both external grants close 30 Sep. Check eligibility on the SAO external grants page first.
 END:VEVENT
 BEGIN:VEVENT
@@ -309,7 +309,7 @@ UID:d2c59fe94ef0cf4401795801adf9b979@hkmu
 DTSTAMP:20260910T200000Z
 DTSTART;TZID=Asia/Hong_Kong:20261015T090000
 DTEND;TZID=Asia/Hong_Kong:20261015T235900
-SUMMARY:DUE: Li Kwan Hung Education Fund 2026/27 (15 Oct)
+SUMMARY:NOT ELIGIBLE (PR + disability only): Li Kwan Hung Education Fund (15 Oct)
 DESCRIPTION:hkpha form.
 END:VEVENT
 BEGIN:VEVENT
@@ -828,5 +828,13 @@ DTSTART;TZID=Asia/Hong_Kong:20260924T235900
 DTEND;TZID=Asia/Hong_Kong:20260925T000000
 SUMMARY:DUE: Imperial Global Hackathon - register your interest (free, solo)
 DESCRIPTION:Register interest by 24 Sep 2026 at imperial.ac.uk/study/visit/events/global-hackathons/hackathon-hong-kong-macau. Open to current HK/Macau university students, all backgrounds. Registration alone gets the challenge brief; a team of 4+ is needed only before the team submission deadline 25 Oct. Entry = 150-word proposal + 3-5 min video pitch. Grand Final 14 Nov at HKSTP InnoPark.
+END:VEVENT
+BEGIN:VEVENT
+UID:8f2ca88dbbcc40369008492dcafe4bc9@opp
+DTSTAMP:20260920T111659Z
+DTSTART;TZID=Asia/Hong_Kong:20260927T235900
+DTEND;TZID=Asia/Hong_Kong:20260928T000000
+SUMMARY:NOT VIABLE (team required): Cathay Hackathon 2026
+DESCRIPTION:Cathay's official FAQ: "we are not accepting individual applications, find your friends and apply together as a team." Teams of 3-5 must be formed BEFORE applying, so this cannot be entered alone. Recorded so it stops reappearing in scans.
 END:VEVENT
 END:VCALENDAR
