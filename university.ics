@@ -594,7 +594,7 @@ DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
 SUMMARY:CHECK: September close-out - are you on track?
 DESCRIPTION:Review hour\, not a deadline. ELEC 3050SEF Tutorial 1 + Lab 0 submitted 
- (due Sun 20 Sep 23:59). ELEC 3250SEF A1 hardcopy (due 23 Sep). ELEC 363
+ (due Sun 20 Sep 23:59). ELEC 363
  0SEF A1 started (due Fri 2 Oct 23:59). SCORPIO leg modelled in Fusion? 
  Anything overdue moves to a Friday or Saturday block.
 END:VEVENT
