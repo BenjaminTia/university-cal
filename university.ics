@@ -66,14 +66,6 @@ SUMMARY:HKLF Session 3 @ CUHK - Beyond the Algorithm (CS, GenAI, Data & Trust)
 DESCRIPTION:Yasumoto Intl Academic Park LT2. Univ MTR Exit D ~5min. Arrive 13:30-13:45. Free/English. Plan: vault 'HKLF Session 3 - Game Plan'.
 END:VEVENT
 BEGIN:VEVENT
-UID:b8552a8c653e4c00971d70453033b24f@hkmu
-DTSTAMP:20260908T161340Z
-DTSTART;TZID=Asia/Hong_Kong:20260911T170000
-DTEND;TZID=Asia/Hong_Kong:20260911T170000
-SUMMARY:Providence Foundation Bursary - in-person application DUE (SAO Block A)
-DESCRIPTION:Check eligibility first (to-do Sep 10).
-END:VEVENT
-BEGIN:VEVENT
 UID:0ac1f580bbe74022bc129abf94f6fbe0@hkmu
 DTSTAMP:20260908T161340Z
 DTSTART;VALUE=DATE:20260928
@@ -106,21 +98,6 @@ DESCRIPTION:Checkpoint: Units 1 (communication), 2 (team formation), 3 (virtual 
 END:VEVENT
 BEGIN:VEVENT
 
-UID:f90cf1705a7a4f2ea02e11e72cf37417@univ
-
-DTSTAMP:20260909T124318Z
-
-DTSTART;TZID=Asia/Hong_Kong:20260920T235900
-
-DTEND;TZID=Asia/Hong_Kong:20260920T235900
-
-SUMMARY:明曦青年獎勵計劃 2026/27 - application DUE
-
-DESCRIPTION:Deadline 20 Sep (SAO Scholarships mail 8 Sep). Eligibility check DO 19 Sep.
-
-END:VEVENT
-BEGIN:VEVENT
-
 UID:aadb1b4e59b24f4192fc3821ede9d75d@univ
 
 DTSTAMP:20260909T160707Z
@@ -141,36 +118,12 @@ DESCRIPTION:Chris Greer (the field's Wireshark teacher): beginners tutor
   live capture\, cheat sheet from memory.
 END:VEVENT
 BEGIN:VEVENT
-UID:22550cb603fef11d568dd48f2f95f57c@hkmu
-DTSTAMP:20260910T200000Z
-DTSTART;TZID=Asia/Hong_Kong:20260915T133000
-DTEND;TZID=Asia/Hong_Kong:20260915T173000
-SUMMARY:Student Service Fair 2026 (day 1)
-DESCRIPTION:Siu Cho Fong Kwan Plaza + G/F. 13 booths on social issues; lucky draw entry.
-END:VEVENT
-BEGIN:VEVENT
-UID:0ecfb1fa8cbd73cd5290f5939c9a9cf9@hkmu
-DTSTAMP:20260910T200000Z
-DTSTART;TZID=Asia/Hong_Kong:20260916T133000
-DTEND;TZID=Asia/Hong_Kong:20260916T173000
-SUMMARY:Student Service Fair 2026 (day 2, lucky draw 17:30)
-DESCRIPTION:Draw at 17:30 - must be present to claim (MacBook Neo / Apple Watch / Insta360).
-END:VEVENT
-BEGIN:VEVENT
 UID:b955eab1251dab744867d9580896cf38@hkmu
 DTSTAMP:20260910T200000Z
 DTSTART;TZID=Asia/Hong_Kong:20260916T110000
 DTEND;TZID=Asia/Hong_Kong:20260916T113000
 SUMMARY:DUE: AI Builders (SmartQS Copilot) submission 11:00
 DESCRIPTION:Devpost submission + demo video (3-5 min) + repo BenjaminTia/SmartQS-Copilot.
-END:VEVENT
-BEGIN:VEVENT
-UID:922f4f73e234b0b61da89302cb8b22bd@hkmu
-DTSTAMP:20260910T200000Z
-DTSTART;TZID=Asia/Hong_Kong:20260917T000000
-DTEND;TZID=Asia/Hong_Kong:20260917T235900
-SUMMARY:Online Recruitment Talk: Administrative Officer / Executive Officer II
-DESCRIPTION:17 Sep 2026 (time per the SAO email). Government AO/EO II recruitment briefing.
 END:VEVENT
 BEGIN:VEVENT
 UID:4e3a794d81c5cc4d4423040074e58c82@hkmu
@@ -197,14 +150,6 @@ SUMMARY:DEC: finish Modules 5-6 (gates Worksheet 1 Task A)
 DESCRIPTION:Module 6 completion is required for Task A of Worksheet 1, due 26 Oct 17:00.
 END:VEVENT
 BEGIN:VEVENT
-UID:4cd6e0dc36116e161666c437a88cd74e@hkmu
-DTSTAMP:20260910T200000Z
-DTSTART;TZID=Asia/Hong_Kong:20260920T090000
-DTEND;TZID=Asia/Hong_Kong:20260920T235900
-SUMMARY:DUE: 明曦青年獎勵計劃 2026/27 application (20 Sep)
-DESCRIPTION:Deadline 20 Sep. Details + form are Chinese only - check eligibility (Information_Sheet_MINGXI.pdf) then apply.
-END:VEVENT
-BEGIN:VEVENT
 UID:0e658adfb9c7c886ef1c1af95ca753f4@hkmu
 DTSTAMP:20260910T200000Z
 DTSTART;TZID=Asia/Hong_Kong:20260921T160000
@@ -227,14 +172,6 @@ DTSTART;TZID=Asia/Hong_Kong:20261001T090000
 DTEND;TZID=Asia/Hong_Kong:20261001T235900
 SUMMARY:DUE: 3 Scholarship Schemes 2026/27 (1 Oct)
 DESCRIPTION:EMSA / Outstanding Student Scholarship / Whole Person Development Award. NOTE: OSS + WPDA require non-freshman status + CGPA 3.3 / 2.5 - verify new-student eligibility with SAO before applying.
-END:VEVENT
-BEGIN:VEVENT
-UID:ea285a941b66a12cfd0db85a6dedc5ef@hkmu
-DTSTAMP:20260910T200000Z
-DTSTART;TZID=Asia/Hong_Kong:20261002T090000
-DTEND;TZID=Asia/Hong_Kong:20261002T235900
-SUMMARY:DUE (optional): Personal Finance Ambassador Programme application
-DESCRIPTION:Investor and Financial Education Council + St James' Settlement. Teams of 3-5 same-institution students; grant up to HK$5,000; certificate. Briefing 20 Sep 11:00 (optional).
 END:VEVENT
 BEGIN:VEVENT
 UID:9e1447fb85ca09bedc3d02bb7a7320d2@hkmu
@@ -360,14 +297,6 @@ SUMMARY:Language Centre — rebook Cantonese F2F
 DESCRIPTION:Missed Fri 16:30 session (Block A A0411, eid 010765). Email the LC to rebook.
 END:VEVENT
 BEGIN:VEVENT
-UID:a77cca9bd375665b36f4239eeda0c996@hkmu
-DTSTAMP:20260912T130000Z
-DTSTART;TZID=Asia/Hong_Kong:20260915T203000
-DTEND;TZID=Asia/Hong_Kong:20260915T220000
-SUMMARY:SAO — email re late Providence bursary
-DESCRIPTION:In-person window closed 11 Sep 17:00; ask about a late submission.
-END:VEVENT
-BEGIN:VEVENT
 UID:5d8cacf144c08712b22b167f47e17462@hkmu
 DTSTAMP:20260913T000000Z
 DTSTART;TZID=Asia/Hong_Kong:20260913T103000
@@ -474,15 +403,6 @@ DTSTART;TZID=Asia/Hong_Kong:20260920T235900
 DTEND;TZID=Asia/Hong_Kong:20260920T235900
 SUMMARY:ELEC 3050SEF Lab 0 Wireshark capture sheet - DUE 23:59
 DESCRIPTION:Rename to 14463982-Lab0-intro-capture-sheet.docx and upload to Lab0-intro on OLE. 4 questions, 8 marks.
-END:VEVENT
-BEGIN:VEVENT
-UID:e-day-2026-hkmu@benjamintia
-DTSTAMP:20260915T120000Z
-DTSTART;TZID=Asia/Hong_Kong:20260917T123000
-DTEND;TZID=Asia/Hong_Kong:20260917T173000
-SUMMARY:HKMU Entrepreneurship Day 2026 (E-Day) — Agile Sports Hall\, Block E\, Jockey Club Campus
-LOCATION:Agile Sports Hall\, 1/F\, Block E\, Jockey Club Campus\, HKMU (81 Chung Hau Street\, Ho Man Tin)
-DESCRIPTION:REGISTRATION CONFIRMED (email from saomc@hkmu.edu.hk\, 15 Sep 17:23 + 17:59 HKT). Reception 12:15. Bring STUDENT ID card to get the stamp card at reception. Part 1 Innovation Exchange 12:30-16:00 (project showcase\, vote favourite booth\, games\, networking with refreshments). Part 2 Success Gala 16:00-17:30 (MetroChallenge awards\, 1-min elevator pitch\, entrepreneurship talks\; voting enters the lucky draw). Language English. Workshops + 1-on-1 consultation are HKMU-students-only and their 28 Aug deadline has passed.
 END:VEVENT
 BEGIN:VEVENT
 UID:b734801e6f7f4eabcd3cc4b532e07e8d@hkmu
