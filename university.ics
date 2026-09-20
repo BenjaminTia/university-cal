@@ -821,4 +821,12 @@ DTEND;VALUE=DATE:20270601
 SUMMARY:Huawei ICT Competition - Global Final (May 2027, Shenzhen)
 DESCRIPTION:Portal schedule. Prize money up to HK$15,000 per team at the finals.
 END:VEVENT
+BEGIN:VEVENT
+UID:4e767d9c4f3648a295ee2470f14ee0d7@opp
+DTSTAMP:20260920T111440Z
+DTSTART;TZID=Asia/Hong_Kong:20260924T235900
+DTEND;TZID=Asia/Hong_Kong:20260925T000000
+SUMMARY:DUE: Imperial Global Hackathon - register your interest (free, solo)
+DESCRIPTION:Register interest by 24 Sep 2026 at imperial.ac.uk/study/visit/events/global-hackathons/hackathon-hong-kong-macau. Open to current HK/Macau university students, all backgrounds. Registration alone gets the challenge brief; a team of 4+ is needed only before the team submission deadline 25 Oct. Entry = 150-word proposal + 3-5 min video pitch. Grand Final 14 Nov at HKSTP InnoPark.
+END:VEVENT
 END:VCALENDAR
