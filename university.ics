@@ -795,7 +795,7 @@ DTSTAMP:20260920T102619Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20270101
 SUMMARY:Huawei ICT Competition - Preliminary stage (window Oct-Dec 2026)
-DESCRIPTION:Huawei portal schedule: registration Aug-Dec 2026, Preliminary Oct-Dec 2026. Exact HK exam date TBA - watch portal Notifications tab. Study plan: Computing Learning Space -> 'Past Exam papers and Outline' first, then Preliminary Stage resources. 2-3 h/week.
+DESCRIPTION:Huawei portal schedule: registration Aug-Dec 2026, Preliminary Oct-Dec 2026. Exact HK exam date TBA - watch portal Notifications tab. Study plan: Cloud Learning Space -> 'Past Exam papers and Outline' first, then Preliminary Stage resources. 2-3 h/week.
 END:VEVENT
 BEGIN:VEVENT
 UID:6034d354da3c430590ffbd15250337c1@huawei
