@@ -675,12 +675,4 @@ DTEND;TZID=Asia/Hong_Kong:20260925T170000
 SUMMARY:ELEC 3050SEF: Lab 1 (HTTP) work block
 DESCRIPTION:Do the 5-part Wireshark HTTP lab and fill the answer sheet. Guide: vault note 02 Lab 1 - HTTP. Deadline Sun 27 Sep 23:59.
 END:VEVENT
-BEGIN:VEVENT
-UID:a2dbc4ee81ab4bc181c28ba758db6bfc@hkmu
-DTSTAMP:20260921T134505Z
-DTSTART;TZID=Asia/Hong_Kong:20260922T090000
-DTEND;TZID=Asia/Hong_Kong:20260922T093000
-SUMMARY:Register: Elementary Cantonese class (Language Centre)
-DESCRIPTION:Language Centre Elementary Cantonese, Autumn 2026 (email 21 Sep). 5 streams, all taught in Cantonese + Putonghua, Zoom camera on for online: Online 01 5 Oct-9 Nov Mon+Wed 15:00-16:30 | Online 02 6 Oct-5 Nov Tue+Thu 14:30-16:00 | F2F 01 5 Oct-9 Nov Mon+Wed 11:00-12:30 | F2F 02 5 Oct-9 Nov Mon+Wed 16:30-18:00 | F2F 03 6 Oct-5 Nov Tue+Thu 11:00-12:30. Fee HK$500, refunded in full at 80% attendance. First-come first-served (20 F2F / 40 online seats). ERS: face-to-face eid 010810, online eid 010809. Check each stream against the timetable; Online 02 clashes with the Dream Builder interview window on 6 Oct.
-END:VEVENT
 END:VCALENDAR
