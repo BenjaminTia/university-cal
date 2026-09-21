@@ -659,4 +659,20 @@ DTEND;TZID=Asia/Hong_Kong:20261231T235900
 SUMMARY:Huawei ICT - preliminary window closes (Oct-Dec)
 DESCRIPTION:Huawei portal schedule: preliminary stage runs Oct-Dec 2026; exact exam date TBA on the portal Notifications tab. Study runs from the Cloud Learning Space (past papers first).
 END:VEVENT
+BEGIN:VEVENT
+UID:b6cb0752bd9a415c8f685a73e8f15ec4@hkmu
+DTSTAMP:20260921T032249Z
+DTSTART;TZID=Asia/Hong_Kong:20260927T232900
+DTEND;TZID=Asia/Hong_Kong:20260927T235900
+SUMMARY:DUE: ELEC 3050SEF Lab 1 (HTTP) 23:59
+DESCRIPTION:Submit Google Form answer sheet, rename its response to 14463982-Lab1-HTTP.pdf, upload to Lab1-HTTP on OLE. Guide: vault note 02 Lab 1 - HTTP.
+END:VEVENT
+BEGIN:VEVENT
+UID:d9f4dc965a87423c985edb1f7f5398e5@hkmu
+DTSTAMP:20260921T032249Z
+DTSTART;TZID=Asia/Hong_Kong:20260925T140000
+DTEND;TZID=Asia/Hong_Kong:20260925T170000
+SUMMARY:ELEC 3050SEF: Lab 1 (HTTP) work block
+DESCRIPTION:Do the 5-part Wireshark HTTP lab and fill the answer sheet. Guide: vault note 02 Lab 1 - HTTP. Deadline Sun 27 Sep 23:59.
+END:VEVENT
 END:VCALENDAR
