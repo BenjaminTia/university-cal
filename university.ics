@@ -12,13 +12,6 @@ SUMMARY:ELEC 3250: submit 6-person group list (Yeung)
 DESCRIPTION:Paper group list at lecture.
 END:VEVENT
 BEGIN:VEVENT
-UID:9ab01a9feb7b4fa6ab962fbaf5410a22@hkmu
-DTSTAMP:20260908T161340Z
-DTSTART;TZID=Asia/Hong_Kong:20261007T160000
-DTEND;TZID=Asia/Hong_Kong:20261007T180000
-SUMMARY:ELEC 3250 A2 hardcopy (week 6 lecture)
-END:VEVENT
-BEGIN:VEVENT
 UID:bb0975bad17a427d8c4f764258087179@hkmu
 DTSTAMP:20260908T161340Z
 DTSTART;TZID=Asia/Hong_Kong:20261102T110000
@@ -522,24 +515,23 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6f57ff8a10401f7192575d5148c7586a@hkmu
 DTSTAMP:20260918T150000Z
-DTSTART;VALUE=DATE:20261010
-DTEND;VALUE=DATE:20261011
+DTSTART;TZID=Asia/Hong_Kong:
+DTEND;TZID=Asia/Hong_Kong:
 SUMMARY:CHECK: October first half - are you on track?
-DESCRIPTION:ELEC 3630SEF A1 submitted (2 Oct 23:59). ELEC 3250SEF A2 hardcopy (7 Oct
- ). NATON application SENT (Apply Before 10 Oct). DEC certificate on fil
- e for Worksheet 1 Task A. Clear anything overdue before the mid-October
-  crunch.
+DESCRIPTION:ELEC 3630SEF A1 submitted (2 Oct 23:59). NATON application SENT (Apply B
+ efore 10 Oct). DEC certificate on file for Worksheet 1 Task A. Clear an
+ ything overdue before the mid-October crunch.
 END:VEVENT
 BEGIN:VEVENT
 UID:183432937fd6f728602f33929206fe76@hkmu
 DTSTAMP:20260918T150000Z
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261018
+DTSTART;TZID=Asia/Hong_Kong:
+DTEND;TZID=Asia/Hong_Kong:
 SUMMARY:CHECK: mid-October - Worksheet 1 prep on track?
 DESCRIPTION:UNI 2002BEW Worksheet 1 (Assign 2\, due Mon 26 Oct 17:00): Task A DEC ev
- idence ready and Task B reflective journal drafted? ELEC 3250SEF + ELEC
-  3050SEF test revision started (test 2 Nov). UNI 1002ABW units progress
- ing. T48E group work opened.
+ idence ready and Task B reflective journal drafted? ELEC 3050SEF test r
+ evision started (test 2 Nov). UNI 1002ABW units progressing. T48E group
+  work opened.
 END:VEVENT
 BEGIN:VEVENT
 UID:cff6651493d529b65257599fd0c4253e@hkmu
