@@ -676,3 +676,29 @@ SUMMARY:Register: Elementary Cantonese class (Language Centre)
 DESCRIPTION:Language Centre Elementary Cantonese, Autumn 2026 (email 21 Sep). 5 streams, all taught in Cantonese + Putonghua, Zoom camera on for online: Online 01 5 Oct-9 Nov Mon+Wed 15:00-16:30 | Online 02 6 Oct-5 Nov Tue+Thu 14:30-16:00 | F2F 01 5 Oct-9 Nov Mon+Wed 11:00-12:30 | F2F 02 5 Oct-9 Nov Mon+Wed 16:30-18:00 | F2F 03 6 Oct-5 Nov Tue+Thu 11:00-12:30. Fee HK$500, refunded in full at 80% attendance. First-come first-served (20 F2F / 40 online seats). ERS: face-to-face eid 010810, online eid 010809. Check each stream against the timetable; Online 02 clashes with the Dream Builder interview window on 6 Oct.
 END:VEVENT
 END:VCALENDAR
+BEGIN:VEVENT
+UID:6c2b063bf0dc98c08747764c4160f16c@hkmu
+DTSTAMP:20260924T150000Z
+DTSTART;TZID=Asia/Hong_Kong:20261012T160000
+DTEND;TZID=Asia/Hong_Kong:20261012T170000
+SUMMARY:HKSTP Career Talk (career pathways in HK's I&T ecosystem) - 12 Oct 16:00
+LOCATION:JCC D0710 (7/F, Jockey Club Campus)
+DESCRIPTION:HKSTP on-campus talk: intro to Hong Kong's innovation and te
+ chnology ecosystem\, career development paths with HKSTP and its park c
+ ompanies. Register by Tue 6 Oct via https://hkmu.qualtrics.com/jfe/form
+ /SV_8BRKZVQ5EHjRnvw (confirmation email 7 Oct). Source: career@hkmu.edu
+ .hk\, 24 Sep 2026. English.
+END:VEVENT
+END:VCALENDAR
+BEGIN:VEVENT
+UID:ddbfd3c73662ec7705889efd47868bf0@hkmu
+DTSTAMP:20260924T150000Z
+DTSTART;TZID=Asia/Hong_Kong:20261129T235900
+DTEND;TZID=Asia/Hong_Kong:20261129T235900
+SUMMARY:UNI 2002BEW: Units 1-3 assigned online activities - OLE deadline
+DESCRIPTION:Compulsory: Unit 1 (Activity 1.5\, AI activity 1.7\, review 
+ quiz)\, Unit 2 (Activity 2.17\, AI activity 2.4\, review quiz)\, plus U
+ nit 3 as released. Missing activities can fail the course. Source: Dr J
+ oey Ng\, UNI 2002BEW Unit 2 email\, 24 Sep 2026.
+END:VEVENT
+END:VCALENDAR
