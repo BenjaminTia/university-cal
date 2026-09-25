@@ -675,6 +675,62 @@ DTEND;TZID=Asia/Hong_Kong:20260922T093000
 SUMMARY:Register: Elementary Cantonese class (Language Centre)
 DESCRIPTION:Language Centre Elementary Cantonese, Autumn 2026 (email 21 Sep). 5 streams, all taught in Cantonese + Putonghua, Zoom camera on for online: Online 01 5 Oct-9 Nov Mon+Wed 15:00-16:30 | Online 02 6 Oct-5 Nov Tue+Thu 14:30-16:00 | F2F 01 5 Oct-9 Nov Mon+Wed 11:00-12:30 | F2F 02 5 Oct-9 Nov Mon+Wed 16:30-18:00 | F2F 03 6 Oct-5 Nov Tue+Thu 11:00-12:30. Fee HK$500, refunded in full at 80% attendance. First-come first-served (20 F2F / 40 online seats). ERS: face-to-face eid 010810, online eid 010809. Check each stream against the timetable; Online 02 clashes with the Dream Builder interview window on 6 Oct.
 END:VEVENT
+BEGIN:VEVENT
+UID:d0d8aba57eec5fef75cb98d66565405a@hkmu
+DTSTAMP:20260925T170000Z
+DTSTART;TZID=Asia/Hong_Kong:20260926T140000
+DTEND;TZID=Asia/Hong_Kong:20260926T153000
+SUMMARY:Techathon+: complete portal profile + message teams (esp. FleetSense)
+DESCRIPTION:One sitting: finish the portal profile\, paste the locked bio\, upload the picture\, then send the FleetSense lead a message (draft in the vault note 'HK Techathon+ 11th Edition'). Nothing sends without you pressing it.
+END:VEVENT
+BEGIN:VEVENT
+UID:e62ee2f82f1740bf8ce537c7a9142d2d@hkmu
+DTSTAMP:20260925T170000Z
+DTSTART;TZID=Asia/Hong_Kong:20261009
+DTEND;TZID=Asia/Hong_Kong:20261010
+SUMMARY:Techathon+ CUHK Campus Mixer - go meet teams (time TBA)
+DESCRIPTION:Campus mixer for team-forming\; exact time announced by the organiser. Bring the bio. Track: AI + Digital Economy & Smart City. Source: hktechathon.com/resources/view/32 (read 25 Sep 2026).
+END:VEVENT
+BEGIN:VEVENT
+UID:ac1766f58da14f8cdc25276e58e92d87@hkmu
+DTSTAMP:20260925T170000Z
+DTSTART;TZID=Asia/Hong_Kong:20261012
+DTEND;TZID=Asia/Hong_Kong:20261013
+SUMMARY:Techathon+ HKU Campus Mixer - go meet teams (time TBA)
+DESCRIPTION:Campus mixer at HKU for team-forming\; exact time announced by the organiser. Source: hktechathon.com/resources/view/33 (read 25 Sep 2026).
+END:VEVENT
+BEGIN:VEVENT
+UID:ce42b07975f2783286d43d7f3c82d98b@hkmu
+DTSTAMP:20260925T170000Z
+DTSTART;TZID=Asia/Hong_Kong:20261211
+DTEND;TZID=Asia/Hong_Kong:20261212
+SUMMARY:Techathon+ HKSTP Mixer (team-forming)
+DESCRIPTION:HKSTP mixer before the January submission window. Source: hktechathon.com key dates (read 25 Sep 2026).
+END:VEVENT
+BEGIN:VEVENT
+UID:21dd39e9091fc446e851f95e6ce7bb1f@hkmu
+DTSTAMP:20260925T170000Z
+DTSTART;TZID=Asia/Hong_Kong:20270111T235900
+DTEND;TZID=Asia/Hong_Kong:20270111T235900
+SUMMARY:Techathon+ - team formation + pitch deck DUE 23:59
+DESCRIPTION:Submit via the Techathon+ portal: team of 2-6 (Student Group)\, track selected\, pitch deck 10-20 pages (.pptx or .pdf\, English or Chinese). Project must not have won Gold/Silver/Bronze in the past three editions.
+END:VEVENT
+BEGIN:VEVENT
+UID:4d51353bbd37936ce48a1da65a38bd36@hkmu
+DTSTAMP:20260925T170000Z
+DTSTART;TZID=Asia/Hong_Kong:20270125T235900
+DTEND;TZID=Asia/Hong_Kong:20270125T235900
+SUMMARY:Techathon+ - shortlist result announced (check portal/email)
+DESCRIPTION:Results announced to the finale\; the team leader confirms participation via the portal.
+END:VEVENT
+BEGIN:VEVENT
+UID:d04d036515ceb06dc6c1fe208c38daa0@hkmu
+DTSTAMP:20260925T170000Z
+DTSTART;TZID=Asia/Hong_Kong:20270128
+DTEND;TZID=Asia/Hong_Kong:20270201
+SUMMARY:Techathon+ Finale - attend in person (HK Science Park)
+DESCRIPTION:Finale runs 28-31 Jan 2027 at Hong Kong Science Park. All finalist teams must attend in person.
+END:VEVENT
 END:VCALENDAR
 BEGIN:VEVENT
 UID:6c2b063bf0dc98c08747764c4160f16c@hkmu
