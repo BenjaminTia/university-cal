@@ -774,6 +774,51 @@ DTEND;TZID=Asia/Hong_Kong:20270531T235900
 SUMMARY:Huawei ICT - global final (May 2027, Shenzhen)
 DESCRIPTION:Global final May 2027 in Shenzhen\; this single marker replaces the month-long banner. Verify dates on the Huawei portal.
 END:VEVENT
+BEGIN:VEVENT
+UID:7c1cd7b36ac28242e02e5b19d9e30e81@hkmu
+DTSTAMP:20260925T190000Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:CHECK: Huawei ICT - Cloud prep started? portal date yet?
+DESCRIPTION:Have you started the Learning Space Cloud modules\, made a Huawei Cloud account\, and checked the portal for the HK preliminary date? Strategy note: 'Huawei ICT Competition - Strategy' in the vault.
+CATEGORIES:Huawei
+END:VEVENT
+BEGIN:VEVENT
+UID:405954b8a3c44aa6697368e947a1626f@hkmu
+DTSTAMP:20260925T190000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:CHECK: Huawei ICT - preliminary done or scheduled?
+DESCRIPTION:Global pattern says the national preliminary lands late Oct and the national final late Nov. Confirm your HK dates on the portal. Theory first pass should be complete by now.
+CATEGORIES:Huawei
+END:VEVENT
+BEGIN:VEVENT
+UID:a9ba4c95f3a97d830525ab5e5bf176aa@hkmu
+DTSTAMP:20260925T190000Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:CHECK: Huawei ICT - weekly timed rebuilds running?
+DESCRIPTION:One timed console exercise per week: build compute + storage + network from scratch under a clock. That is the skill the 8-hour lab measures.
+CATEGORIES:Huawei
+END:VEVENT
+BEGIN:VEVENT
+UID:79a5ff43bf74e021e6f757e88e033fd5@hkmu
+DTSTAMP:20260925T190000Z
+DTSTART;VALUE=DATE:20260306
+DTEND;VALUE=DATE:20260307
+SUMMARY:CHECK: Huawei ICT - regional prep: team + mock lab
+DESCRIPTION:If advancing: roles assigned (infra\, AI\, data) and one full mock lab day scheduled against the 8-hour format.
+CATEGORIES:Huawei
+END:VEVENT
+BEGIN:VEVENT
+UID:67e9118e20a7f11c33985b0f17e97934@hkmu
+DTSTAMP:20260925T190500Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:CHECK: Huawei ICT - ModelArts end-to-end done once?
+DESCRIPTION:Train and deploy one small model on ModelArts. This is the AI half of the Cloud track and the part teams usually neglect before regionals.
+CATEGORIES:Huawei
+END:VEVENT
 END:VCALENDAR
 BEGIN:VEVENT
 UID:6c2b063bf0dc98c08747764c4160f16c@hkmu
