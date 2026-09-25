@@ -828,6 +828,24 @@ SUMMARY:COMP 3500SEF - project topic via MS Form DUE (before Sep 30)
 DESCRIPTION:Dr Ezeamuzie: groups decide the topic and inform via the MS Form before 30 Sep (OLE Week 1). No separate proposal due. Assessment = software engineering activities with evidence. Groups are final\; no member removals.
 CATEGORIES:COMP3500
 END:VEVENT
+BEGIN:VEVENT
+UID:40bc66fb0c0bbeb9f786937bc232458d@hkmu
+DTSTAMP:20260925T203000Z
+DTSTART;TZID=Asia/Hong_Kong:20260930T235900
+DTEND;TZID=Asia/Hong_Kong:20260930T235900
+SUMMARY:HKMU WPDA (Whole Person Development Award, HK$20,000) - application DUE
+DESCRIPTION:Verified from the scheme's own page (20 Sep 2026). ~10 awards. Apply via SAO per the current information sheet\; eligibility + steps are in the vault to-do entry. Attend the FW.. session listed there if required.
+CATEGORIES:HKMU
+END:VEVENT
+BEGIN:VEVENT
+UID:76dcda986596fb42a5cb7e63c2c7e760@hkmu
+DTSTAMP:20260925T203000Z
+DTSTART;TZID=Asia/Hong_Kong:20260930T235900
+DTEND;TZID=Asia/Hong_Kong:20260930T235900
+SUMMARY:HKMU OSS (Outstanding Student Scholarship, HK$10,000) - application DUE
+DESCRIPTION:Criteria: CGPA >= 3.3 plus staff recommendation. Verify current requirements with SAO before applying\; nomination-based per SAO scholarship policy.
+CATEGORIES:HKMU
+END:VEVENT
 END:VCALENDAR
 BEGIN:VEVENT
 UID:6c2b063bf0dc98c08747764c4160f16c@hkmu
