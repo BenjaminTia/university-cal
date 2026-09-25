@@ -882,4 +882,13 @@ DESCRIPTION:Compulsory: Unit 1 (Activity 1.5\, AI activity 1.7\, review
  nit 3 as released. Missing activities can fail the course. Source: Dr J
  oey Ng\, UNI 2002BEW Unit 2 email\, 24 Sep 2026.
 END:VEVENT
+BEGIN:VEVENT
+UID:079e5a08991dde7dfe91@bencal
+DTSTAMP:20260925T200000Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261016
+SUMMARY:MLH Global Hack Week: Hacktoberfest
+DESCRIPTION:Free, online, worldwide. Solo by design, no team needed. Register at ghw.mlh.com (Google sign-in).
+CATEGORIES:MLH
+END:VEVENT
 END:VCALENDAR
