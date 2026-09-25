@@ -819,6 +819,15 @@ SUMMARY:CHECK: Huawei ICT - ModelArts end-to-end done once?
 DESCRIPTION:Train and deploy one small model on ModelArts. This is the AI half of the Cloud track and the part teams usually neglect before regionals.
 CATEGORIES:Huawei
 END:VEVENT
+BEGIN:VEVENT
+UID:4b74bbdb238019c964f562edf03ddfdc@hkmu
+DTSTAMP:20260925T201000Z
+DTSTART;TZID=Asia/Hong_Kong:20260929T235900
+DTEND;TZID=Asia/Hong_Kong:20260929T235900
+SUMMARY:COMP 3500SEF - project topic via MS Form DUE (before Sep 30)
+DESCRIPTION:Dr Ezeamuzie: groups decide the topic and inform via the MS Form before 30 Sep (OLE Week 1). No separate proposal due. Assessment = software engineering activities with evidence. Groups are final\; no member removals.
+CATEGORIES:COMP3500
+END:VEVENT
 END:VCALENDAR
 BEGIN:VEVENT
 UID:6c2b063bf0dc98c08747764c4160f16c@hkmu
