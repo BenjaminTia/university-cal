@@ -682,6 +682,7 @@ DTSTART;TZID=Asia/Hong_Kong:20260926T140000
 DTEND;TZID=Asia/Hong_Kong:20260926T153000
 SUMMARY:Techathon+: complete portal profile + message teams (esp. FleetSense)
 DESCRIPTION:One sitting: finish the portal profile\, paste the locked bio\, upload the picture\, then send the FleetSense lead a message (draft in the vault note 'HK Techathon+ 11th Edition'). Nothing sends without you pressing it.
+CATEGORIES:Techathon
 END:VEVENT
 BEGIN:VEVENT
 UID:e62ee2f82f1740bf8ce537c7a9142d2d@hkmu
@@ -690,6 +691,7 @@ DTSTART;TZID=Asia/Hong_Kong:20261009
 DTEND;TZID=Asia/Hong_Kong:20261010
 SUMMARY:Techathon+ CUHK Campus Mixer - go meet teams (time TBA)
 DESCRIPTION:Campus mixer for team-forming\; exact time announced by the organiser. Bring the bio. Track: AI + Digital Economy & Smart City. Source: hktechathon.com/resources/view/32 (read 25 Sep 2026).
+CATEGORIES:Techathon
 END:VEVENT
 BEGIN:VEVENT
 UID:ac1766f58da14f8cdc25276e58e92d87@hkmu
@@ -698,6 +700,7 @@ DTSTART;TZID=Asia/Hong_Kong:20261012
 DTEND;TZID=Asia/Hong_Kong:20261013
 SUMMARY:Techathon+ HKU Campus Mixer - go meet teams (time TBA)
 DESCRIPTION:Campus mixer at HKU for team-forming\; exact time announced by the organiser. Source: hktechathon.com/resources/view/33 (read 25 Sep 2026).
+CATEGORIES:Techathon
 END:VEVENT
 BEGIN:VEVENT
 UID:ce42b07975f2783286d43d7f3c82d98b@hkmu
@@ -706,6 +709,7 @@ DTSTART;TZID=Asia/Hong_Kong:20261211
 DTEND;TZID=Asia/Hong_Kong:20261212
 SUMMARY:Techathon+ HKSTP Mixer (team-forming)
 DESCRIPTION:HKSTP mixer before the January submission window. Source: hktechathon.com key dates (read 25 Sep 2026).
+CATEGORIES:Techathon
 END:VEVENT
 BEGIN:VEVENT
 UID:21dd39e9091fc446e851f95e6ce7bb1f@hkmu
@@ -714,6 +718,7 @@ DTSTART;TZID=Asia/Hong_Kong:20270111T235900
 DTEND;TZID=Asia/Hong_Kong:20270111T235900
 SUMMARY:Techathon+ - team formation + pitch deck DUE 23:59
 DESCRIPTION:Submit via the Techathon+ portal: team of 2-6 (Student Group)\, track selected\, pitch deck 10-20 pages (.pptx or .pdf\, English or Chinese). Project must not have won Gold/Silver/Bronze in the past three editions.
+CATEGORIES:Techathon
 END:VEVENT
 BEGIN:VEVENT
 UID:4d51353bbd37936ce48a1da65a38bd36@hkmu
@@ -722,6 +727,7 @@ DTSTART;TZID=Asia/Hong_Kong:20270125T235900
 DTEND;TZID=Asia/Hong_Kong:20270125T235900
 SUMMARY:Techathon+ - shortlist result announced (check portal/email)
 DESCRIPTION:Results announced to the finale\; the team leader confirms participation via the portal.
+CATEGORIES:Techathon
 END:VEVENT
 BEGIN:VEVENT
 UID:d04d036515ceb06dc6c1fe208c38daa0@hkmu
@@ -730,6 +736,43 @@ DTSTART;TZID=Asia/Hong_Kong:20270128
 DTEND;TZID=Asia/Hong_Kong:20270201
 SUMMARY:Techathon+ Finale - attend in person (HK Science Park)
 DESCRIPTION:Finale runs 28-31 Jan 2027 at Hong Kong Science Park. All finalist teams must attend in person.
+CATEGORIES:Techathon
+END:VEVENT
+BEGIN:VEVENT
+UID:eab13a376f349a1f0949f647bf5c2dc8@hkmu
+DTSTAMP:20260925T180000Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:CHECK: Techathon - have you joined a team yet?
+DESCRIPTION:All October mixers done (CUHK 9 Oct\, HKU 12 Oct). Team of 2-6 must be settled well before 11 Jan. If not in a team: message leads on the matchmaking platform or use the HKSTP mixer (11 Dec).
+CATEGORIES:Techathon
+END:VEVENT
+BEGIN:VEVENT
+UID:0c95128ef5303b8d98502a2b9a213a8f@hkmu
+DTSTAMP:20260925T180000Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:CHECK: Techathon - team locked in? pitch work started?
+DESCRIPTION:Roster should be fixed. If yes: agree the idea and divide roles this weekend. If no: HKSTP mixer 11 Dec is the last in-person team-forming event.
+CATEGORIES:Techathon
+END:VEVENT
+BEGIN:VEVENT
+UID:b3648e46d6fc46fc08b6c7d685ce40d7@hkmu
+DTSTAMP:20260925T180000Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:CHECK: Techathon - pitch deck underway? (~3 weeks left)
+DESCRIPTION:Deck: 10-20 pages (.pptx or .pdf\, English or Chinese)\, official template on the portal. Judging 25% each: innovativeness\, commercial feasibility\, team capability\, social impact. Draft commercial + impact sections early.
+CATEGORIES:Techathon
+END:VEVENT
+BEGIN:VEVENT
+UID:61e0a05c7a09f16738827d90bb03a880@hkmu
+DTSTAMP:20260925T180000Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:CHECK: Techathon - deck FINAL and ready to submit
+DESCRIPTION:Portal submission due 11 Jan 23:59. Confirm the team leader is assigned and all members listed before submitting.
+CATEGORIES:Techathon
 END:VEVENT
 END:VCALENDAR
 BEGIN:VEVENT
