@@ -846,6 +846,16 @@ SUMMARY:HKMU OSS (Outstanding Student Scholarship, HK$10,000) - application DUE
 DESCRIPTION:Criteria: CGPA >= 3.3 plus staff recommendation. Verify current requirements with SAO before applying\; nomination-based per SAO scholarship policy.
 CATEGORIES:HKMU
 END:VEVENT
+BEGIN:VEVENT
+UID:66240fa6f4063f1c4c909b92d29cb2e7@hkmu
+DTSTAMP:20260925T211000Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261026
+SUMMARY:Apart AI Collusion Sprint (Hong Kong hub) - attend
+DESCRIPTION:Hybrid: global online 23-25 Oct\; in-person HK hub Sat-Sun 24-25 Oct\, 8:00 AM-11:30 PM. Status (26 Sep): Luma registration SUBMITTED and pending host approval\; verify email sent to s1446398@live.hkmu.edu.hk. Still required: the Apart-site signup on the sprint page. Top Hong Kong team gets guaranteed entry to the 6-month Apart Fellowship. Past Fellows went to Anthropic and METR.
+LOCATION:Le Bureau\, 14/F\, Universal Trade Centre\, 3-5A Arbuthnot Rd\, Central\, Hong Kong
+CATEGORIES:Apart
+END:VEVENT
 END:VCALENDAR
 BEGIN:VEVENT
 UID:6c2b063bf0dc98c08747764c4160f16c@hkmu
