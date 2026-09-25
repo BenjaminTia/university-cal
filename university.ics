@@ -612,30 +612,6 @@ SUMMARY:Dream Builder PS finalise + attach files + prepare submission
 DESCRIPTION:Personal statement v2 (Google Doc) -> PDF; attach CV + academic report; submit before Sun 27 Sep 23:59.
 END:VEVENT
 BEGIN:VEVENT
-UID:6034d354da3c430590ffbd15250337c1@huawei
-DTSTAMP:20260920T102619Z
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20270201
-SUMMARY:Huawei ICT Competition - National Final (window Nov 2026 - Jan 2027)
-DESCRIPTION:Portal schedule. Only reachable after clearing the Preliminary. HKMU has taken 2nd and 3rd in the Computing track in past rounds.
-END:VEVENT
-BEGIN:VEVENT
-UID:340513fa2d024454b4e8c869b7b9ffd9@huawei
-DTSTAMP:20260920T102619Z
-DTSTART;VALUE=DATE:20270301
-DTEND;VALUE=DATE:20270401
-SUMMARY:Huawei ICT Competition - APAC Regional Final (March 2027)
-DESCRIPTION:Portal schedule. Team stage; team score is computed from individual scores.
-END:VEVENT
-BEGIN:VEVENT
-UID:0faf6dfa06cf420994394a38ace9e83a@huawei
-DTSTAMP:20260920T102619Z
-DTSTART;VALUE=DATE:20270501
-DTEND;VALUE=DATE:20270601
-SUMMARY:Huawei ICT Competition - Global Final (May 2027, Shenzhen)
-DESCRIPTION:Portal schedule. Prize money up to HK$15,000 per team at the finals.
-END:VEVENT
-BEGIN:VEVENT
 UID:4e767d9c4f3648a295ee2470f14ee0d7@opp
 DTSTAMP:20260920T111440Z
 DTSTART;TZID=Asia/Hong_Kong:20260924T235900
@@ -773,6 +749,30 @@ DTEND;VALUE=DATE:20270110
 SUMMARY:CHECK: Techathon - deck FINAL and ready to submit
 DESCRIPTION:Portal submission due 11 Jan 23:59. Confirm the team leader is assigned and all members listed before submitting.
 CATEGORIES:Techathon
+END:VEVENT
+BEGIN:VEVENT
+UID:594f3455b6d5587fc51fb0f5c199e3c9@hkmu
+DTSTAMP:20260925T183000Z
+DTSTART;TZID=Asia/Hong_Kong:20270131T235900
+DTEND;TZID=Asia/Hong_Kong:20270131T235900
+SUMMARY:Huawei ICT - national final window closes (Nov 2026 - Jan 2027)
+DESCRIPTION:Window runs Nov 2026 to Jan 2027\; this marks its close. Competition stage dates are set by Huawei and may shift\; check the portal. Registration already done (25 Sep 2026).
+END:VEVENT
+BEGIN:VEVENT
+UID:61a155ec918dd79f206333709cd5ca82@hkmu
+DTSTAMP:20260925T183000Z
+DTSTART;TZID=Asia/Hong_Kong:20270331T235900
+DTEND;TZID=Asia/Hong_Kong:20270331T235900
+SUMMARY:Huawei ICT - APAC regional final window closes (Mar 2027)
+DESCRIPTION:Regional final stage runs March 2027\; this marks its close. Dates set by Huawei\; verify on the portal nearer the time.
+END:VEVENT
+BEGIN:VEVENT
+UID:3857d19aa33cf8465e2dffc58aa017d9@hkmu
+DTSTAMP:20260925T183000Z
+DTSTART;TZID=Asia/Hong_Kong:20270531T235900
+DTEND;TZID=Asia/Hong_Kong:20270531T235900
+SUMMARY:Huawei ICT - global final (May 2027, Shenzhen)
+DESCRIPTION:Global final May 2027 in Shenzhen\; this single marker replaces the month-long banner. Verify dates on the Huawei portal.
 END:VEVENT
 END:VCALENDAR
 BEGIN:VEVENT
