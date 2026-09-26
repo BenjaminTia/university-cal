@@ -856,6 +856,20 @@ DESCRIPTION:Hybrid: global online 23-25 Oct\; in-person HK hub Sat-Sun 24-25 Oct
 LOCATION:Le Bureau\, 14/F\, Universal Trade Centre\, 3-5A Arbuthnot Rd\, Central\, Hong Kong
 CATEGORIES:Apart
 END:VEVENT
+BEGIN:VEVENT
+UID:63936bfa-f346-4b6b-9463-753f94b8c771@hkmu
+DTSTAMP:20260926T131917Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Pokémon TCG AI Battle - results check (judging closed 11 Oct)
+DESCRIPTION:Watch item\, no action needed. Both tracks closed: Simulatio
+ n final submission 17 Aug 2026\, Strategy final 13 Sep 2026\, judging 1
+ 4 Sep to 11 Oct 2026. Prize pool US$240\,000 on the Strategy track (8 x
+  US$30\,000) plus a possible Tokyo tournament. Results TBD - check for 
+ the announcement\, and watch for a next edition. Verified from the comp
+ etition's own Kaggle pages on 26 Sep 2026.
+URL:https://www.kaggle.com/competitions/pokemon-tcg-ai-battle-challenge-strategy
+END:VEVENT
 END:VCALENDAR
 BEGIN:VEVENT
 UID:6c2b063bf0dc98c08747764c4160f16c@hkmu
