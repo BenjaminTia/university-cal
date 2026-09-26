@@ -84,9 +84,13 @@ DTSTART;TZID=Asia/Hong_Kong:20260927T170000
 
 DTEND;TZID=Asia/Hong_Kong:20260927T173000
 
-SUMMARY:UNI 2002BEW: Units 1-3 progress check (before W1 due 26 Oct)
+SUMMARY:UNI 2002BEW: Units 1-2 progress check - Unit 3 not yet released (W1 due 26 Oct)
 
-DESCRIPTION:Checkpoint: Units 1 (communication), 2 (team formation), 3 (virtual teams) should be done before the individual Worksheet 1 due Mon 26 Oct 17:00.
+DESCRIPTION:Updated 27 Sep 2026: only Units 1 (communication) and 2 (tea
+ m formation) have been released so far\; Unit 3 (virtual teams) is not 
+ out yet. Confirm all Unit 1 and Unit 2 assigned activities + quizzes ar
+ e done\, then watch OLE for Unit 3. All released activities must be com
+ plete before Worksheet 1\, due Mon 26 Oct 17:00.
 
 END:VEVENT
 BEGIN:VEVENT
