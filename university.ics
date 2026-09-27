@@ -909,4 +909,31 @@ SUMMARY:MLH Global Hack Week: Hacktoberfest
 DESCRIPTION:Free, online, worldwide. Solo by design, no team needed. Register at ghw.mlh.com (Google sign-in).
 CATEGORIES:MLH
 END:VEVENT
+BEGIN:VEVENT
+UID:7e63902e2ebf99ea3c90c54566e6684d@hkmu
+DTSTAMP:20260927T074900Z
+DTSTART;TZID=Asia/Hong_Kong:20261003T100000
+DTEND;TZID=Asia/Hong_Kong:20261003T113000
+SUMMARY:COMP 3500SEF Assignment 1 (Project Logbook) - draft and submit
+DESCRIPTION:Two things in the logbook: (1) your contributions to the gro
+ up project so far\; (2) your academic integrity declaration (Generative
+  AI\, plagiarism). Individual: every member submits their own - a group
+ mate's submission does not cover you. Submitted via the OLE form (Answe
+ r Sheet tab - Next). Source: OLE assignment page 'Project Logbook Submi
+ ssion (Interim Progress - 01)'\, read 27 Sep 2026. Do not leave it to S
+ unday.
+CATEGORIES:COMP3500
+END:VEVENT
+BEGIN:VEVENT
+UID:5b24f546db80644179d3090de91cf878@hkmu
+DTSTAMP:20260927T074900Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+SUMMARY:COMP 3500SEF Assignment 1 (Project Logbook) - DUE Sun 4 Oct
+DESCRIPTION:Submission Deadline: Oct 4\, 2026 (OLE assignment page\, rea
+ d 27 Sep 2026)\; no time stated on the page. Individual logbook: (1) co
+ ntributions to the group project\; (2) academic integrity declaration. 
+ Every member submits their own.
+CATEGORIES:COMP3500
+END:VEVENT
 END:VCALENDAR
