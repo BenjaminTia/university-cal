@@ -320,29 +320,23 @@ END:VEVENT
 BEGIN:VEVENT
 UID:c8855366d48772ea3f69f383fbb53cfa@hkmu
 DTSTAMP:20260913T000000Z
-DTSTART:TZID=Asia/Hong_Kong:20261026T170000
-DTEND:TZID=Asia/Hong_Kong:20261026T170000
+DTSTART;TZID=Asia/Hong_Kong:20261026T170000
+DTEND;TZID=Asia/Hong_Kong:20261026T170000
 SUMMARY:UNI 2002BEW Individual Assignment (Assignment 2) - DUE 17:00 Mon 26 Oct
-DESCRIPTION:OLE Assignments panel confirms Individual Assignment (Assignment 2)\, due 26 Oct 2026 at 17:00. This is Worksheet 1 (individual\, 10%) on OLE.
+DESCRIPTION:OLE Assignments panel confirms Individual Assignment
+ (Assignment 2)\, due 26 Oct 2026 at 17:00. This is Worksheet 1
+ (individual\, 10%) on OLE.
 END:VEVENT
 BEGIN:VEVENT
 UID:c862c873b9f803fa64f5cb1b189a100b@hkmu
 DTSTAMP:20260913T000000Z
-DTSTART:TZID=Asia/Hong_Kong:20261116T170000
-DTEND:TZID=Asia/Hong_Kong:20261116T170000
+DTSTART;TZID=Asia/Hong_Kong:20261116T170000
+DTEND;TZID=Asia/Hong_Kong:20261116T170000
 SUMMARY:UNI 2002BEW Group Assignment (Assignment 1) - DUE 17:00 Mon 16 Nov
-DESCRIPTION:OLE Assignments panel confirms Group Assignment (Assignment 1)\, due 16 Nov 2026 at 17:00. This is Worksheet 2 (group\, 20%): Task C campaign plan + Task D team-performance video\; every member separately uploads their Peer Evaluation Form.
- up\, 20%)\; the content is Worksheet 2: Task C campaign plan for a chos
- en HKMU problem (40%) + Task D team-performance evaluation video (60%)\
- , one member uploads\, EVERY member separately uploads their own Peer E
- valuation Form. Team T48E\, tutor Mr Eugene Chan (T48). OLE notice past
- ed 18 Sep 2026 gives the date 2026-11-16\; the assessment page states 1
- 7:00\, so submit earlier in the day. All-day banner on purpose: this de
- adline must be impossible to miss.
- ber uploads): Task C campaign plan for a chosen HKMU problem (40%) + Ta
- sk D team-performance evaluation video (60%). EVERY member separately u
- ploads their own Peer Evaluation Form. Team is T48E under tutor Mr Euge
- ne Chan (T48). 17:00 deadline.
+DESCRIPTION:OLE Assignments panel confirms Group Assignment (Assignment
+ 1)\, due 16 Nov 2026 at 17:00. This is Worksheet 2 (group\, 20%): Task
+ C campaign plan and Task D team-performance video\; every member
+ separately uploads their Peer Evaluation Form.
 END:VEVENT
 BEGIN:VEVENT
 UID:34b54d65ac3088b55218ebbb14f149fe@hkmu
@@ -485,13 +479,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:4c8a4f0683952732590f45913fb1f20d@hkmu
 DTSTAMP:20260918T130000Z
-DTSTART:TZID=Asia/Hong_Kong:20261002T235900
-DTEND:TZID=Asia/Hong_Kong:20261002T235900
+DTSTART;TZID=Asia/Hong_Kong:20261002T235900
+DTEND;TZID=Asia/Hong_Kong:20261002T235900
 SUMMARY:ELEC 3630SEF Assignment 1 (100 marks) - OLE CUT-OFF 23:59 Fri 2 Oct
-DESCRIPTION:OLE Assignments panel confirms the 2 Oct 2026 23:59 deadline. PDF only\, name + student number on page 1\, show steps\, upload to OLE.
- pose. If this is still open today\, it becomes the day's single priorit
- y. PDF only\, name + student number on page 1\, show steps\, upload to 
- OLE (never by email\, never JPEG).
+DESCRIPTION:OLE Assignments panel confirms the 2 Oct 2026 23:59
+ deadline. PDF only\, name + student number on page 1\, show steps\,
+ upload to OLE.
 END:VEVENT
 BEGIN:VEVENT
 UID:e394584c30bdef522740105752a5e57a@hkmu
@@ -925,13 +918,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5b24f546db80644179d3090de91cf878@hkmu
 DTSTAMP:20260927T074900Z
-DTSTART:TZID=Asia/Hong_Kong:20261004T235900
-DTEND:TZID=Asia/Hong_Kong:20261004T235900
+DTSTART;TZID=Asia/Hong_Kong:20261004T235900
+DTEND;TZID=Asia/Hong_Kong:20261004T235900
 SUMMARY:COMP 3500SEF Assignment 1 (Microsoft Form) - DUE 23:59 Sun 4 Oct
-DESCRIPTION:OLE Assignments panel confirms the 4 Oct 2026 23:59 deadline. Individual Microsoft Form\, not a paper submission. Enter Group 9 and Member 5\, paste the reviewed answers\, and optionally upload the evidence PDF.
- d 27 Sep 2026)\; no time stated on the page. Individual logbook: (1) co
- ntributions to the group project\; (2) academic integrity declaration. 
- Every member submits their own.
+DESCRIPTION:OLE Assignments panel confirms the 4 Oct 2026 23:59
+ deadline. Individual Microsoft Form\, not a paper submission. Enter
+ Group 9 and Member 5\, paste the reviewed answers\, and optionally
+ upload the evidence PDF.
 CATEGORIES:COMP3500
 END:VEVENT
 END:VCALENDAR
