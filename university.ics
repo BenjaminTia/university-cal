@@ -320,18 +320,18 @@ END:VEVENT
 BEGIN:VEVENT
 UID:c8855366d48772ea3f69f383fbb53cfa@hkmu
 DTSTAMP:20260913T000000Z
-DTSTART;TZID=Asia/Hong_Kong:20261026T170000
-DTEND;TZID=Asia/Hong_Kong:20261026T183000
-SUMMARY:UNI 2002BEW Worksheet 1 (individual, 10%) — hardcopy/upload DUE 17:00
-DESCRIPTION:Assignment 2 in the Course Document = Worksheet 1 on OLE. Upload on OLE by 17:00; late submission carries a mark penalty.
+DTSTART:TZID=Asia/Hong_Kong:20261026T170000
+DTEND:TZID=Asia/Hong_Kong:20261026T170000
+SUMMARY:UNI 2002BEW Individual Assignment (Assignment 2) - DUE 17:00 Mon 26 Oct
+DESCRIPTION:OLE Assignments panel confirms Individual Assignment (Assignment 2)\, due 26 Oct 2026 at 17:00. This is Worksheet 1 (individual\, 10%) on OLE.
 END:VEVENT
 BEGIN:VEVENT
 UID:c862c873b9f803fa64f5cb1b189a100b@hkmu
 DTSTAMP:20260913T000000Z
-DTSTART;VALUE=DATE:20261116
-DTEND;VALUE=DATE:20261117
-SUMMARY:UNI 2002BEW Worksheet 2 + Peer Evaluation (group, 20%) — DUE 17:00
-DESCRIPTION:OLE calls this Assign 1\; the Course Document calls it Assignment 1 (gro
+DTSTART:TZID=Asia/Hong_Kong:20261116T170000
+DTEND:TZID=Asia/Hong_Kong:20261116T170000
+SUMMARY:UNI 2002BEW Group Assignment (Assignment 1) - DUE 17:00 Mon 16 Nov
+DESCRIPTION:OLE Assignments panel confirms Group Assignment (Assignment 1)\, due 16 Nov 2026 at 17:00. This is Worksheet 2 (group\, 20%): Task C campaign plan + Task D team-performance video\; every member separately uploads their Peer Evaluation Form.
  up\, 20%)\; the content is Worksheet 2: Task C campaign plan for a chos
  en HKMU problem (40%) + Task D team-performance evaluation video (60%)\
  , one member uploads\, EVERY member separately uploads their own Peer E
@@ -485,10 +485,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:4c8a4f0683952732590f45913fb1f20d@hkmu
 DTSTAMP:20260918T130000Z
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261003
+DTSTART:TZID=Asia/Hong_Kong:20261002T235900
+DTEND:TZID=Asia/Hong_Kong:20261002T235900
 SUMMARY:ELEC 3630SEF Assignment 1 (100 marks) - OLE CUT-OFF 23:59 Fri 2 Oct
-DESCRIPTION:Answering blocks were booked Fri 25 and Sat 26 Sep\, a week early on pur
+DESCRIPTION:OLE Assignments panel confirms the 2 Oct 2026 23:59 deadline. PDF only\, name + student number on page 1\, show steps\, upload to OLE.
  pose. If this is still open today\, it becomes the day's single priorit
  y. PDF only\, name + student number on page 1\, show steps\, upload to 
  OLE (never by email\, never JPEG).
@@ -540,8 +540,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cff6651493d529b65257599fd0c4253e@hkmu
 DTSTAMP:20260918T150000Z
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261032
+DTSTART:VALUE=DATE:20261031
+DTEND:VALUE=DATE:20261101
 SUMMARY:CHECK: October close-out - are you on track?
 DESCRIPTION:Worksheet 1 submitted (26 Oct 17:00). UNI 2002BEW team T48E opened for T
  ask C (30 Oct). L.I.O.N. + Tencent applications decided (31 Oct). Next 
@@ -874,7 +874,6 @@ DESCRIPTION:Watch item\, no action needed. Both tracks closed: Simulatio
  etition's own Kaggle pages on 26 Sep 2026.
 URL:https://www.kaggle.com/competitions/pokemon-tcg-ai-battle-challenge-strategy
 END:VEVENT
-END:VCALENDAR
 BEGIN:VEVENT
 UID:6c2b063bf0dc98c08747764c4160f16c@hkmu
 DTSTAMP:20260924T150000Z
@@ -888,7 +887,6 @@ DESCRIPTION:HKSTP on-campus talk: intro to Hong Kong's innovation and te
  /SV_8BRKZVQ5EHjRnvw (confirmation email 7 Oct). Source: career@hkmu.edu
  .hk\, 24 Sep 2026. English.
 END:VEVENT
-END:VCALENDAR
 BEGIN:VEVENT
 UID:ddbfd3c73662ec7705889efd47868bf0@hkmu
 DTSTAMP:20260924T150000Z
@@ -927,10 +925,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5b24f546db80644179d3090de91cf878@hkmu
 DTSTAMP:20260927T074900Z
-DTSTART;VALUE=DATE:20261004
-DTEND;VALUE=DATE:20261005
-SUMMARY:COMP 3500SEF Assignment 1 (Project Logbook) - DUE Sun 4 Oct
-DESCRIPTION:Submission Deadline: Oct 4\, 2026 (OLE assignment page\, rea
+DTSTART:TZID=Asia/Hong_Kong:20261004T235900
+DTEND:TZID=Asia/Hong_Kong:20261004T235900
+SUMMARY:COMP 3500SEF Assignment 1 (Microsoft Form) - DUE 23:59 Sun 4 Oct
+DESCRIPTION:OLE Assignments panel confirms the 4 Oct 2026 23:59 deadline. Individual Microsoft Form\, not a paper submission. Enter Group 9 and Member 5\, paste the reviewed answers\, and optionally upload the evidence PDF.
  d 27 Sep 2026)\; no time stated on the page. Individual logbook: (1) co
  ntributions to the group project\; (2) academic integrity declaration. 
  Every member submits their own.
