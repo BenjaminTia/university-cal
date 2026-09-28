@@ -927,4 +927,13 @@ DESCRIPTION:OLE Assignments panel confirms the 4 Oct 2026 23:59
  upload the evidence PDF.
 CATEGORIES:COMP3500
 END:VEVENT
+BEGIN:VEVENT
+UID:elec3050sef-lab2-dns-due-20261004@hkmu
+DTSTAMP:20260928T071446Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+SUMMARY:ELEC 3050SEF Lab 2 DNS - DUE (time not announced)
+DESCRIPTION:Deadline confirmed by Benjamin on 28 Sep 2026. Review and uploa
+ d the completed answers and evidence; no submission time was announced.
+END:VEVENT
 END:VCALENDAR
