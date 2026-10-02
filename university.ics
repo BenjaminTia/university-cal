@@ -658,21 +658,23 @@ DESCRIPTION:One sitting: finish the portal profile\, paste the locked bio\, uplo
 CATEGORIES:Techathon
 END:VEVENT
 BEGIN:VEVENT
-UID:e62ee2f82f1740bf8ce537c7a9142d2d@hkmu
-DTSTAMP:20260925T170000Z
-DTSTART;TZID=Asia/Hong_Kong:20261009
-DTEND;TZID=Asia/Hong_Kong:20261010
-SUMMARY:Techathon+ CUHK Campus Mixer - go meet teams (time TBA)
-DESCRIPTION:Campus mixer for team-forming\; exact time announced by the organiser. Bring the bio. Track: AI + Digital Economy & Smart City. Source: hktechathon.com/resources/view/32 (read 25 Sep 2026).
+UID:defbe23f4ab03ea153f70e34d613cfdc@hkmu
+DTSTAMP:20261002T131812Z
+DTSTART;TZID=Asia/Hong_Kong:20261009T143000
+DTEND;TZID=Asia/Hong_Kong:20261009T163000
+SUMMARY:Techathon+ CUHK Campus Mixer "From Student to CXO" 14:30-16:30
+DESCRIPTION:LT2, YIA, CUHK. Fireside chat with Prof LAU Victor and four CUHK deep-tech CXOs, plus an official team-up session. Registration is through CUHK's own webform (cloud.itsc.cuhk.edu.hk/webform/view.php?id=13740788), so it may be CUHK students only\; HKMU runs its own campus mixer. Source: hktechathon.com resources (checked 2 Oct 2026).
+URL:https://www.hktechathon.com/en/resources/view/32
 CATEGORIES:Techathon
 END:VEVENT
 BEGIN:VEVENT
-UID:ac1766f58da14f8cdc25276e58e92d87@hkmu
-DTSTAMP:20260925T170000Z
-DTSTART;TZID=Asia/Hong_Kong:20261012
-DTEND;TZID=Asia/Hong_Kong:20261013
-SUMMARY:Techathon+ HKU Campus Mixer - go meet teams (time TBA)
-DESCRIPTION:Campus mixer at HKU for team-forming\; exact time announced by the organiser. Source: hktechathon.com/resources/view/33 (read 25 Sep 2026).
+UID:c92dd1d0ce0c03780f2a8a1dc1da0e06@hkmu
+DTSTAMP:20261002T131812Z
+DTSTART;TZID=Asia/Hong_Kong:20261012T153000
+DTEND;TZID=Asia/Hong_Kong:20261012T173000
+SUMMARY:Techathon+ HKU Campus Mixer 15:30-17:30
+DESCRIPTION:Tam Wing Fan Innovation Wing Two, G/F Run Run Shaw Building, HKU. Talk by Dr Marvin MA of iBone Healthcare plus a team-up session. Registration via forms.cloud.microsoft/r/GCWAyNmfJX. Enquiries 3910 2495 / hkutec@hku.hk. Source: hktechathon.com resources (checked 2 Oct 2026).
+URL:https://www.hktechathon.com/en/resources/view/33
 CATEGORIES:Techathon
 END:VEVENT
 BEGIN:VEVENT
@@ -935,5 +937,80 @@ DTEND;VALUE=DATE:20261005
 SUMMARY:ELEC 3050SEF Lab 2 DNS - DUE (time not announced)
 DESCRIPTION:Deadline confirmed by Benjamin on 28 Sep 2026. Review and uploa
  d the completed answers and evidence; no submission time was announced.
+END:VEVENT
+BEGIN:VEVENT
+UID:025a0f836fa10324d3940aae29778ca7@hkmu
+DTSTAMP:20261002T131757Z
+DTSTART;TZID=Asia/Hong_Kong:20261005T235900
+DTEND;TZID=Asia/Hong_Kong:20261005T235900
+SUMMARY:MSSY Phase 10 (青年委員自薦計劃) — application DUE 5 Oct
+DESCRIPTION:Home and Youth Affairs Bureau self-recommendation scheme. Check the residency clause in the Points-to-Note before submitting. Source: to-do Oct 2026.
+END:VEVENT
+BEGIN:VEVENT
+UID:3e668a1effd324fec9db6035a749edc0@hkmu
+DTSTAMP:20261002T131757Z
+DTSTART;TZID=Asia/Hong_Kong:20261011T235900
+DTEND;TZID=Asia/Hong_Kong:20261011T235900
+SUMMARY:Physical Wellness Talk — registration DUE 11 Oct (16 Oct event)
+DESCRIPTION:Register via https://hkmu.qualtrics.com/jfe/form/SV_egnMp61qJL8MYGG (SAO Sports and Physical Education). Quota is first come first served; confirmation by 13 Oct.
+URL:https://hkmu.qualtrics.com/jfe/form/SV_egnMp61qJL8MYGG
+END:VEVENT
+BEGIN:VEVENT
+UID:7735d4985c2b3341a1954c4af1f05b1e@hkmu
+DTSTAMP:20261002T131757Z
+DTSTART;TZID=Asia/Hong_Kong:20261016T183000
+DTEND;TZID=Asia/Hong_Kong:20261016T200000
+SUMMARY:Physical Wellness Talk 18:30-20:00 — Asian Games coach (Stanley Ho Library)
+DESCRIPTION:Active Learning Space, Stanley Ho Library, 1/F Main Campus. Cantonese. Speakers: Mr CHOI Chong Shing (HK taekwondo coach, 20th Asian Games) and Ms YEUNG Sau Mei (women's volleyball assistant coach).
+URL:https://www.hkmu.edu.hk/sao/wellness-fest-october-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:da61021778dfdc56c3cd19d1c688222e@hkmu
+DTSTAMP:20261002T131757Z
+DTSTART;TZID=Asia/Hong_Kong:20261016T220000
+DTEND;TZID=Asia/Hong_Kong:20261017T120000
+SUMMARY:HKMU IT OUTAGE 22:00 — no OLE, portal, email or Library systems
+DESCRIPTION:All Main Campus IT systems down from 22:00 Fri 16 Oct to about 12:00 noon Sat 17 Oct for the 5-year statutory electrical inspection. Incoming email is queued, not lost. Wi-Fi back about 10:00. Anything portal-dependent must be done before Fri 22:00. Helpdesk 2711 2100.
+END:VEVENT
+BEGIN:VEVENT
+UID:05c03724b931ed05787a583b3b67a0ed@hkmu
+DTSTAMP:20261002T131757Z
+DTSTART;TZID=Asia/Hong_Kong:20261017T235900
+DTEND;TZID=Asia/Hong_Kong:20261017T235900
+SUMMARY:International English Language Olympia — registration DUE 17 Oct (do it before Fri 22:00)
+DESCRIPTION:Registration deadline 17 Oct; the portal is down 22:00 Fri 16 Oct to noon Sat 17 Oct, so register before the outage. Competition event 17 Dec. elo.international
+END:VEVENT
+BEGIN:VEVENT
+UID:b63414c0f284b012294ff7935b0f53f2@hkmu
+DTSTAMP:20261002T131757Z
+DTSTART;TZID=Asia/Hong_Kong:20261019T235900
+DTEND;TZID=Asia/Hong_Kong:20261019T235900
+SUMMARY:HKAUW Scholarships 2026 — application DUE 19 Oct
+DESCRIPTION:Check eligibility from the scheme's own page first, then apply. Source: SAO mail 25 Sep.
+END:VEVENT
+BEGIN:VEVENT
+UID:25fe9bd32fe2456cfcc539f78f298890@hkmu
+DTSTAMP:20261002T131757Z
+DTSTART;TZID=Asia/Hong_Kong:20261020T235900
+DTEND;TZID=Asia/Hong_Kong:20261020T235900
+SUMMARY:COMP 3500SEF Assignment 1 (Requirement Engineering) — DUE 20 Oct
+DESCRIPTION:Individual work: one PDF spec (<=1200 words) for the project where his team was the engineering side (Team A -> MIL, Team B -> MBC), plus a <=1000-character reflection and an evidence link on the MS form. Group must split into Team A and Team B, run the client meetings, and record them in English with student IDs visible. Written independently, copying is plagiarism.
+END:VEVENT
+BEGIN:VEVENT
+UID:4e442404b1291ed5f27950c2448d30b1@hkmu
+DTSTAMP:20261002T131757Z
+DTSTART;TZID=Asia/Hong_Kong:20261030T120000
+DTEND;TZID=Asia/Hong_Kong:20261030T120000
+SUMMARY:Hsin Chong - K.N. Godfrey Yeh Fund — proposal DUE 30 Oct 12:00 noon
+DESCRIPTION:HK$270,000 pool for joint student projects run by full-time students from at least three of twelve listed HK institutions (HKMU included). Any topic, local or abroad, complete by 31 Aug 2027. Needs the application form plus detailed proposal and budget.
+END:VEVENT
+BEGIN:VEVENT
+UID:3e07e87c76eb9e5c0a950d5f996a14f5@hkmu
+DTSTAMP:20261002T131757Z
+DTSTART;TZID=Asia/Hong_Kong:20261212T235900
+DTEND;TZID=Asia/Hong_Kong:20261212T235900
+SUMMARY:InnoX Entrepreneurship Camp 2027 (Winter) — application DUE 12 Dec
+DESCRIPTION:AI hardware theme. Training 3-25 Jan 2027 full-day on site including a one-week GBA visit, Pitch Day 25 Jan, 50 selected. Rolling admission with interviews, so applying early is better. Application form: hkxfoundation.org (check it is live before relying on it).
+URL:https://www.hkxfoundation.org/innoxcamp
 END:VEVENT
 END:VCALENDAR
