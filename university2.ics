@@ -1019,7 +1019,7 @@ DTSTAMP:20261003T160000Z
 DTSTART;TZID=Asia/Hong_Kong:20261010T210000
 DTEND;TZID=Asia/Hong_Kong:20261011T020000
 SUMMARY:IEEEXtreme 20.0 MasterClass (Webex) 21:00-02:00 HKT
-DESCRIPTION:Covers the new hybrid format: AI-enabled vs AI-prohibited challenges. 9:00am-2:00pm EDT on 10 Oct = 21:00 Sat 10 Oct to 02:00 Sun 11 Oct HKT. Register through the Webex link in the IEEE mail (ieee-xtreme@deliver.ieee.org\, 2 Oct 2026).
+DESCRIPTION:Covers the new hybrid format: AI-enabled vs AI-prohibited challenges. 9:00am-2:00pm EDT on 10 Oct = 21:00 Sat 10 Oct to 02:00 Sun 11 Oct HKT. Register through the Webex link in the IEEE mail (ieee-xtreme@deliver.ieee.org\, 2 Oct 2026). No published closing time - register before the session starts.
 URL:https://ieeextreme.org/
 CATEGORIES:Competition
 END:VEVENT
@@ -1029,7 +1029,7 @@ DTSTAMP:20261003T160000Z
 DTSTART;TZID=Asia/Hong_Kong:20261018T075900
 DTEND;TZID=Asia/Hong_Kong:20261018T075900
 SUMMARY:DUE: IEEEXtreme 20.0 team registration closes (17 Oct 23:59 GMT)
-DESCRIPTION:Teams of up to 3\, or register solo and be matched. Eligibility: current IEEE Student Member - already covered by the student membership taken on 16 Sep 2026\, so no payment is needed. Register at ieeextreme.org.
+DESCRIPTION:Teams of up to 3\, or register solo and be matched. Eligibility: current IEEE Student Member - already covered by the student membership taken on 16 Sep 2026\, so no payment is needed. Deadline confirmed 4 Oct 2026 from IEEEXtreme's own channels: 17 October 2026\, 23:59 GMT - i.e. two weeks before the 31 Oct 00:00 UTC start. A third-party listing that says 21 Oct is unreliable: it also gives the contest date wrongly as 21 Oct. A proctor is MANDATORY and must be an IEEE member of higher grade than Student (Student Branch Counselor\, department chair or Young Professional)\; assign the Proctor of Record in vTools. Register at ieeextreme.org.
 URL:https://ieeextreme.org/
 CATEGORIES:Competition
 END:VEVENT
