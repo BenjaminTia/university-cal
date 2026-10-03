@@ -1053,4 +1053,24 @@ DESCRIPTION:Full-time HK university students\, teams of 1-3. Prizes HK$50\,000 /
 URL:https://www.gonghangbei.com
 CATEGORIES:Competition
 END:VEVENT
+BEGIN:VEVENT
+UID:ieeextreme-register-action-2026@hkmu
+DTSTAMP:20261004T030000Z
+DTSTART;TZID=Asia/Hong_Kong:20261006T200000
+DTEND;TZID=Asia/Hong_Kong:20261006T213000
+SUMMARY:IEEEXtreme 20.0 - register the team AND assign a proctor
+DESCRIPTION:Two registrations are required. (1) The team: up to 3 IEEE Student members\, or register solo and be matched. (2) A proctor - MANDATORY\, and must be an IEEE member of a HIGHER grade than Student: a Student Branch Counselor\, a department chair or an IEEE Young Professional qualifies\, and one proctor may cover up to 20 teams. Teams select their Proctor of Record on the vTools registration platform. Candidate: Dr Tong (student-branch contact\, office A0339). Team registration itself closes 17 Oct 2026 23:59 GMT. Register at ieeextreme.org -> Register as participant / Register as proctor.
+URL:https://ieeextreme.org/
+CATEGORIES:Competition
+END:VEVENT
+BEGIN:VEVENT
+UID:ieeextreme-codelib-2026@hkmu
+DTSTAMP:20261004T030000Z
+DTSTART;TZID=Asia/Hong_Kong:20261030T075900
+DTEND;TZID=Asia/Hong_Kong:20261030T075900
+SUMMARY:DUE: IEEEXtreme 20.0 code-library upload closes (23:59 UTC 29 Oct)
+DESCRIPTION:Teams may upload their own code libraries (up to 100 KB) to the CSAcademy workspace template before the competition. For IEEEXtreme 20.0 that upload closes at 23:59 UTC on 29 October 2026 = 07:59 HKT on 30 October. Worth doing if you want your usual templates and utility functions available during the 24 hours.
+URL:https://ieeextreme.org/rules/
+CATEGORIES:Competition
+END:VEVENT
 END:VCALENDAR
