@@ -408,8 +408,8 @@ UID:f1775a06f8526f2040d5886f25961cf1@hkmu
 DTSTAMP:20260916T060000Z
 DTSTART;TZID=Asia/Hong_Kong:20280128T235900
 DTEND;TZID=Asia/Hong_Kong:20280128T235900
-SUMMARY:IEEE membership renewal - pay 2028 student dues (cover runs to 31 Dec 2027)
-DESCRIPTION:IEEE student membership. Joined 16 Sep 2026, US$27 student rate, and by IEEE's own window rule (applications 16 Aug to 28 Feb are processed as the FOLLOWING year's full-year membership, services start immediately) this covers the 2027 membership year through 31 December 2027. So nothing to pay in 2026 or 2027. Renew for the 2028 year before 28 February 2028 to keep it continuous; after that date a lapsed member rejoins under the half-year window instead. Student rate is good for up to eight cumulative years. Renew at ieee.org -> Sign In -> Renew My Membership.
+SUMMARY:CHECK: IEEE membership - 2028 dues are charged automatically (cover runs to 31 Dec 2027)
+DESCRIPTION:IEEE student membership. Joined 16 Sep 2026, US$27 student rate, and by IEEE's own window rule (applications 16 Aug to 28 Feb are processed as the FOLLOWING year's full-year membership, services start immediately) this covers the 2027 membership year through 31 December 2027. So nothing needs paying by hand - and ==automatic renewal is ON==: opted in 16 Sep 2026 ("At the beginning of each membership year\, you will automatically be charged for the next membership period")\, with IEEE emailing a reminder before the card is charged. Card on file is a MasterCard\; the 16 Sep 2026 order was the US$27.00 student rate. Read this entry as a CHECK that the 2028 charge went through and that the card is still valid - or as the moment to switch automatic renewal off in the IEEE account if you would rather pay each year. If the charge fails\, cover ends 31 Dec 2027. Renew for the 2028 year before 28 February 2028 to keep it continuous; after that date a lapsed member rejoins under the half-year window instead. Student rate is good for up to eight cumulative years. Renew at ieee.org -> Sign In -> Renew My Membership.
 URL:https://www.ieee.org/membership/renew.html
 END:VEVENT
 BEGIN:VEVENT
