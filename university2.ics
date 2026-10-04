@@ -1015,11 +1015,11 @@ URL:https://www.hkxfoundation.org/innoxcamp
 END:VEVENT
 BEGIN:VEVENT
 UID:ieeextreme-masterclass-2026@hkmu
-DTSTAMP:20261003T160000Z
+DTSTAMP:20261004T151545Z
 DTSTART;TZID=Asia/Hong_Kong:20261010T210000
 DTEND;TZID=Asia/Hong_Kong:20261011T020000
 SUMMARY:IEEEXtreme 20.0 MasterClass (Webex) 21:00-02:00 HKT
-DESCRIPTION:Covers the new hybrid format: AI-enabled vs AI-prohibited challenges. 9:00am-2:00pm EDT on 10 Oct = 21:00 Sat 10 Oct to 02:00 Sun 11 Oct HKT. Register through the Webex link in the IEEE mail (ieee-xtreme@deliver.ieee.org\, 2 Oct 2026). No published closing time - register before the session starts.
+DESCRIPTION:Covers the new hybrid format: AI-enabled vs AI-prohibited challenges. 9:00am-2:00pm EDT on 10 Oct = 21:00 Sat 10 Oct to 02:00 Sun 11 Oct HKT. Register through the Webex link in the IEEE mail (ieee-xtreme@deliver.ieee.org\, 2 Oct 2026). No published closing time - register before the session starts.\n==REGISTERED 4 Oct 2026== - Webex auto-approved the registration (confirmation mail from messenger@webex.com received the same evening). The IEEE membership number was NOT captured at registration; it is required at the IEEEXtreme team registration instead (deadline 17 Oct 23:59 GMT).
 URL:https://ieeextreme.org/
 CATEGORIES:Competition
 END:VEVENT
