@@ -1073,4 +1073,20 @@ DESCRIPTION:Teams may upload their own code libraries (up to 100 KB) to the CSAc
 URL:https://ieeextreme.org/rules/
 CATEGORIES:Competition
 END:VEVENT
+BEGIN:VEVENT
+UID:32697bf7751cedf7af3fa141fd976f4d@hkmu
+DTSTAMP:20261005T101711Z
+DTSTART;TZID=Asia/Hong_Kong:20261010T133000
+DTEND;TZID=Asia/Hong_Kong:20261010T150000
+SUMMARY:ELEC 3050SEF Tutorial 2 - review answers + submit (DUE Sun 11 Oct 23:59)
+DESCRIPTION:Answers are complete in the vault note (05 Tutorial 2 in the course folder). Read it through, check Q4 arithmetic, then submit Tutorial2-14463982.pdf on OLE. Files: Downloads/HKMU/ELEC 3050SEF/Week 5/
+END:VEVENT
+BEGIN:VEVENT
+UID:c989c65aa800337de8679612f8372556@hkmu
+DTSTAMP:20261005T101711Z
+DTSTART;TZID=Asia/Hong_Kong:20261011T235900
+DTEND;TZID=Asia/Hong_Kong:20261011T235900
+SUMMARY:ELEC 3050SEF Tutorial 2 - DUE 23:59 (submit Tutorial2-14463982.pdf)
+DESCRIPTION:OLE dropbox (the one numbered Assign 5). Required format: Tutorial2-[studentID].pdf. The professor's answers were the key; the complete version is the vault note.
+END:VEVENT
 END:VCALENDAR
