@@ -653,7 +653,7 @@ UID:d0d8aba57eec5fef75cb98d66565405a@hkmu
 DTSTAMP:20260925T170000Z
 DTSTART;TZID=Asia/Hong_Kong:20260926T140000
 DTEND;TZID=Asia/Hong_Kong:20260926T153000
-SUMMARY:Techathon+: complete portal profile + message teams (esp. FleetSense)
+SUMMARY:Techathon+: finish portal profile (bio, skills, LinkedIn, photo) + message Diabetic Foot (Kitty), then DecoyAI
 DESCRIPTION:One sitting: finish the portal profile\, paste the locked bio\, upload the picture\, then send the FleetSense lead a message (draft in the vault note 'HK Techathon+ 11th Edition'). Nothing sends without you pressing it.
 CATEGORIES:Techathon
 END:VEVENT
@@ -1088,5 +1088,49 @@ DTSTART;TZID=Asia/Hong_Kong:20261011T235900
 DTEND;TZID=Asia/Hong_Kong:20261011T235900
 SUMMARY:ELEC 3050SEF Tutorial 2 - DUE 23:59 (submit Tutorial2-14463982.pdf)
 DESCRIPTION:OLE dropbox (the one numbered Assign 5). Required format: Tutorial2-[studentID].pdf. The professor's answers were the key; the complete version is the vault note.
+END:VEVENT
+BEGIN:VEVENT
+UID:2f2eaf6970d64c9b01d6b2d983ebec84@hkmu
+DTSTAMP:20261007T170019Z
+DTSTART;TZID=Asia/Hong_Kong:20261011T230000
+DTEND;TZID=Asia/Hong_Kong:20261011T235900
+SUMMARY:Therapeutic Yoga Workshop - registration DUE 11 Oct (classes Thu 15 or 22 Oct 18:00-19:55)
+DESCRIPTION:Wellness Fest Oct 2026. Classes Thu 15 or 22 Oct, 18:00-19:55, Vibrance Hub, 5/F Ho Sik Yee Library (JCC). Pick one session. Quota FCFS, confirmation by 13 Oct. Register: hkmu.qualtrics.com/jfe/form/SV_8jenoGoFOqK23RQ
+URL:https://hkmu.qualtrics.com/jfe/form/SV_8jenoGoFOqK23RQ
+END:VEVENT
+BEGIN:VEVENT
+UID:dd4342499493cf86c9fd743af7d15105@hkmu
+DTSTAMP:20261007T170019Z
+DTSTART;TZID=Asia/Hong_Kong:20261017T110000
+DTEND;TZID=Asia/Hong_Kong:20261017T140000
+SUMMARY:M+ guided visit (Design Ah! + Myths and Monsters) 11:00-14:00
+DESCRIPTION:M+ West Kowloon. HK$70 deposit, fully refunded after attendance. Counts 3 Metro FAITH hours. Register: hkmu.qualtrics.com/jfe/form/SV_06qTVZBIGTmCab4
+URL:https://hkmu.qualtrics.com/jfe/form/SV_06qTVZBIGTmCab4
+END:VEVENT
+BEGIN:VEVENT
+UID:f5de06a76861f5a1fffd2d54f4247693@hkmu
+DTSTAMP:20261007T170019Z
+DTSTART;TZID=Asia/Hong_Kong:20261027T130000
+DTEND;TZID=Asia/Hong_Kong:20261027T141500
+SUMMARY:DIY Pet Scarf Workshop 13:00-14:15 (Metro FAITH)
+DESCRIPTION:Room F0319, 3/F Jockey Club Institute of Healthcare. Cantonese. HK$125 deposit (refunded on full attendance). 1 FAITH hour. Register: hkmu.qualtrics.com/jfe/form/SV_0GOyS4Mo8suXiEC
+URL:https://hkmu.qualtrics.com/jfe/form/SV_0GOyS4Mo8suXiEC
+END:VEVENT
+BEGIN:VEVENT
+UID:d9a2bffb833d111882c243cf096e9a4a@hkmu
+DTSTAMP:20261007T170019Z
+DTSTART;TZID=Asia/Hong_Kong:20261030T100000
+DTEND;TZID=Asia/Hong_Kong:20261030T120000
+SUMMARY:Workplace Etiquette workshop 10:00-12:00 - register by 26 Oct
+DESCRIPTION:F0318, IOH. Free with HK$50 deposit (refunded on attendance). 5-step workplace email writing. 2 FAITH hours. Register: hkmu.qualtrics.com/jfe/form/SV_bw119R03mJyER2m
+URL:https://hkmu.qualtrics.com/jfe/form/SV_bw119R03mJyER2m
+END:VEVENT
+BEGIN:VEVENT
+UID:dab49436585e06c0f7885f6c36e6143e@hkmu
+DTSTAMP:20261007T170019Z
+DTSTART;TZID=Asia/Hong_Kong:20261016T230000
+DTEND;TZID=Asia/Hong_Kong:20261017T070000
+SUMMARY:HKMU FMO power shutdown (Blocks A+B closed) 23:00 - vacate before
+DESCRIPTION:Total power suspension 23:00 Fri 16 Oct to 07:00 Sat 17 Oct (lighting, AC, lifts, sockets, water). All students must vacate before 23:00 Fri; access (incl. learning commons) barred until power restored. Same weekend as the IT outage 22:00 Fri - 12:00 Sat.
 END:VEVENT
 END:VCALENDAR
