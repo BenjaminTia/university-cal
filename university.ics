@@ -663,7 +663,7 @@ DTSTAMP:20261002T131812Z
 DTSTART;TZID=Asia/Hong_Kong:20261009T143000
 DTEND;TZID=Asia/Hong_Kong:20261009T163000
 SUMMARY:Techathon+ CUHK Campus Mixer "From Student to CXO" 14:30-16:30
-DESCRIPTION:LT2, YIA, CUHK. Fireside chat with Prof LAU Victor and four CUHK deep-tech CXOs, plus an official team-up session. Registration is through CUHK's own webform (cloud.itsc.cuhk.edu.hk/webform/view.php?id=13740788), so it may be CUHK students only\; HKMU runs its own campus mixer. Source: hktechathon.com resources (checked 2 Oct 2026).
+DESCRIPTION:LT2, YIA, CUHK. OPEN TO NON-CUHK: webform has 'Your CUHK SID (If no, enter NA)' and 'Relationship with CUHK: Other'; Zoom attendance offered too. Fireside: Dr Victor Lau moderates four CUHK deep-tech alumni CXOs, plus official Techathon+ team-up and ecosystem networking. Register: cloud.itsc.cuhk.edu.hk/webform/view.php?id=13740788 (verified open 8 Oct 2026).
 URL:https://www.hktechathon.com/en/resources/view/32
 CATEGORIES:Techathon
 END:VEVENT
