@@ -1133,4 +1133,13 @@ DTEND;TZID=Asia/Hong_Kong:20261017T070000
 SUMMARY:HKMU FMO power shutdown (Blocks A+B closed) 23:00 - vacate before
 DESCRIPTION:Total power suspension 23:00 Fri 16 Oct to 07:00 Sat 17 Oct (lighting, AC, lifts, sockets, water). All students must vacate before 23:00 Fri; access (incl. learning commons) barred until power restored. Same weekend as the IT outage 22:00 Fri - 12:00 Sat.
 END:VEVENT
+BEGIN:VEVENT
+UID:fe3e70e7-2683-46ec-b14d-cbb268c3819b@hkmu
+DTSTAMP:20261008T050000Z
+DTSTART;TZID=Asia/Hong_Kong:20261022T200000
+DTEND;TZID=Asia/Hong_Kong:20261022T213000
+SUMMARY:Red Cross "SeeUZoom+" seminar — Dysphagia & Inclusive Dining 20:00-21:30 (Zoom)
+DESCRIPTION:Online Zoom, Cantonese. Guest: speech therapist TANG Ho-wa (言語有限公司) on dysphagia-friendly dining and inclusive employment. 2 FAITH hours (仁). Register: https://s.redcross.org.hk/seeuzoomreg1022 DUE Wed 14 Oct 23:59. Source: SAO email 5 Oct 2026.
+CATEGORIES:FAITH
+END:VEVENT
 END:VCALENDAR
