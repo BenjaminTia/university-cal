@@ -1103,4 +1103,12 @@ SUMMARY:Red Cross "SeeUZoom+" seminar — Dysphagia & Inclusive Dining 20:00-21:
 DESCRIPTION:Online Zoom, Cantonese. Guest: speech therapist TANG Ho-wa (言語有限公司) on dysphagia-friendly dining and inclusive employment. 2 FAITH hours (仁). Register: https://s.redcross.org.hk/seeuzoomreg1022 DUE Wed 14 Oct 23:59. Source: SAO email 5 Oct 2026.
 CATEGORIES:FAITH
 END:VEVENT
+BEGIN:VEVENT
+UID:gujizai-kehan-intro-20261011@hkmu
+DTSTAMP:20261009T111243Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY:Gujizai — meeting with Kehan (TIME TBC)
+DESCRIPTION:Sun 11 Oct 2026. Exact time and format/link to confirm with Kehan. Discuss current prototype\, Benjamin’s role and the first demo.
+END:VEVENT
 END:VCALENDAR
