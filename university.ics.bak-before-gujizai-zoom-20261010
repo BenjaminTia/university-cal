@@ -1088,10 +1088,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gujizai-kehan-intro-20261011@hkmu
 DTSTAMP:20261009T111243Z
-DTSTART;TZID=Asia/Hong_Kong:20261011T150000
-DTEND;TZID=Asia/Hong_Kong:20261011T160000
-SUMMARY:Gujizai intro Zoom with Kehan
-DESCRIPTION:Sun 11 Oct 2026 15:00-16:00 HKT. Zoom us05web.zoom.us/j/82715134546 | ID 827 1513 4546 | Passcode NaX5sE. Prepare: current prototype\, Benjamin’s role\, first demo.
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY:Gujizai — meeting with Kehan (TIME TBC)
+DESCRIPTION:Sun 11 Oct 2026. Exact time and format/link to confirm with Kehan. Discuss current prototype\, Benjamin’s role and the first demo.
 END:VEVENT
 BEGIN:VEVENT
 UID:2834ce23ce55f6f6ddbbbe2923558f18@hkmu
