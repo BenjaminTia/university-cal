@@ -4,6 +4,14 @@ PRODID:-//Hermes//HKMU A2026 v3//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
+UID:e277826476ce94e747dcc6e78af1255d@hkmu
+DTSTAMP:20261010T141207Z
+DTSTART;TZID=Asia/Hong_Kong:20261015T170000
+DTEND;TZID=Asia/Hong_Kong:20261015T180000
+SUMMARY:COMP 3500 - Zoom meeting (class assignment) 17:00
+DESCRIPTION:COMP 3500SEF Software Engineering. Zoom meeting for the class assignment at 17:00 (5 pm). End time assumed 18:00 - confirm. Link not yet recorded. Ties to the Requirement Engineering assignment (OLE Assign 2\, DUE Tue 20 Oct) and the group project (50% of the course). Thu class is ELEC 3630 09:00-11:50\; yoga workshop option starts 18:00.
+END:VEVENT
+BEGIN:VEVENT
 UID:6658ef7e2bfc431aa9f15c8ff8bac221@hkmu
 DTSTAMP:20260908T161340Z
 DTSTART;TZID=Asia/Hong_Kong:20260909T160000
@@ -1138,5 +1146,13 @@ DTEND;TZID=Asia/Hong_Kong:20261011T235900
 SUMMARY:SFC Winter Internship 2026 — APPLY DUE (conditional)
 DESCRIPTION:IT majors listed\; needs English AND Chinese\; 6 weeks full-time winter. Lower priority than HKPC unless language/timetable work. Employer R00337.
 URL:https://sfc.wd3.myworkdayjobs.com/en-US/SFCCareerSite/job/Winter-Internship-Programme-2026_R00337
+END:VEVENT
+BEGIN:VEVENT
+UID:df249d817035af33147fe129899d2177@hkmu
+DTSTAMP:20261010T160138Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:HKU SPACE graduation certificate — collection window OPENS (KEC\, Kowloon Bay)
+DESCRIPTION:Collect in person from the KEC College Office\, 2/F Lee Shiu Building\, 28 Wang Hoi Road\, Kowloon Bay. Mon-Fri 09:30-17:00\; the collection window runs 12 Oct - 30 Dec 2026 (ref Grad_AD113_AENG-EE-02). Bring the 16 Sep 07:33 email plus HKID or passport\; a representative needs the printed authorisation form plus a copy of your ID. Queries: Examination Team 3762 2372.
 END:VEVENT
 END:VCALENDAR
